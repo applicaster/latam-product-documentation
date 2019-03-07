@@ -1,9 +1,5 @@
 # Live Switcher
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ## What is it?
 
 The live switcher is a full screen plugin designed for video streaming purposes. It displays a set of channels or live events related to a specific context.
@@ -149,15 +145,15 @@ Please follow the next steps to add Live Switcher to your application.
 
 2.- Go to the Plugins and search for LiveChannelsReactNative. Add it to your layouts.
 
-![Semantic description of image](https://drive.google.com/uc?id=1WrJZ4SOHOR-t1jVMeQ4vr6zATwnRG6pQ)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_2.png)
 
 3.- Go to layouts in the main side menu. Select Add Screen from the bottom of the layouts list, search for Video Playlist and add it to your current screen.
 
-![Semantic description of image](https://drive.google.com/uc?id=1j_-wRBgIO5vq7iHtny0OCqjTxYC3rmmu)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_3.png)
 
 4.- Select the Video Playlist layout and follow the instructions below.
 
-![Semantic description of image](https://drive.google.com/uc?id=16qinFB5rDyEzoN5u_WeEPijjPPP-z_g3)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_4.png)
 
 ##### Data Section
 -Select Json Feed as Type.
