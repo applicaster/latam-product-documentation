@@ -145,7 +145,7 @@ Please follow the next steps to add Live Switcher to your application.
 
 1.- Once the data feed(described in this document) is available, go to the Feed section, with JSON Feed data type.
 
-![Semantic description of image](https://drive.google.com/uc?id=1fWMq7vqSxLNrNAtFWNXKImbIcPbzezjo)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_1.png)
 
 2.- Go to the Plugins and search for LiveChannelsReactNative. Add it to your layouts.
 
