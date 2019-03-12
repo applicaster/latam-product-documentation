@@ -1,0 +1,167 @@
+{
+    "api": {
+        "require_startup_execution": false,
+        "class_name": "com.applicaster.reactnative.plugins.APReactNativeAdapter",
+        "modules": [
+            "com.brentvatne.react.ReactVideoPackage",
+            "com.applicaster.reactnative.feedrnutils.FeedRNUtilsPackage"
+        ]
+    },
+    "dependency_repository_url": [],
+    "platform": "android",
+    "author_name": "Carlos Pinto",
+    "author_email": "c.pinto@applicaster.com",
+    "manifest_version": "1.0.6",
+    "screen": true,
+    "name": "VideoPlaylist",
+    "description": "React-Native Component which includes a playlist of either videos or programs",
+    "type": "general",
+    "identifier": "video_playlist",
+    "ui_builder_support": true,
+    "whitelisted_account_ids": [
+        "5a67970eacc8d7000cf98db0",
+        "5a70d5d932fd2d0008d7b5b8",
+        "5a70d95b32fd2d0013d7b5b8",
+        "56e13de23336651221000000",
+        "56e995a13234300018000000",
+        "5a53d5ec9349a1000ecadf69",
+        "5c37c985410b00000ea8d3b1"
+    ],
+    "thumbnail": {
+        "height": 36,
+        "url": "https://assets-secure.applicaster.com/static/nilo_assets/screen_thumbnail.png",
+        "width": 160
+    },
+    "preview": {
+        "general": [
+            {
+                "height": 976,
+                "url": "https://assets-secure.applicaster.com/static/playlist_plugin_assets/screenshot1.png",
+                "width": 640
+            }
+        ]
+    },
+    "min_zapp_sdk": "5.4.0b7",
+    "deprecated_since_zapp_sdk": "",
+    "unsupported_since_zapp_sdk": "",
+    "react_native": true,
+    "react_bundle_url": "http://assets-production.applicaster.com/zapp/react-native-bundles/APVideoPlaylist-RN/android/index.android.bundle",
+    "extra_dependencies": [],
+    "npm_dependencies": [
+        "@applicaster/react-native-video@^1.0.0",
+        "@applicaster/feed-rn-utils@^1.0.19"
+    ],
+    "project_dependencies": [
+        {
+            "react-native-video": "node_modules/@applicaster/react-native-video/android"
+        },
+        {
+            "feedrnutils": "node_modules/@applicaster/feed-rn-utils/android"
+        }
+    ],
+    "styles": {
+        "fields": [
+            {
+                "key": "background_color",
+                "label": "Background Color",
+                "type": "color_picker",
+                "initial_value": "rgba(43,43,43, 1)",
+                "label_tooltip": "Background color of the playlist."
+            },
+            {
+                "key": "active_bg",
+                "label": "Active Background Color",
+                "type": "color_picker",
+                "initial_value": "rgba(25,170,85, 1)",
+                "label_tooltip": "Background color for active item"
+            },
+            {
+                "key": "live_label_bg",
+                "label": "Live Label Background Color",
+                "type": "color_picker",
+                "initial_value": "rgba(255,255,255,1)",
+                "label_tooltip": "Background color for live tag"
+            },
+            {
+                "key": "live_label_color",
+                "label": "Live Label Color",
+                "type": "color_picker",
+                "initial_value": "rgba(196,196,196, 1)",
+                "label_tooltip": "Color for the live tag title"
+            },
+            {
+                "key": "circle_border",
+                "label": "Circle Border",
+                "type": "color_picker",
+                "initial_value": "rgba(22,22,22, 1)",
+                "label_tooltip": "Border color for circle button"
+            },
+            {
+                "key": "separator_bg_color",
+                "label": "Separator Background Color",
+                "type": "color_picker",
+                "initial_value": "rgba(22,22,22, 1)",
+                "label_tooltip": "Background color for separator"
+            },
+            {
+                "key": "separator_title_color",
+                "label": "Separator Title Color",
+                "type": "color_picker",
+                "initial_value": "rgba(22,22,22, 1)",
+                "label_tooltip": "Color for the separator title"
+            }
+        ]
+    },
+    "data": {
+        "fields": [
+            {
+                "key": "source",
+                "type": "text_input"
+            },
+            {
+                "key": "type",
+                "type": "select"
+            }
+        ]
+    },
+    "general": {
+        "fields": [
+            {
+                "key": "contentMode",
+                "label": "Content Type",
+                "initial_value": "videoPlaylist",
+                "label_tooltip": "Select between displaying a list of videos or a list of live channel programs.",
+                "type": "select",
+                "options": [
+                    {
+                        "text": "Video Playlist",
+                        "value": "videoPlaylist"
+                    },
+                    {
+                        "text": "Channel Switcher",
+                        "value": "liveSwitcher"
+                    }
+                ]
+            },
+            {
+                "key": "screenId",
+                "label": "Screen Id",
+                "label_tooltip": "Enter the screen id that corresponds to the connected screen to display the search results in (i.e. Show Screen with List component for episodes).",
+                "type": "text_input"
+            }
+        ]
+    },
+    "custom_configuration_fields": [
+        {
+            "key": "ios_assets_bundle",
+            "type": "uploader",
+            "default": "https://assets-production.applicaster.com/static/videoplaylist_assets/ios_assets.zip"
+        },
+        {
+            "key": "android_assets_bundle",
+            "type": "uploader",
+            "default": "https://assets-production.applicaster.com/static/videoplaylist_assets/android_assets.zip"
+        }
+    ],
+    "configuration_panel_disabled": true
+}
