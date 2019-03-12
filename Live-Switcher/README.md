@@ -47,28 +47,28 @@ Here you can find in detail manner the fields and data necessary to build the sp
 
 Parameter | Description | Type
 ---------|----------|---------
- **type** | "An object containing a value. This used to give meaning to this section. | **Object**
+ |**type** | An object containing a value. This used to give meaning to this section. | **Object**|
  ||-**value** : A **string** that references the use for this Json response. For this context “feed” shall be the value." ||
- **title** |	A string to describe the feed.	| **String**
- **entry**|	List of entry Object defining the program schedule for an specific channel or live event.	|**Object**
- **extensions**	|An object to specify custom key/value pairs or json objects. Refer to extensions Object.	|**Object**
+ |**title** |	A string to describe the feed.	| **String**|
+ |**entry**|	List of entry Object defining the program schedule for an specific channel or live event.	|**Object**|
+ |**extensions**	|An object to specify custom key/value pairs or json objects. Refer to extensions Object.	|**Object**|
 
 ### Entry Object
 
 Parameter | Description | Type
 ---------|----------|---------
- **type** | "An object containing a value. This used to give meaning to this section. | **Object**
+ |**type** | An object containing a value. This used to give meaning to this section. | **Object**|
  ||- **value** : A **string** that references the use for this json response. For this context “**program**” shall be the value.|
- **id** | A numeric incremental value to identify the entry object. | **Integer**
- **author** | Does not apply for this particular context | **String**
- **summary** | A string with a brief description of the program. | **String**
- **media_group** | An object that can contain different types of media item objects.| **Object**
- ||- **type** : Indicates how the media_item object should be treated. For this context “image” shall be used. This image will graphically reference the video content.|
- ||- **media_item** : refer to media_item Object.|
- **content** | An object that can be used to defined the media referenced by the entry.| **Object**
+ |**id** | A numeric incremental value to identify the entry object. | **Integer**|
+ |**author** | Does not apply for this particular context | **String**|
+ |**summary** | A string with a brief description of the program. | **String**|
+ |**media_group** | An object that can contain different types of media item objects.| **Object**|
+ ||- **type** : Indicates how the media_item object should be treated. For this context “image” shall be used. This image will graphically reference the video content.||
+ ||- **media_item** : refer to media_item Object.||
+ |**content** | An object that can be used to defined the media referenced by the entry.| **Object**|
  ||- **type** : Indicates the type of media content is referenced by the entry. For this context **“video/hls”** shall be used.||
- ||- **src** : A **url string** referencing the media asset source.|
- **extensions** | An object to specify custom key/value pairs or json objects. For this context the following key/value pairs shall be considered:|**Object**
+ ||- **src** : A **url string** referencing the media asset source.||
+ |**extensions** | An object to specify custom key/value pairs or json objects. For this context the following key/value pairs shall be considered:|**Object**|
  ||- **start_time** : timestamp indicting the beginning of the timeframe cover by the specific entry. Format *YYYY-MM-DDThh:mm:ss—hhmm*.||
  ||- **end_time** : timestamp indicting the beginning of the timeframe cover by the specific entry. Format *YYYY-MM-DDThh:mm:ss—hhmm*.|| 
  ||- **applicaster_channel_id** : A incremental integer referencing the live channel configured in Applicaster 2." ||
@@ -77,24 +77,24 @@ Parameter | Description | Type
 
 Parameter | Description | Type
 ---------|----------|---------
- **src** | A **url string** referencing to the media asset source. | **String**
- **key** | A **string** to identify among other the media_item objects.  | **String**
- **type** | A **string** to define the kind of media asset. | **Object**
+ |**src** | A **url string** referencing to the media asset source. | **String**|
+ |**key** | A **string** to identify among other the media_item objects.  | **String**|
+ |**type** | A **string** to define the kind of media asset. | **Object**|
 
 
 ### Extensions Object
 
 Parameter | Description | Type
 ---------|----------|---------
- **channels** | "A custom  **array** field containing channel objects for this particular context.|**Array**
+ |**channels** | "A custom  **array** field containing channel objects for this particular context.|**Array**|
  ||- **Channel Object**: An object containing specific data for each live channel. Refer to channel Object. | 
 
  ### Channel Object
 Parameter | Description | Type
 ---------|----------|---------
- **name** | A  **string** to define the name of a specific channel. | **Array**
- **id** | A incremental  **integer** referencing to which Applicaster channel the data belongs to. | **Array**
- **logo** | A  **string** url referencing the media asset source. This image will be displayed as the logo for the specific channel. | **Array**
+| **name** | A  **string** to define the name of a specific channel. | **Array**|
+| **id** | A incremental  **integer** referencing to which Applicaster channel the data belongs to. | **Array**
+| **logo** | A  **string** url referencing the media asset source. This image will be displayed as the logo for the specific channel. | **Array**|
 
 ## Feed Example
 ```
