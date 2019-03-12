@@ -1,0 +1,35 @@
+{
+    "api": {
+        "require_startup_execution": false,
+        "class_name": "com.applicaster.analytics.chartbeat.ChartbeatAnalyticsAgent"
+    },
+    "dependency_repository_url": [],
+    "platform": "android",
+    "author_name": "Juan Hernandez",
+    "author_email": "j.hernandez@applicaster.com",
+    "manifest_version": "0.4.0",
+    "name": "Chartbeat Analytics",
+    "description": "Chartbeat analytics provider plugin, to be used by Zapp apps",
+    "type": "analytics",
+    "identifier": "ChartbeatAnalytics",
+    "ui_builder_support": true,
+    "dependency_name": "com.applicaster:ChartbeatAnalyticsPlugin-Android",
+    "dependency_version": "0.4.0",
+    "whitelisted_account_ids": [],
+    "min_zapp_sdk": "6.2.0",
+    "deprecated_since_zapp_sdk": "",
+    "unsupported_since_zapp_sdk": "",
+    "react_native": false,
+    "custom_configuration_fields": [
+        {
+            "type": "text",
+            "key": "account_id",
+            "tooltip_text": "The Chartbeat Account Id provided by the client"
+        },
+        {
+            "type": "text",
+            "key": "domain",
+            "tooltip_text": "The dashboard domain to report analytics"
+        }
+    ]
+}
