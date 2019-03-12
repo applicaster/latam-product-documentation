@@ -50,7 +50,7 @@ In the app pluigin configuration add the aforementioned keys:
 ![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Chartbeat/ss_1.png)
 
 
-# Contant Third Party
+# Contact Third Party
 [Click Here](https://chartbeat.com) to learn more about Cheartbeat. 
 
 
