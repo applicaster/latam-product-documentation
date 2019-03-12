@@ -1,4 +1,5 @@
 
+# Chartbeat
 
 *Built by LATAM Team*
 
@@ -32,9 +33,13 @@ The plugin will allow your application to gather information as follows:
 ## Configuration
 
 1.- The client needs to have an account with Chartbeat
-2.- The client should provide the two following items:
+2.- The client should provide the two following keys:
 - Account Id
 - Domain
+
+In the app pluigin configuration add the aforementioned keys:
+
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Chartbeat/ss_1.png)
 
 
 # Contant Third Party
