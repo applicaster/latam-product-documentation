@@ -39,55 +39,48 @@ Due to its video nature the live switcher experience can be improved by adding o
 
 Here you can find in detail manner the fields and data necessary to build the specific structure. Keep in mind this structure will define an EPG for single or multiple live channels or live events.
 
+
+
 Parameter | Description | Type
 ---------|----------|---------
- **type** | "An object containing a value. This used to give meaning to this section. | **Object**
- ||-**value** : A **string** that references the use for this Json response. For this context “feed” shall be the value." ||
- **title** |	A string to describe the feed.	| **String**
- **entry**|	List of entry Object defining the program schedule for an specific channel or live event.	|**Object**
- **extensions**	|An object to specify custom key/value pairs or json objects. Refer to extensions Object.	|**Object**
+ <span style="color:red"> type </span> | "An object containing a value. This used to give meaning to this section. <br/><br/>- **value** : A <span style="color:red">string</span> that references the use for this Json response. For this context “feed” shall be the value." | <span style="color:blue"> Object </span>
+ <span style="color:red">title</span> |	A string to describe the feed.	| <span style="color:blue"> String </span>
+ <span style="color:red">entry</span>|	List of entry Object defining the program schedule for an specific channel or live event.	|<span style="color:blue"> Object </span>
+ <span style="color:red">extensions</span>	|An object to specify custom key/value pairs or json objects. Refer to extensions Object.	|<span style="color:blue"> Object </span>
 
 ### Entry Object
 
 Parameter | Description | Type
 ---------|----------|---------
- **type** | "An object containing a value. This used to give meaning to this section. | **Object**
- ||- **value** : A **string** that references the use for this json response. For this context “**program**” shall be the value.|
- **id** | A numeric incremental value to identify the entry object. | **Integer**
- **author** | Does not apply for this particular context | **String**
- **summary** | A string with a brief description of the program. | **String**
- **media_group** | An object that can contain different types of media item objects.| **Object**
- ||- **type** : Indicates how the media_item object should be treated. For this context “image” shall be used. This image will graphically reference the video content.|
- ||- **media_item** : refer to media_item Object.|
- **content** | An object that can be used to defined the media referenced by the entry.| **Object**
- ||- **type** : Indicates the type of media content is referenced by the entry. For this context **“video/hls”** shall be used.||
- ||- **src** : A **url string** referencing the media asset source.|
- **extensions** | An object to specify custom key/value pairs or json objects. For this context the following key/value pairs shall be considered:|**Object**
- ||- **start_time** : timestamp indicting the beginning of the timeframe cover by the specific entry. Format *YYYY-MM-DDThh:mm:ss—hhmm*.||
- ||- **end_time** : timestamp indicting the beginning of the timeframe cover by the specific entry. Format *YYYY-MM-DDThh:mm:ss—hhmm*.|| 
- ||- **applicaster_channel_id** : A incremental integer referencing the live channel configured in Applicaster 2." ||
+ <span style="color:red">type</span> | "An object containing a value. This used to give meaning to this section.<br/><br/>- **value** : A <span style="color:red">string</span> that references the use for this json response. For this context “**program**” shall be the value.| <span style="color:blue">Object</span>
+ <span style="color:red">id</span> | A numeric incremental value to identify the entry object. | <span style="color:blue">Integer</span>
+ <span style="color:red">author</span> | Does not apply for this particular context | <span style="color:blue">String</span>
+ <span style="color:red">summary</span> | A string with a brief description of the program. | <span style="color:blue">String</span>
+ <span style="color:red">media_group</span> | "An object that can contain different types of media item objects.<br/><br/>- **type** : Indicates how the media_item object should be treated. For this context “image” shall be used. This image will graphically reference the video content.<br/>- **media_item** : refer to media_item Object.| <span style="color:blue">Object</span>
+ <span style="color:red">content</span> | "An object that can be used to defined the media referenced by the entry.<br/><br/>- **type** : Indicates the type of media content is referenced by the entry. For this context **“video/hls”** shall be used.<br/>- **src** : A <span style="color:red">url string</span> referencing the media asset source.| <span style="color:blue">Object</span>
+ <span style="color:red">extensions</span> | "An object to specify custom key/value pairs or json objects. For this context the following key/value pairs shall be considered:<br/><br/>- **start_time** : timestamp indicting the beginning of the timeframe cover by the specific entry. Format <span style="color:green">*YYYY-MM-DDThh:mm:ss—hhmm*</span>.<br/><br/>- **end_time** : timestamp indicting the beginning of the timeframe cover by the specific entry. Format <span style="color:green">*YYYY-MM-DDThh:mm:ss—hhmm*</span>.<br/><br/>- **applicaster_channel_id** : A incremental integer referencing the live channel configured in Applicaster 2." | <span style="color:blue">Object</span>
 
  ### Media_item Object
 
 Parameter | Description | Type
 ---------|----------|---------
- **src** | A **url string** referencing to the media asset source. | **String**
- **key** | A **string** to identify among other the media_item objects.  | **String**
- **type** | A **string** to define the kind of media asset. | **Object**
+ <span style="color:red">src</span> | A <span style="color:red">url string</span> referencing to the media asset source. | <span style="color:blue">String</span>
+ <span style="color:red">key</span> | A <span style="color:red">string</span> to identify among other the media_item objects.  | <span style="color:blue">String</span>
+ <span style="color:red">type</span> | A <span style="color:red">string</span> to define the kind of media asset. | <span style="color:blue">Object</span>
 
 
 ### Extensions Object
 
 Parameter | Description | Type
 ---------|----------|---------
- **channels** | "A custom  **array** field containing channel objects for this particular context.<br/><br/>- **Channel Object**: An object containing specific data for each live channel. Refer to channel Object. | **Array**
+ <span style="color:red">channels</span> | "A custom  <span style="color:red">array</span> field containing channel objects for this particular context.<br/><br/>- **Channel Object**: An object containing specific data for each live channel. Refer to channel Object. | <span style="color:blue">Array</span>
 
  ### Channel Object
 Parameter | Description | Type
 ---------|----------|---------
- **name** | A  **string** to define the name of a specific channel. | **Array**
- **id** | A incremental  **integer** referencing to which Applicaster channel the data belongs to. | **Array**
- **logo** | A  **string** url referencing the media asset source. This image will be displayed as the logo for the specific channel. | **Array**
+ <span style="color:red">name</span> | A  <span style="color:red">string</span> to define the name of a specific channel. | <span style="color:blue">Array</span>
+ <span style="color:red">id</span> | A incremental  <span style="color:red">integer</span> referencing to which Applicaster channel the data belongs to. | <span style="color:blue">Array</span>
+ <span style="color:red">logo</span> | A  <span style="color:red">string</span> url referencing the media asset source. This image will be displayed as the logo for the specific channel. | <span style="color:blue">Array</span>
 
 ## Feed Example
 ```
@@ -148,19 +141,19 @@ Please follow the next steps to add Live Switcher to your application.
 
 1.- Once the data feed(described in this document) is available, go to the Feed section, with JSON Feed data type.
 
-![Semantic description of image](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Live-Switcher/ss_1.png)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_1.png)
 
 2.- Go to the Plugins and search for LiveChannelsReactNative. Add it to your layouts.
 
-![Semantic description of image](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Live-Switcher/ss_2.png)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_2.png)
 
 3.- Go to layouts in the main side menu. Select Add Screen from the bottom of the layouts list, search for Video Playlist and add it to your current screen.
 
-![Semantic description of image](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Live-Switcher/ss_3.png)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_3.png)
 
 4.- Select the Video Playlist layout and follow the instructions below.
 
-![Semantic description of image](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Live-Switcher/ss_4.png)
+![Semantic description of image](https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/ss_4.png)
 
 ##### Data Section
 -Select Json Feed as Type.
@@ -170,10 +163,10 @@ Please follow the next steps to add Live Switcher to your application.
 
 ## Notes
 
-#### **Single Channel EPG**
+####<span style="color:#014D7F">Single Channel EPG</span>
 
 Each channel will show an icon to display the entire schedule available. This should follow the normal process to configure an EPG in Applicaster 2. Please Refer to the specific documentation.
 
-#### **Known issues** 
+####<span style="color:#014D7F">Known issues</span> 
 
 The plugin will not respond to the properties under the STYLES section. If customization for styles is needed a developer must hard code the changes.
