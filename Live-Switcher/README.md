@@ -1,6 +1,12 @@
 # Live Switcher
 
-## What is it?
+*Built by LATAM Team*
+
+**Supports:** *iOS and Android*
+*Current Version: 1.0.6*
+
+ 
+## About
 
 The live switcher is a full screen plugin designed for video streaming purposes. It displays a set of channels or live events related to a specific context.
 
