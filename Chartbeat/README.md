@@ -37,6 +37,14 @@ The plugin will allow your application to gather information as follows:
 - Account Id
 - Domain
 
+## Logging Events
+
+This plugin will track the events related to VODs and articles.
+
+When the user plays a video, Chartbeat will track the correspondent view. Also, will track when the user interacts with the video (events like pausing the video, resuming the video, etc.). When the user closes the video, Chartbeat will log this event too.
+
+The same for articles. When the user opens, interacts, or leaves an article, Chartbeat will track it.
+
 In the app pluigin configuration add the aforementioned keys:
 
 ![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Chartbeat/ss_1.png)
