@@ -6,10 +6,10 @@
 *Current Version: 0.4.0 (Android), 5.0.0 (iOS)*
 
  
-##About
+## About
 Boost you editorial team and its strategy with an analytic tool wich knows about the power of data and the importance of understanfing your viewership.
 
-###What needs does it meet?
+### What needs does it meet?
 
 Analytics focused on editorial context and engagement measurement.
 The plugin will allow your application to gather information as follows:
@@ -22,14 +22,14 @@ The plugin will allow your application to gather information as follows:
 - Location
 
 
-###When to use?
+### When to use?
 
 - Editorial insight.
 - The app content is meanly article-form content content.
 - Measure engagement. 
 
 
-##Configuration
+## Configuration
 
 1.- The client needs to have an account with Chartbeat
 2.- The client should provide the two following items:
@@ -37,12 +37,11 @@ The plugin will allow your application to gather information as follows:
 - Domain
 
 
-
-# Provide a link to the vendor's site (if applicable) for customers to learn more
+# Contant Third Party
 [Click Here](https://chartbeat.com) to learn more about Cheartbeat. 
 
 
 
-###Pricing
+### Pricing
 
 Contact Chartbeat for more information.
