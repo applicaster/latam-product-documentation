@@ -80,7 +80,8 @@ Parameter | Description | Type
 
 Parameter | Description | Type
 ---------|----------|---------
- **channels** | "A custom  **array** field containing channel objects for this particular context.<br/><br/>- **Channel Object**: An object containing specific data for each live channel. Refer to channel Object. | **Array**
+ **channels** | "A custom  **array** field containing channel objects for this particular context.|**Array**
+ ||- **Channel Object**: An object containing specific data for each live channel. Refer to channel Object. | 
 
  ### Channel Object
 Parameter | Description | Type
