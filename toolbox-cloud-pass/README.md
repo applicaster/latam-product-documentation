@@ -29,7 +29,7 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
 1.- Toolbox shall provide an apiKey. This apiKey is exclusive for you and is not shared amongst content providers.
 2.- The following paramteres are part of the plugin configuration and will help to have succesfull UI/UX and behavior:
 
-- Android:
+### Android:
   - **shortname (String)**: Content provider shortname (i.e NBC, CBS, PBS, etc...).
   - **apiKey (Hash)**: Unique toolbox apiKey to consume Cloudpass Services.
   - **company_logo_url (URL)**: Logo to display on the header of the cable operator screen.
@@ -45,7 +45,7 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
 ![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/toolbox-cloud-pass/ss_1.png)
 
 
-- iOS:
+### iOS:
   - **shortname (String)**: Content provider shortname (i.e NBC, CBS, PBS, etc...).
   - **apiKey (Hash)**: Unique toolbox apiKey to consume Cloudpass Services.
   - **company_logo_url (URL)**: Logo to display on the header of the cable operator screen.
