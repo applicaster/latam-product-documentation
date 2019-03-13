@@ -51,7 +51,7 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
   - **company_logo_url (URL)**: Logo to display on the header of the cable operator screen.
   - **cable_operator_selection_header_text (String)**: Quick text to give context of this login access.
 
-
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/toolbox-cloud-pass/ss_2.png)
 
 
 
