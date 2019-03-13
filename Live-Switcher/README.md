@@ -166,7 +166,7 @@ Please follow the next steps to add Live Switcher to your application.
 ![Semantic description of image](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Live-Switcher/ss_3.png)
 
 4.- Select the Video Playlist layout and follow the instructions below.
-
+     
 ![Semantic description of image](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Live-Switcher/ss_4.png)
 
 ##### Data Section
