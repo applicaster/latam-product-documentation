@@ -42,7 +42,7 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
 - **logout_dialog_negative_button_text (String)**: Text for the button to cancel the log out action.
  
 
-![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Chartbeat/ss_1.png)
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Toolbox%20Cloud%20Pass/ss_1.png)
 
 
 # Contact Third Party
