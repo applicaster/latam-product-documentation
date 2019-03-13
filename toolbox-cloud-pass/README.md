@@ -42,12 +42,18 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
   - **logout_dialog_positive_button_text (String)**: Text for the button to accept and log out.
   - **logout_dialog_negative_button_text (String)**: Text for the button to cancel the log out action.
 
-- iOS:
-  - 
-
-
-
 ![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/toolbox-cloud-pass/ss_1.png)
+
+
+- iOS:
+  - **shortname (String)**: Content provider shortname (i.e NBC, CBS, PBS, etc...).
+  - **apiKey (Hash)**: Unique toolbox apiKey to consume Cloudpass Services.
+  - **company_logo_url (URL)**: Logo to display on the header of the cable operator screen.
+  - **cable_operator_selection_header_text (String)**: Quick text to give context of this login access.
+
+
+
+
 
 
 # Contact Third Party
