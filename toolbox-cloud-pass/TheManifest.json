@@ -1,0 +1,85 @@
+{
+    "api": {
+        "require_startup_execution": false,
+        "class_name": "com.applicaster.toolbox.login.ToolBoxLoginContract"
+    },
+    "dependency_repository_url": [],
+    "platform": "android",
+    "author_name": "Javier Casaudoumecq",
+    "author_email": "j.casaudoumecq@applicaster.com",
+    "manifest_version": "0.1.5",
+    "name": "ToolBoxCloudPass",
+    "description": "Cable Operator Authentication using ToolBox CloudPass",
+    "type": "login",
+    "identifier": "toolbox_cloudpass",
+    "dependency_name": "com.applicaster:ToolboxCloudPass-Android",
+    "dependency_version": "0.1.5",
+    "ui_builder_support": true,
+    "whitelisted_account_ids": [],
+    "min_zapp_sdk": "5.9.0",
+    "react_native": false,
+    "custom_configuration_fields": [
+        {
+            "type": "text",
+            "key": "shortName",
+            "tooltip_text": "The shortName for the content provider"
+        },
+        {
+            "type": "text",
+            "key": "apiKey",
+            "tooltip_text": "Api key for the content provider"
+        },
+        {
+            "type": "text",
+            "key": "company_logo_url",
+            "tooltip_text": "Logo to display on the header of the cable operator screen"
+        },
+        {
+            "type": "text",
+            "key": "cable_operator_selection_header_text",
+            "tooltip_text": "Text to display on the header of the cable operator screen"
+        },
+        {
+            "type": "colorpicker",
+            "key": "login_navbar_background_color",
+            "tooltip_text": "Login screen top navigation background color",
+            "default": "#FFFFFF"
+        },
+        {
+            "type": "colorpicker",
+            "key": "login_navbar_title_color",
+            "tooltip_text": "Login screen top navigation title color",
+            "default": "#FFFFFF"
+        },
+        {
+            "type": "text",
+            "key": "login_navbar_title",
+            "tooltip_text": "Login screen top navigation title",
+            "default": "Login"
+        },
+        {
+            "type": "text",
+            "key": "logout_dialog_title",
+            "tooltip_text": "Title of the logout dialog",
+            "default": "Logout"
+        },
+        {
+            "type": "text",
+            "key": "logout_dialog_message",
+            "tooltip_text": "Message of the logout dialog",
+            "default": "Logout"
+        },
+        {
+            "type": "text",
+            "key": "logout_dialog_positive_button_text",
+            "tooltip_text": "Text for the positive (ok) button inside the logout dialog",
+            "default": "Ok"
+        },
+        {
+            "type": "text",
+            "key": "logout_dialog_negative_button_text",
+            "tooltip_text": "Text for the negative (cancel) button inside the logout dialog",
+            "default": "Cancel"
+        }
+    ]
+}
