@@ -29,18 +29,23 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
 1.- Toolbox shall provide an apiKey. This apiKey is exclusive for you and is not shared amongst content providers.
 2.- The following paramteres are part of the plugin configuration and will help to have succesfull UI/UX and behavior:
 
-- **shortname (String)**: Content provider shortname (i.e NBC, CBS, PBS, etc...).
-- **apiKey (Hash)**: Unique toolbox apiKey to consume Cloudpass Services.
-- **company_logo_url (URL)**: Logo to display on the header of the cable operator screen.
-- **cable_operator_selection_header_text (String)**: Quick text to give context of this login access.
-- **login_navbar_background_color (HEX Color)**: Login screen top navigation background color.
-- **login_navbar_title_color (HEX Color)**: Login screen top navigation title color.
-- **login_navbar_title (String)**: Commonly one or two words giving context in the main top nav bar of the app.
-- **logout_dialog_title (String)**: Title of the logout dialog. The plugin considers the logout action as well.
-- **logout_dialog_message (String)**: Message to ask the user and make him/her aware of the action about to take place.
-- **logout_dialog_positive_button_text (String)**: Text for the button to accept and log out.
-- **logout_dialog_negative_button_text (String)**: Text for the button to cancel the log out action.
- 
+- Android:
+  - **shortname (String)**: Content provider shortname (i.e NBC, CBS, PBS, etc...).
+  - **apiKey (Hash)**: Unique toolbox apiKey to consume Cloudpass Services.
+  - **company_logo_url (URL)**: Logo to display on the header of the cable operator screen.
+  - **cable_operator_selection_header_text (String)**: Quick text to give context of this login access.
+  - **login_navbar_background_color (HEX Color)**: Login screen top navigation background color.
+  - **login_navbar_title_color (HEX Color)**: Login screen top navigation title color.
+  - **login_navbar_title (String)**: Commonly one or two words giving context in the main top nav bar of the app.
+  - **logout_dialog_title (String)**: Title of the logout dialog. The plugin considers the logout action as well.
+  - **logout_dialog_message (String)**: Message to ask the user and make him/her aware of the action about to take place.
+  - **logout_dialog_positive_button_text (String)**: Text for the button to accept and log out.
+  - **logout_dialog_negative_button_text (String)**: Text for the button to cancel the log out action.
+
+- iOS:
+  - 
+
+
 
 ![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/toolbox-cloud-pass/ss_1.png)
 
