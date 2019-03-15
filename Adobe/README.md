@@ -19,6 +19,7 @@
 
 Adobe Primetime Authentication is a hosted service that serves as a proxy between programmers and MVPD's. It verifies users entitlement to content based on their TV Subscription.
 
+***Note: Adobe Primetime Authentication needs a previous agreement between the client and Adobe. Adobe won't share any type of SDK's or access to the Clientless API unless the aformentioned agreemnet is on place.***
 
 ### What needs does it meet?
 
