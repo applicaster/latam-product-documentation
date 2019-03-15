@@ -35,6 +35,7 @@ Adobe Primetime Authentication is a hosted service that serves as a proxy betwee
 
 ## Configuration
 
+### Service Configuration
 Once the client has aquired a license for Adobe Pass Authentication the following data shall be provided by Adobe:
 
 - Resource ID
@@ -42,9 +43,19 @@ Once the client has aquired a license for Adobe Pass Authentication the followin
 - Secret key
 - Public Key
 
+The aforementioned keys shall be configured in the plugin. The following imsage show the plugin condiguration page, UI cconfigurations are part of it and down below they will be explained.
+
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe/ss_1.png)
+
+### UI configuration
 
 
-
+- **text_color**: Color of the texts present in the screen (excluding button text)
+- **code_bg_color**: Color of the square that contains the activation code
+- **code_text_color**: Color of the text in the activation code
+- **btn_text_color**: Color of the text inside the button
+- **bg_color**: Background color of the screen
+- **btn_bg_color**: Background color of the button
 
 
 # Contact Third Party
