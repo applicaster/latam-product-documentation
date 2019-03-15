@@ -14,8 +14,9 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
 
 ### What needs does it meet?
 
-- Handles the auhentication and authorization through TV Operators users DB.
-- Different levels of authorizarization through the user subscription
+- Authentication, authorization and logout.
+- Levels of authorization.
+- - Seamless integration TV Operators users db.
 
 
 ### When to use?

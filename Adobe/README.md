@@ -16,23 +16,31 @@
 *Note: AndroidTV and FireTV share the same plugin*
 
 ## About
-Adobe Primetime authentication is an entitlement solution for TV Everywhere, providing a modular framework for determining whether someone who requests access to a resource is entitled to it. To participate in the Primetime authentication entitlement solution, Content Providers (Programmers) and Pay TV Providers (MVPDs) integrate their entitlement systems with the Primetime authentication workflows.
 
+Adobe Primetime Authentication is a hosted service that serves as a proxy between programmers and MVPD's. It verifies users entitlement to content based on their TV Subscription.
 
 
 ### What needs does it meet?
 
-- Handles the auhentication and authorization through TV Operators users DB.
-- Different levels of authorizarization through the user subscription.
-
+- Authentication, authorization and logout.
+- Levels of entitlement.
+- Seamless integration to MVPD's users db.
 
 ### When to use?
 
-- Want to show your content but restrict playback to TV Operators subscription
-- There are different levels of premium content
+- Avoid development, infrastructure and/or integration for user workflows.
+- Add different levels of entitlement based on type of Pay TV subscriptions.
+
 
 
 ## Configuration
+
+Once the client has aquired a license for Adobe Pass Authentication the following data shall be provided by Adobe:
+
+- Resource ID
+- Requestor ID
+- Secret key
+- Public Key
 
 
 
