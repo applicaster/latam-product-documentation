@@ -1,85 +1,97 @@
 {
     "api": {
         "require_startup_execution": false,
-        "class_name": "com.applicaster.toolbox.login.ToolBoxLoginContract"
+        "class_name": "com.applicaster.adobeauthproviderplugin.AdobeAuthenticationProviderHandler"
     },
     "dependency_repository_url": [],
     "platform": "android",
-    "author_name": "Javier Casaudoumecq",
-    "author_email": "j.casaudoumecq@applicaster.com",
-    "manifest_version": "0.1.5",
-    "name": "ToolBoxCloudPass",
-    "description": "Cable Operator Authentication using ToolBox CloudPass",
-    "type": "login",
-    "identifier": "toolbox_cloudpass",
-    "dependency_name": "com.applicaster:ToolboxCloudPass-Android",
-    "dependency_version": "0.1.5",
+    "author_name": "Juan Hernandez",
+    "author_email": "j.hernandez@applicaster.com",
+    "manifest_version": "0.1.18",
+    "name": "Adobe Auth Provider Plugin",
+    "description": "Authorize users with Adobe Primetime",
+    "type": "auth_provider",
+    "identifier": "AdobeAccessEnabler=AdobeAuthProvider",
     "ui_builder_support": true,
-    "whitelisted_account_ids": [],
-    "min_zapp_sdk": "5.9.0",
+    "dependency_name": "com.applicaster:AdobeAuthProviderPlugin-AndroidTV",
+    "dependency_version": "0.1.18",
+    "whitelisted_account_ids": [
+        "59c02d2e06b8470013f125b9"
+    ],
+    "min_zapp_sdk": "7.4.0b57",
+    "deprecated_since_zapp_sdk": "",
+    "unsupported_since_zapp_sdk": "",
     "react_native": false,
     "custom_configuration_fields": [
         {
             "type": "text",
-            "key": "shortName",
-            "tooltip_text": "The shortName for the content provider"
+            "key": "resource_id",
+            "tooltip_text": "The resource ID to authorizing"
         },
         {
             "type": "text",
-            "key": "apiKey",
-            "tooltip_text": "Api key for the content provider"
+            "key": "requestor_id",
+            "tooltip_text": "The requestor ID of the user's Adobe Access Enabler account"
         },
         {
             "type": "text",
-            "key": "company_logo_url",
-            "tooltip_text": "Logo to display on the header of the cable operator screen"
+            "key": "secret",
+            "tooltip_text": "The secret of the user's Adobe Access Enabler account"
         },
         {
             "type": "text",
-            "key": "cable_operator_selection_header_text",
-            "tooltip_text": "Text to display on the header of the cable operator screen"
+            "key": "public_key",
+            "tooltip_text": "The public key of the user's Adobe Access Enabler account"
+        },
+        {
+            "type": "text",
+            "key": "registration_url",
+            "tooltip_text": "The registration url the user will go in the browser to authenticate in the app."
         },
         {
             "type": "colorpicker",
-            "key": "login_navbar_background_color",
-            "tooltip_text": "Login screen top navigation background color",
-            "default": "#FFFFFF"
+            "key": "text_color",
+            "tooltip_text": "Text color"
         },
         {
             "type": "colorpicker",
-            "key": "login_navbar_title_color",
-            "tooltip_text": "Login screen top navigation title color",
-            "default": "#FFFFFF"
+            "key": "code_bg_color",
+            "tooltip_text": "Registration code background color"
+        },
+        {
+            "type": "colorpicker",
+            "key": "code_text_color",
+            "tooltip_text": "Registration code text color"
+        },
+        {
+            "type": "colorpicker",
+            "key": "btn_text_color",
+            "tooltip_text": "Button text color"
+        },
+        {
+            "type": "colorpicker",
+            "key": "btn_bg_color",
+            "tooltip_text": "Background button color"
+        },
+        {
+            "type": "colorpicker",
+            "key": "bg_color",
+            "tooltip_text": "Background color of the view"
         },
         {
             "type": "text",
-            "key": "login_navbar_title",
-            "tooltip_text": "Login screen top navigation title",
-            "default": "Login"
+            "key": "logo_img",
+            "tooltip_text": "Logo image"
         },
         {
             "type": "text",
-            "key": "logout_dialog_title",
-            "tooltip_text": "Title of the logout dialog",
-            "default": "Logout"
+            "key": "instructions_text",
+            "tooltip_text": "The text related to the instructions"
         },
         {
             "type": "text",
-            "key": "logout_dialog_message",
-            "tooltip_text": "Message of the logout dialog",
-            "default": "Logout"
-        },
-        {
-            "type": "text",
-            "key": "logout_dialog_positive_button_text",
-            "tooltip_text": "Text for the positive (ok) button inside the logout dialog",
-            "default": "Ok"
-        },
-        {
-            "type": "text",
-            "key": "logout_dialog_negative_button_text",
-            "tooltip_text": "Text for the negative (cancel) button inside the logout dialog",
-            "default": "Cancel"
+            "key": "activation_code_text",
+            "tooltip_text": "The text related to the activation code"
         }
     ]
 }
