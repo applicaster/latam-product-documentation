@@ -43,13 +43,18 @@ Once the client has aquired a license for Adobe Pass Authentication the followin
 - Secret key
 - Public Key
 
-The aforementioned keys shall be configured in the plugin. The following imsage show the plugin condiguration page, UI cconfigurations are part of it and down below they will be explained.
+
+
+The aforementioned keys apply to all Clientless API platforms and shall be configured in the plugin. 
+
+### Android TV
+The following imsage show the plugin condiguration page, UI cconfigurations are part of it and down below they will be explained.
 
 ![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe/ss_1.png)
 
-### UI configuration
+#### UI Configuration
 
-
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe/ss_3.png)
 - **text_color**: Color of the texts present in the screen (excluding button text)
 - **code_bg_color**: Color of the square that contains the activation code
 - **code_text_color**: Color of the text in the activation code
@@ -57,17 +62,17 @@ The aforementioned keys shall be configured in the plugin. The following imsage 
 - **bg_color**: Background color of the screen
 - **btn_bg_color**: Background color of the button
 
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe/ss_2.png)
 
 # Contact Third Party
-[Click Here](https://www.toolboxtve.com/solutions/cloud-pass/) to learn more about Toolbox Cloud Pass. 
-
+[Click Here](http://tve.helpdocsonline.com/home) to learn more about Adobe Primetime Authentication. 
 
 
 ### Pricing
 
-[Click Here](https://chartbeat.com) to learn more about Toolbox Cloud Pass Pricing. 
+[Click Here](https://www.adobe.com/request-consultation/experience-cloud.html) to learn more about Adobe Primetime Authentication. 
 
 
 **Potential Future Features Include:**
 
-Single Sing On (SSO): The user authenticates once through Cloud Pass in one paticular platform. The user keeps the session open and can access content in other platforms without signing in again. This flow can work only if the other platform(s) has Cloud Pass as a login method.
+Single Sing On (SSO): The user authenticates once through Adobe Primetime Authentication in one paticular platform. The user keeps the session open and can access content in other platforms without signing in again. This flow can work only if the other platform(s) are part of Adobe Primetime Authentication.
