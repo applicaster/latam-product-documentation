@@ -4,7 +4,7 @@
 *Built by LATAM Team*
 
 **Supports:** Universal
-*Current Version: 0.0.12 (Universal)
+**Current Version:** 0.0.12 (Universal)
 
 ## About
 Add content from the most popular video streaming platform in the world "YouTube". Create playlists in your youtube account and simply import them through this plugin. 
