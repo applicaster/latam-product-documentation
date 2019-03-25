@@ -4,6 +4,7 @@
 *Built by LATAM Team*
 
 **Supports:** Universal
+
 **Current Version:** 0.0.12 (Universal)
 
 ## About
