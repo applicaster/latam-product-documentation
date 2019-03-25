@@ -4,6 +4,7 @@
 *Built by LATAM Team*
 
 **Supports:** *iOS and Android*
+
 *Current Version: 5.0.3 (iOS), 0.1.5 (Android)*
 
  
