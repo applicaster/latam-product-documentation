@@ -23,9 +23,18 @@ Add the about us section dynamically to an app thorugh UI Builder.
 
 ## Configuration
 
-1.- Add "Settings About Us" plugin to your app.
-2.- Go to Layouts in UI Builder, click on "+ Add Screen" and look for the "Settings About Us" screen
-3.- To configure the personalized text, with the Ui tag as "settings_about"
+1.- In applicaster2 create a Category with the Ui tag as "settings_about" and the personalized message in the description field.
+
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/about_us/ss2.png)
+
+2.- Add "Settings About Us" plugin to your app.
+
+
+
+3.- Go to Layouts in UI Builder, click on "+ Add Screen" and look for the "Settings About Us" screen.
+
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/about_us/ss1.png)
+
 
 ## Logging Events
 
