@@ -9,7 +9,7 @@
     "author_name": "Anton Kononenko",
     "author_email": "a.kononenko@applicaster.com",
     "manifest_version": "0.1.0",
-    "name": "SettingsContactUs",
+    "name": "Settings Contact Us",
     "description": "Contact Us screen allows the users to send feedback or report a problem they found in the app.",
     "type": "general",
     "identifier": "settings_contact_us_legacy",
