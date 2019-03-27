@@ -15,7 +15,7 @@
     "identifier": "settings_about_us_legacy",
     "ui_builder_support": true,
     "whitelisted_account_ids": [
-        "57d7bee06466610018000000"
+        "57d7bee06466610018000000","5a2132dccfbf66000e9c2e63"
     ],
     "min_zapp_sdk": "7.1.1-Dev",
     "deprecated_since_zapp_sdk": "",
