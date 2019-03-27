@@ -29,7 +29,10 @@ Add the contact us section dynamically to an app thorugh UI Builder.
 ![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/contact_us/ss_1.png)
 
 2.- Add "Settings Contact Us" plugin to your app.
+
+
 3.- Go to Layouts in UI Builder, click on "+ Add Screen" and look for the "Settings About Us" screen
+
 
 
 ## Logging Events
