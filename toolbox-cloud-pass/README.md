@@ -69,4 +69,4 @@ Cloud Pass is designed to authenticate and authorize users serving as the interc
 
 **Potential Future Features Include:**
 
-Single Sing On (SSO): The user authenticates once through Cloud Pass in one paticular platform. The user keeps the session open and can access content in other platforms without signing in again. This flow can work only if the other platform(s) has Cloud Pass as a login method.
+Single Sign On (SSO): The user authenticates once through Cloud Pass in one paticular platform. The user keeps the session open and can access content in other platforms without signing in again. This flow can work only if the other platform(s) has Cloud Pass as a login method.
