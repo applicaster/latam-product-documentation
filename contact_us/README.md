@@ -24,9 +24,13 @@ Add the contact us section dynamically to an app thorugh UI Builder.
 
 ## Configuration
 
-1.- Add "Settings Contact Us" plugin to your app.
-2.- Go to Layouts in UI Builder, click on "+ Add Screen" and look for the "Settings About Us" screen
-3.- Create a collection in applicaster two which contains the persnalzed about us text.
+1.- In applicaster2 create a Category with the Ui tag as "settings_contact_us" and the personalized message in the description field.
+
+![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/about_us/ss2.png)
+
+2.- Add "Settings Contact Us" plugin to your app.
+3.- Go to Layouts in UI Builder, click on "+ Add Screen" and look for the "Settings About Us" screen
+
 
 ## Logging Events
 

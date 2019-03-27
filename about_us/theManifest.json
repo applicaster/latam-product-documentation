@@ -9,7 +9,7 @@
     "author_name": "Anton Kononenko",
     "author_email": "a.kononenko@applicaster.com",
     "manifest_version": "0.1.0",
-    "name": "SettingsAboutUs",
+    "name": "Settings About Us",
     "description": "About Us screen provides general information about the app, including app version number and more.",
     "type": "general",
     "identifier": "settings_about_us_legacy",
