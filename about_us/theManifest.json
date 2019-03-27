@@ -1,34 +1,34 @@
 {
-    "api": {},
-    "dependency_repository_url": [
-        "https://github.com/applicaster/YoutubeDataSource-js"
-    ],
-    "platform": null,
-    "author_name": "Dror Gdalia",
-    "author_email": "d.gedalia@applicaster.com",
-    "manifest_version": "0.0.12",
-    "name": "Youtube",
-    "description": "Youtube Data Source Provider",
-    "type": "data_source_provider",
-    "identifier": "youtube",
-    "dependency_name": "@applicaster/zapp-pipes-provider-youtube",
-    "dependency_version": "1.0.14",
-    "whitelisted_account_ids": [],
-    "min_zapp_sdk": "1.0",
+    "api": {
+        "require_startup_execution": false,
+        "class_name": "GAAboutViewController",
+        "modules": []
+    },
+    "dependency_repository_url": [],
+    "platform": "ios",
+    "author_name": "Anton Kononenko",
+    "author_email": "a.kononenko@applicaster.com",
+    "manifest_version": "0.1.0",
+    "name": "SettingsAboutUs",
+    "description": "About Us screen provides general information about the app, including app version number and more.",
+    "type": "general",
+    "identifier": "settings_about_us_legacy",
     "ui_builder_support": true,
+    "whitelisted_account_ids": [
+        "57d7bee06466610018000000"
+    ],
+    "min_zapp_sdk": "7.1.1-Dev",
     "deprecated_since_zapp_sdk": "",
     "unsupported_since_zapp_sdk": "",
-    "scheme": "youtube",
-    "data_types": [
-        {
-            "label": "Youtube_Playlist",
-            "value": "playlistitems",
-            "documentation": {
-                "link": "https://developers.google.com/youtube/v3/",
-                "input_description": "Returns Youtube Playlist Items Feed JSON",
-                "input_placeholder": "Youtube Playlist ID",
-                "input_description_image_url": ""
+    "react_native": false,
+    "styles": {
+        "fields": [
+            {
+                "key": "presentation",
+                "type": "hidden",
+                "initial_value": "push"
             }
-        }
-    ]
+        ]
+    }
 }
+
