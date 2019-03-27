@@ -7,17 +7,40 @@
     "platform": "android",
     "author_name": "Javier Casaudoumecq",
     "author_email": "j.casaudoumecq@applicaster.com",
-    "manifest_version": "0.1.5",
+    "manifest_version": "0.1.8",
     "name": "ToolBoxCloudPass",
     "description": "Cable Operator Authentication using ToolBox CloudPass",
     "type": "login",
+    "screen": true,
+    "ui_builder_support": true,
     "identifier": "toolbox_cloudpass",
     "dependency_name": "com.applicaster:ToolboxCloudPass-Android",
-    "dependency_version": "0.1.5",
-    "ui_builder_support": true,
+    "dependency_version": "0.1.8",
     "whitelisted_account_ids": [],
-    "min_zapp_sdk": "5.9.0",
+    "min_zapp_sdk": "7.4.0",
     "react_native": false,
+    "preload": true,
+    "general": {
+        "fields": [
+            {
+                "type": "switch",
+                "key": "is_flow_blocker",
+                "tooltip_text": "Define if hook will block flow in case cancelation",
+                "initial_value": false
+            },
+            {
+                "key": "force_nav_bar_hidden",
+                "type": "hidden",
+                "initial_value": true
+            },
+            {
+                "key": "nav_bar_id",
+                "type": "nav_bar_selector",
+                "label": "Navigation Bar",
+                "placeholder": "Choose Nav Bar"
+            }
+        ]
+    },
     "custom_configuration_fields": [
         {
             "type": "text",
