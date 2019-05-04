@@ -1,0 +1,46 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "title": "Links",
+  "entry": [
+    {
+      "type": {
+        "value": "link"
+      },
+      "id": "",
+      "title": "Applicaster",
+      "summary": "Build an app",
+      "published": "2019-05-03T13:57:36-05:00",
+      "updated": "2019-05-03T13:57:36-05:00",
+      "link": {
+        "rel": "alternate",
+        "type": "html",
+        "href": "https://www.applicaster.com"
+      },
+      "content": {
+        "type": "html",
+        "content": "<p>Washington.- El Departamento estadounidense del Trabajo informó hoy que el desempleo cayó a 3.6 por ciento en abril pasado, el nivel más bajo en casi 50 años, gracias a la creación de 263 mil nuevos puestos de trabajo. <p></p>De acuerdo con las cifras oficiales publicadas este viernes, el índice de desempleo bajó de 3.8 por ciento a 3.6 por ciento el mes pasado, dos décimas respecto a marzo anterior. <p></p>Fueron creados 263 mil puestos laborales, superando las expectativas de los expertos, que ubicaban la cifra en 190 mil. </p><p>Asimismo la dependencia dio a conocer que el salario medio creció unos seis centavos (0.2 por ciento), lo que ubica la media en 27.77 dólares por hora. </p>"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://www.applicaster.com/hs-fs/hubfs/Retake_and_Own_Your_Audience/eGuide-asset-1.png?width=1030&name=eGuide-asset-1.png"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "Arturo"
+      },
+      "color": "#FF006699",
+      "extensions": {
+        "color": "#FF006699"
+      }
+    }
+  ]
+}
