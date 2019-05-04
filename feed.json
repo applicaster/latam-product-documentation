@@ -76,33 +76,6 @@
       "extensions": {
         "color": "#FF006699"
       }
-    },
-    {
-      "type": {
-        "value": "imageGallery"
-      },
-      "id": "12345",
-      "category": "APPLICASTER MEMORIES",
-      "title": "Applicaster at NAB 2018",
-      "Summary": "NAB 2018",
-      "published": "2019-05-03T13:57:36-05:00",
-      "updated": "2019-05-03T13:57:36-05:00",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "type": "image",
-              "key": "image_base",
-              "src": "https://pbs.twimg.com/media/Da7DGYNWsAAJqNT.jpg"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "application/atom+xml",
-        "src": "http://media.example.org/example-image-gallery.xml"
-      }
     }
   ]
 }
