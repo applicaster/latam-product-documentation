@@ -79,7 +79,7 @@
     },
     {
       "type": {
-        "value": "image"
+        "value": "imageGallery"
       },
       "id": "",
       "category": "APPLICASTER MEMORIES",
@@ -98,12 +98,9 @@
           ]
         }
       ],
-      "author": {
-        "name": "Arturo"
-      },
-      "color": "#FF006699",
-      "extensions": {
-        "color": "#FF006699"
+      "content": {
+        "type": "application/atom+xml",
+        "src": "http://media.example.org/example-image-gallery.xml"
       }
     }
   ]
