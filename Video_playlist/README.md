@@ -48,3 +48,62 @@ Due to its video nature the live switcher experience can be improved by adding o
 ### Feed Structure
 
 Here you can find in detail manner the fields and data necessary to build the specific structure. Keep in mind this structure will define an EPG for single or multiple live channels or live events.
+
+![table_1](https://github.com/applicaster/latam-product-documentation/blob/master/Video_playlist/ss_1.png?raw=true)
+
+### Entry Object
+
+![table_2](https://github.com/applicaster/latam-product-documentation/blob/master/Video_playlist/ss_2.png?raw=true)
+
+### media_item Object
+
+![table_3](https://github.com/applicaster/latam-product-documentation/blob/master/Video_playlist/ss_3.png?raw=true)
+
+### Feed Example
+
+```
+    "type": {
+        "value": "feed"
+    },
+    "title": "Últimos Videos",
+    "entry": [
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "1_oo0p8nzn",
+            "category": “Destacado”,
+            "title": "Incrementan exponencialmente las desapariciones en Baja California Sur",
+            "summary": "El tema de las desapariciones en el estado se ha salido de control, al grado de, como en cualquier otro evento, las autoridades del estado han pedido a la gente que acudan a parques para llevar a cabo tomas de sangre a familiares de desaparecidos.",
+            "published": "2019-03-27T23:30:00-06:00",
+            "updated": "2019-03-27T23:30:00-06:00",
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "http://myapi.com.mx/incrementan-exponencialmente-las-desapariciones-en-baja-california-sur/2500890"
+            },
+            "content": {
+                "type": "video/hls",
+                "src": “http://mydnc.ne/mycontent.m3u8”
+            },
+            "content_group": [
+                {
+                    "type": "image",
+                    "content_item": [
+                        {
+                            "type": “image",
+                            "key": "image_base",
+                            "src": “http://mycdn.net/myimage.png“
+                        }
+                    ]
+                }
+            ],
+        },
+```
+
+### UI Builder configuration
+
+Please follow the next steps to add VideoPlaylist to your application.
+
+1.- Once the data feed(described in this document) is available, go to the Feed section, with JSON Feed data type.
+
