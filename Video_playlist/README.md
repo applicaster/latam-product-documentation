@@ -3,7 +3,7 @@
 *Built by LATAM Team*
 
 **Supports:** *iOS and Android*
-*Current Version: 1.0.6*
+*Current Version: 1.1.5*
 
  
 ## About
@@ -105,5 +105,28 @@ Here you can find in detail manner the fields and data necessary to build the sp
 
 Please follow the next steps to add VideoPlaylist to your application.
 
-1.- Once the data feed(described in this document) is available, go to the Feed section, with JSON Feed data type.
+**1.-** Once the data feed(described in this document) is available, go to the Feed section, with JSON Feed data type.
 
+![image_1](https://github.com/applicaster/latam-product-documentation/blob/master/Video_playlist/ss_4.png?raw=true)
+
+**2.-** Go to the Plugins and search for VideoPlaylist. Add it to your layouts.
+
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Video_playlist/ss_5.png?raw=true)
+
+**3.-** Go to layouts in the main side menu. Select Add Screen from the bottom of the layouts list, search for Video Playlist and add it to your current screen.
+
+**4.-** Select the Video Playlist layout and follow the instructions below.
+
+#### Data Section
+- Select Json Feed as Type.
+- As Source select the feed you created previously.
+#### General Section
+- Select Video Playlist as Content Type.
+
+![image_3](https://github.com/applicaster/latam-product-documentation/blob/master/Video_playlist/ss_6.png?raw=true)
+
+### Notes
+
+**Known issues** 
+
+The plugin will not respond to the properties under the STYLES section. If customization for styles is needed a developer must hard code the changes.
