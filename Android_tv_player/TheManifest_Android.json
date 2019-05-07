@@ -3,6 +3,7 @@
         "require_startup_execution": false,
         "class_name": "com.applicaster.plugin.player.tvplayerplugin_android.TVPlayerAdaptor"
     },
+    "cover_image":"https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Android_tv_player/cover.png",
     "dependency_repository_url": [],
     "platform": "android",
     "author_name": "Javier Casaudoumecq",
