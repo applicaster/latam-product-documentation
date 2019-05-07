@@ -52,7 +52,7 @@ Additionally two of the three extra items available are reported back:
 
 1.- Add the ID for the Youbora account to which the events and data will be reported back.
 
-
+![image_1](https://github.com/applicaster/latam-product-documentation/blob/master/Apple_tv_player/ss_1.png?raw=true)
 
 UI/UX
 
