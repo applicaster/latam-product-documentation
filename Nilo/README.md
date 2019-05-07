@@ -198,10 +198,7 @@ The “Video Card” allows to post a Video with a brief description text.
 	
 	e.- Trigger Scheduled. Program the publishing of the card at an specific time.
 
-
-
-
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_18.png?raw=true)
 
 The card will look in the app as follows:
 
