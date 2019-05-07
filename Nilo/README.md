@@ -119,6 +119,8 @@ Before beginning the configuration, please make sure your account has been set u
 
 8.- The final result will show an upcoming event.
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_9.png?raw=true)
+
 ### Live Feed Cards
 
 - Once in the TV Show Dashboard an episode should be “Live” to start adding cards to the feed.
