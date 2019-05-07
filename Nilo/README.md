@@ -157,16 +157,7 @@ The card will look in the app as follows:
 	c.- Text message.
 	d.- Event Avatar.
 
-
-
-
-
-
-
-
-
-
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_15.png?raw=true)
 
 #### Image Card
 
