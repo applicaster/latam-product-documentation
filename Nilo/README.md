@@ -129,7 +129,7 @@ Before beginning the configuration, please make sure your account has been set u
 
 - Enter the event and click on “New Event”. You have two buttons available to activate the cards menu.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_10.png?raw=true)
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_11.png?raw=true)
 
 
 #### Text Card
