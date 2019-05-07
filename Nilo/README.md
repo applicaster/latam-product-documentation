@@ -140,6 +140,8 @@ The “Text Card” allows to post a brief paragraph of information. This follow
 
     b.- Choose the event source. One feed can mix several events, by selecting one in particular it will brand the card to do reference to it.
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_12.png?raw=true)
+
     c.- Trigger Scheduled. A card can be created and be published at an specific time. A client can benefit from scheduling a series of cards during a live streaming event, marketing campaigns, etc…
 
 
