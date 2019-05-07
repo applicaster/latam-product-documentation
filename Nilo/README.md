@@ -107,9 +107,11 @@ Before beginning the configuration, please make sure your account has been set u
 
 7.- As the last step before creating Nilo Cards. Create a new episode by clicking “New Episode” in the TV Show dashboard.
 
-7.1.- If the feed is not gonna be temporal set the date to be 1+ year ahead.
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_7.png?raw=true)
 
-7.2.- Upload a logo to have an avatar to be included in the feed cards.
+    7.1.- If the feed is not gonna be temporal set the date to be 1+ year ahead.
+
+    7.2.- Upload a logo to have an avatar to be included in the feed cards.
 
 
 8.- The final result will show an upcoming event.
