@@ -240,7 +240,7 @@ The card will look in the app as follows:
 	d.- Event Avatar.
 	e.- Brief text about the link.
 
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_22.png?raw=true)
 
 #### Social 
 

@@ -1,10 +1,15 @@
 {
     "api": {
         "require_startup_execution": false,
-        "class_name": "ZappReactNativeAdapter.ZPReactNativeDefaultProvider"
+        "class_name": "com.applicaster.reactnative.plugins.APReactNativeAdapter",
+        "react_packages": [
+            "com.BV.LinearGradient.LinearGradientPackage",
+            "com.brentvatne.react.ReactVideoPackage",
+            "com.applicaster.reactnative.feedrnutils.FeedRNUtilsPackage"
+        ]
     },
     "dependency_repository_url": [],
-    "platform": "ios",
+    "platform": "android",
     "author_name": "Javier Casaudoumecq",
     "author_email": "j.casaudoumecq@applicaster.com",
     "manifest_version": "0.2.4",
@@ -45,30 +50,27 @@
             }
         ]
     },
-    "min_zapp_sdk": "8.0.0",
+    "min_zapp_sdk": "7.0.0",
     "deprecated_since_zapp_sdk": "",
     "unsupported_since_zapp_sdk": "",
     "react_native": true,
-    "react_bundle_url": "https://assets-secure.applicaster.com/zapp/react-native-bundles/Nilo/ios/index.ios.bundle",
-    "extra_dependencies": [
-        {
-            "RNVectorIcons": ":path =\u003e 'node_modules/react-native-vector-icons'"
-        },
-        {
-            "BVLinearGradient": ":path =\u003e 'node_modules/@applicaster/react-native-linear-gradient'"
-        },
-        {
-            "react-native-video": ":path =\u003e 'node_modules/@applicaster/react-native-video'"
-        },
-        {
-            "FeedRNUtils": ":path =\u003e 'node_modules/@applicaster/feed-rn-utils/ios'"
-        }
-    ],
+    "react_bundle_url": "http://assets-production.applicaster.com/zapp/react-native-bundles/Nilo/android/index.android.bundle",
+    "extra_dependencies": [],
     "npm_dependencies": [
-        "@applicaster/react-native-linear-gradient@^1.0.1",
-        "react-native-vector-icons@4.2.0",
+        "@applicaster/react-native-linear-gradient@^1.0.2",
         "@applicaster/react-native-video@^1.0.0",
         "@applicaster/feed-rn-utils@^1.0.19"
+    ],
+    "project_dependencies": [
+        {
+            "react-native-linear-gradient": "node_modules/@applicaster/react-native-linear-gradient/android"
+        },
+        {
+            "react-native-video": "node_modules/@applicaster/react-native-video/android"
+        },
+        {
+            "feedrnutils": "node_modules/@applicaster/feed-rn-utils/android"
+        }
     ],
     "styles": {
         "fields": [
