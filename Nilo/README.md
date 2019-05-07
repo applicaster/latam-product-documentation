@@ -1,6 +1,11 @@
 # Nilo
 
-##What is it?
+*Built by LATAM Team*
+
+**Supports:** *iOS and Android*
+*Current Version: 0.2.4*
+
+## What is it?
 
  Nilo is a content aggregator that builds an easy to consume, intuitive and informative timeline of events. Content can be populates statically or in real time, feeding from different sources using several formats such as text, video, images, links and polls. 
 
