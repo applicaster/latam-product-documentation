@@ -144,9 +144,11 @@ The “Text Card” allows to post a brief paragraph of information. This follow
 
     c.- Trigger Scheduled. A card can be created and be published at an specific time. A client can benefit from scheduling a series of cards during a live streaming event, marketing campaigns, etc…
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_13.png?raw=true)
 
 After creating the card, it will show ready to be publish.
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_13.png?raw=true)
 
 The card will look in the app as follows:
 
