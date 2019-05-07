@@ -171,18 +171,7 @@ The “Image Card” allows to post an Image with a brief description text.
 	
 	d.- Trigger Scheduled. Program the publishing of the card at an specific time.
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_16.png?raw=true)
 
 
 The card will look in the app as follows:
@@ -192,6 +181,8 @@ The card will look in the app as follows:
 	c.- Brief description.
 	d.- Card Image.
 	e.- Event Avatar.
+
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_16.png?raw=true)
 
 #### Video Card
 
