@@ -103,6 +103,8 @@ Before beginning the configuration, please make sure your account has been set u
 
 6.- The first time entering the TV Show, the creation of a new feed is needed.
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_6.png?raw=true)
+
 7.- As the last step before creating Nilo Cards. Create a new episode by clicking “New Episode” in the TV Show dashboard.
 
 7.1.- If the feed is not gonna be temporal set the date to be 1+ year ahead.
