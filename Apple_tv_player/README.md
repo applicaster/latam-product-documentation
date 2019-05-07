@@ -1,5 +1,10 @@
 ## Apple TV Player
 
+*Built by LATAM Team*
+
+**Supports:** *tvOS*
+*Current Version: 0.1.0*
+
 ### What is it?
 
 Video Player based on AVPlayer libraries.
