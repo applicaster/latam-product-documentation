@@ -77,6 +77,9 @@ Content events are shown in the form of "Cards", with the following types:
 Before beginning the configuration, please make sure your account has been set up by support and you have access to the Applicaster CMS.
 
 1.- Go to http://cms.applicaster.com and login.
+
+![image_1](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true)
+
 2.- Once inside enter the name of your account, it should appear as an option you can select.
 
 3.- From the menu, select Feed & Interactive.
