@@ -210,13 +210,7 @@ The card will look in the app as follows:
 
 	*Video will play in loop while in focus
 
-
-
-
-
-
-
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_19.png?raw=true)
 
 #### Link Event Card
 
@@ -227,6 +221,9 @@ The “Link Event Card” allows to post a Video with a brief description text.
 	b.- Choose the card event source.
 	
 	c.- Actual URL for the link.
+
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_19.png?raw=true)
+
 
 	d.- Preview Image. This image will the main part of the card, referencing the link 				context.
 
