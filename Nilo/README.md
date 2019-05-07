@@ -99,7 +99,7 @@ Before beginning the configuration, please make sure your account has been set u
 
 5.- Once created the TV Show, go to “Actions” and select “Enter Feed”
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_4.png?raw=true)
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_5.png?raw=true)
 
 6.- The first time entering the TV Show, the creation of a new feed is needed.
 
