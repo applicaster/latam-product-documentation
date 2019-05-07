@@ -182,7 +182,7 @@ The card will look in the app as follows:
 	d.- Card Image.
 	e.- Event Avatar.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_16.png?raw=true)
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_17.png?raw=true)
 
 #### Video Card
 
