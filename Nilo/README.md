@@ -222,7 +222,7 @@ The “Link Event Card” allows to post a Video with a brief description text.
 	
 	c.- Actual URL for the link.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_19.png?raw=true)
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_20.png?raw=true)
 
 
 	d.- Preview Image. This image will the main part of the card, referencing the link 				context.
@@ -232,7 +232,7 @@ The “Link Event Card” allows to post a Video with a brief description text.
 	*Configurations presented for the webview don’t apply for “Nilo Link Event Cards”.
 
 
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_20.png?raw=true)
 
 
 
