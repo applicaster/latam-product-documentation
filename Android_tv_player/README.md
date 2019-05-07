@@ -3,7 +3,7 @@
 *Built by LATAM Team*
 
 **Supports:** *Android*
-*Current Version: 1.1.5*
+*Current Version: 0.1.12*
 
 ## What is it?
 
@@ -60,6 +60,9 @@ Additionally two of the three extra items available are reported back:
 
 - The following fields define the player behavior:
 
+![image_1](https://github.com/applicaster/latam-product-documentation/blob/master/Android_tv_player/ss_1.png?raw=true)
+
+
 1.- Add the ID for the Youbora account to which the events and data will be reported back.
 
 2.- Will disable Audio and Subtitles options from the player. Icon will be hidden and there will not be access to the options view.
@@ -71,6 +74,9 @@ Additionally two of the three extra items available are reported back:
 ## UI/UX
 
 ### Controls
+
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Android_tv_player/ss_2.png?raw=true)
+
 1.- Play/Pause Button. The button will dynamically change its function and icon according to the state of the video.
 
 2.- Time elapsed.
@@ -83,6 +89,8 @@ Additionally two of the three extra items available are reported back:
 
 
 ## Audio and Subtitles View
+
+![image_3](https://github.com/applicaster/latam-product-documentation/blob/master/Android_tv_player/ss_3.png?raw=true)
 
 1.- Audio tracks available.
 
