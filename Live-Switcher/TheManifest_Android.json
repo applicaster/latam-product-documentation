@@ -11,7 +11,7 @@
     "platform": "android",
     "author_name": "Carlos Pinto",
     "author_email": "c.pinto@applicaster.com",
-    "manifest_version": "1.0.6",
+    "manifest_version": "1.1.5",
     "screen": true,
     "name": "VideoPlaylist",
     "description": "React-Native Component which includes a playlist of either videos or programs",
@@ -25,9 +25,10 @@
         "56e13de23336651221000000",
         "56e995a13234300018000000",
         "5a53d5ec9349a1000ecadf69",
-        "5c37c985410b00000ea8d3b1"
+        "5c37c985410b00000ea8d3b1",
+        "591030aa66c9320010f52092"
     ],
-    "cover_image": "https://assets-production.applicaster.com/zapp/plugins/gallery_previews/nilo.jpg",
+    "cover_image": "https://github.com/applicaster/latam-product-documentation/blob/master/Live-Switcher/cover.png?raw=true",
     "thumbnail": {
         "height": 36,
         "url": "https://assets-secure.applicaster.com/static/nilo_assets/screen_thumbnail.png",
@@ -46,7 +47,7 @@
     "deprecated_since_zapp_sdk": "",
     "unsupported_since_zapp_sdk": "",
     "react_native": true,
-    "react_bundle_url": "http://assets-production.applicaster.com/zapp/react-native-bundles/APVideoPlaylist-RN/android/index.android.bundle",
+    "react_bundle_url": "http://assets-production.applicaster.com.s3.amazonaws.com/zapp/react-native-bundles/APVideoPlaylist-RN/toolbox/1.1.5/android/index.android.bundle",
     "extra_dependencies": [],
     "npm_dependencies": [
         "@applicaster/react-native-video@^1.0.0",
@@ -65,50 +66,64 @@
             {
                 "key": "background_color",
                 "label": "Background Color",
-                "type": "color_picker",
-                "initial_value": "rgba(43,43,43, 1)",
+                "type": "text_input",
+                "initial_value": "#323232",
                 "label_tooltip": "Background color of the playlist."
             },
             {
-                "key": "active_bg",
-                "label": "Active Background Color",
-                "type": "color_picker",
-                "initial_value": "rgba(25,170,85, 1)",
-                "label_tooltip": "Background color for active item"
+                "key": "active_title",
+                "label": "Active Color Title",
+                "type": "text_input",
+                "initial_value": "‘#EDB753",
+                "label_tooltip": "color for active title"
             },
             {
                 "key": "live_label_bg",
                 "label": "Live Label Background Color",
-                "type": "color_picker",
-                "initial_value": "rgba(255,255,255,1)",
+                "type": "text_input",
+                "initial_value": "#EDB753",
                 "label_tooltip": "Background color for live tag"
             },
             {
                 "key": "live_label_color",
                 "label": "Live Label Color",
-                "type": "color_picker",
-                "initial_value": "rgba(196,196,196, 1)",
+                "type": "text_input",
+                "initial_value": "#ffffff",
                 "label_tooltip": "Color for the live tag title"
             },
             {
                 "key": "circle_border",
                 "label": "Circle Border",
-                "type": "color_picker",
-                "initial_value": "rgba(22,22,22, 1)",
+                "type": "text_input",
+                "initial_value": "‘#979797",
                 "label_tooltip": "Border color for circle button"
+            },
+            {
+                "key": "circle_background",
+                "label": "Circle Background",
+                "type": "text_input",
+                "initial_value": "#000000",
+                "label_tooltip": "Background color for circle button"
+            },
+            {
+                "key": "entry_separator",
+                "label": "Color of separator line between entries",
+                "type": "text_input",
+                "initial_value": "#ffffff",
+                "label_tooltip": "Separator Color"
             },
             {
                 "key": "separator_bg_color",
                 "label": "Separator Background Color",
-                "type": "color_picker",
-                "initial_value": "rgba(22,22,22, 1)",
+                "type": "text_input",
+                "initial_value": "#EDB753",
                 "label_tooltip": "Background color for separator"
             },
             {
                 "key": "separator_title_color",
                 "label": "Separator Title Color",
-                "type": "color_picker",
-                "initial_value": "rgba(22,22,22, 1)",
+                "type": "text_input",
+                "initial_value": "#ffffff",
                 "label_tooltip": "Color for the separator title"
             }
         ]
@@ -141,6 +156,23 @@
                     {
                         "text": "Channel Switcher",
                         "value": "liveSwitcher"
+                    }
+                ]
+            },
+            {
+                "key": "imageSource",
+                "label": "Entry Image",
+                "initial_value": "channelsLogo",
+                "label_tooltip": "Select between displaying images from programs or channel logos",
+                "type": "select",
+                "options": [
+                    {
+                        "text": "Channels",
+                        "value": "channelsLogo"
+                    },
+                    {
+                        "text": "Programs",
+                        "value": "programsImages"
                     }
                 ]
             },
