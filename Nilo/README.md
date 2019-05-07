@@ -114,6 +114,9 @@ Before beginning the configuration, please make sure your account has been set u
     7.2.- Upload a logo to have an avatar to be included in the feed cards.
 
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_8.png?raw=true)
+
+
 8.- The final result will show an upcoming event.
 
 ### Live Feed Cards
