@@ -224,18 +224,13 @@ The “Link Event Card” allows to post a Video with a brief description text.
 
 ![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_20.png?raw=true)
 
-
 	d.- Preview Image. This image will the main part of the card, referencing the link 				context.
 
 	e.- Trigger Scheduled. Program the publishing of the card at an specific time.	
 	
 	*Configurations presented for the webview don’t apply for “Nilo Link Event Cards”.
 
-
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_20.png?raw=true)
-
-
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_21.png?raw=true)
 
 The card will look in the app as follows:
 
@@ -244,6 +239,8 @@ The card will look in the app as follows:
 	c.- Preview Image.
 	d.- Event Avatar.
 	e.- Brief text about the link.
+
+
 
 #### Social 
 
