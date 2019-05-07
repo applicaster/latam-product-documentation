@@ -78,12 +78,13 @@ Before beginning the configuration, please make sure your account has been set u
 
 1.- Go to http://cms.applicaster.com and login.
 
-![image_1](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true)
-
 2.- Once inside enter the name of your account, it should appear as an option you can select.
+
+![image_1](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true)
 
 3.- From the menu, select Feed & Interactive.
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_2.png?raw=true)
 
 4.- To create the feed click on “New TV Show”.
 
