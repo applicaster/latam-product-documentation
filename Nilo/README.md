@@ -125,9 +125,11 @@ Before beginning the configuration, please make sure your account has been set u
 
 - Once in the TV Show Dashboard an episode should be “Live” to start adding cards to the feed.
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_10.png?raw=true)
+
 - Enter the event and click on “New Event”. You have two buttons available to activate the cards menu.
 
-
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_10.png?raw=true)
 
 
 #### Text Card
