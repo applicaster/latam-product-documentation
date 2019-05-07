@@ -88,8 +88,13 @@ Before beginning the configuration, please make sure your account has been set u
 
 4.- To create the feed click on “New TV Show”.
 
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_3.png?raw=true)
+
 
 4.1 Give a clear name so it makes reference to what the context is going to be about.
+
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_4.png?raw=true)
+
 4.2 Add an image to give identity to the feed (optional).
 5.- Once created the TV Show, go to “Actions” and select “Enter Feed”
 
