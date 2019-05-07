@@ -148,7 +148,7 @@ The “Text Card” allows to post a brief paragraph of information. This follow
 
 After creating the card, it will show ready to be publish.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_13.png?raw=true)
+![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_14.png?raw=true)
 
 The card will look in the app as follows:
 
