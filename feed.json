@@ -103,8 +103,8 @@
       "category": "APPLICASTER VIDEOS",
       "title": "VIDEO cARD",
       "summary": "TEST",
-      "published": "2019-05-03T13:58:36-05:00",
-      "updated": "2019-05-03T13:58:36-05:00",
+      "published": "2019-07-03T13:58:36-05:00",
+      "updated": "2019-07-03T13:58:36-05:00",
       "content": {
         "type": "video/hls",
         "src": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
