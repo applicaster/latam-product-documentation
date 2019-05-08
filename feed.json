@@ -87,18 +87,10 @@
       "summary": "NAB 2018",
       "published": "2019-05-03T13:58:36-05:00",
       "updated": "2019-05-03T13:58:36-05:00",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "type": "image",
-              "key": "image_base",
-              "src": "https://pbs.twimg.com/media/Da7DGYNWsAAJqNT.jpg"
-            }
-          ]
-        }
-      ],
+      "content": {
+        "type": "image",
+        "content": "https://pbs.twimg.com/media/Da7DGYNWsAAJqNT.jpg"
+      },
       "author": {
         "name": "Arturo"
       },
