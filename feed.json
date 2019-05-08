@@ -94,6 +94,36 @@
       "author": {
         "name": "Arturo"
       }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "4",
+      "category": "APPLICASTER VIDEOS",
+      "title": "VIDEO cARD",
+      "summary": "TEST",
+      "published": "2019-05-03T13:58:36-05:00",
+      "updated": "2019-05-03T13:58:36-05:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "http://www.prensario.net/Multimedios/imgs/25758_468.jpg?v=4"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "Arturo"
+      }
     }
   ]
 }
