@@ -94,6 +94,34 @@
       "author": {
         "name": "Arturo"
       }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "4",
+      "category": "APPLICASTER IDEOS",
+      "title": "TESTING VIDEO CARD",
+      "summary": "VIDEO CARD",
+      "published": "2019-05-03T13:58:36-05:00",
+      "updated": "2019-05-03T13:58:36-05:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "https://thumbs.dreamstime.com/z/tv-test-image-card-rainbow-multi-color-bars-geometric-signals-retro-hardware-s-minimal-pop-art-print-suitable-89603635.jpg"
+            }
+      ],
+      "author": {
+        "name": "Arturo"
+      }
     }
   ]
 }
