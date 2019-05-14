@@ -282,6 +282,14 @@ To create the card through DSP the json object should have the following base st
 
 ![image\_2][image-23]
 
+The card will look in the app as follows:
+
+	a.- media group—>content_item—>src
+	b.- title
+
+On touch the card will open the link on a full screen web view.
+
+
 #### Social
 
 Twitter and Instagram social mirroring must be configured in the Starlight CMS timeline that corresponds to the timelineId indicated.
