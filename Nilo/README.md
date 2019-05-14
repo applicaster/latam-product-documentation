@@ -445,11 +445,21 @@ The card will look in the app as follows:
 
 ![image\_2][image-31]
 
-#### Social
+## Social
 
-Twitter and Instagram social mirroring must be configured in the Starlight CMS timeline that corresponds to the timelineId indicated.
+Nilo can use the API for tweeter and Instagram to integrate the client’s social feeds.
 
 Please contact support in order to configure Twitter or Instagram support@applicaster.com
+
+**The following documentation is aimed for Applicaster Support.**
+
+### Configuration
+
+To enable Nilo to use any of the social accounts configured, go to UI Builder and the screen configured with the Episode ID.
+
+
+![image\_2][image-32]
+
 
 
 
@@ -505,3 +515,4 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-29]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_29.png?raw=true
 [image-30]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_30.png?raw=true
 [image-31]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_31.png?raw=true
+[image-32]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_32.png?raw=true
