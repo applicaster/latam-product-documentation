@@ -244,7 +244,7 @@ The card will look in the app as follows:
 
 ## DSP Feed
 
-###Link and Link Event Card
+### Link and Link Event Card
 
 To create the card through DSP the json object should have the following base structure:
 
@@ -291,7 +291,7 @@ On touch the card will open the link on a full screen web view.
 
 ![image\_2][image-24]
 
-###Article Card
+### Article Card
 
 To create the card through DSP the json object should have the following base structure:
 
@@ -357,6 +357,33 @@ The article will expand full screen and will show the content—>src value as th
 
 ![image\_2][image-27]
 
+### Image Card
+
+To create the card through DSP the json object should have the following base structure:
+
+```
+{
+      "type": {
+        "value": "image"
+      },
+      "id": "3",
+      "category": "APPLICASTER MEMORIES",
+      "title": "Applicaster at NAB 2018",
+      "published": "2019-05-03T13:58:36-05:00",
+      "updated": "2019-05-03T13:58:36-05:00",
+      "content": {
+        "type": "image/jpg",
+        "src": "https://pbs.twimg.com/media/Da7DGYNWsAAJqNT.jpg"
+      },
+      "author": {
+        "name": "Arturo"
+      }
+    }
+}
+
+```
+![image\_2][image-28]
+
 #### Social
 
 Twitter and Instagram social mirroring must be configured in the Starlight CMS timeline that corresponds to the timelineId indicated.
@@ -413,3 +440,4 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-25]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_25.png?raw=true
 [image-26]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_26.png?raw=true
 [image-27]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_27.png?raw=true
+[image-28]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_28.png?raw=true
