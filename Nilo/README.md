@@ -341,6 +341,14 @@ To create the card through DSP the json object should have the following base st
 
 ![image\_2][image-25]
 
+The card will look in the app as follows:
+
+	a.- media group—>content_item—>src
+	b.- category
+	c.- title
+	d.- summary
+
+
 
 #### Social
 
