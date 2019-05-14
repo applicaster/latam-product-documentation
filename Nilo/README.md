@@ -289,6 +289,7 @@ The card will look in the app as follows:
 
 On touch the card will open the link on a full screen web view.
 
+![image\_2][image-24]
 
 #### Social
 
@@ -342,3 +343,4 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-21]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_21.png?raw=true
 [image-22]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_22.png?raw=true
 [image-23]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_23.png?raw=true
+[image-23]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_24.png?raw=true
