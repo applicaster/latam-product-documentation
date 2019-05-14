@@ -244,7 +244,7 @@ The card will look in the app as follows:
 
 ## DSP Feed
 
-Link and Link Event Card
+###Link and Link Event Card
 
 To create the card through DSP the json object should have the following base structure:
 
@@ -290,6 +290,57 @@ The card will look in the app as follows:
 On touch the card will open the link on a full screen web view.
 
 ![image\_2][image-24]
+
+###Article Card
+
+To create the card through DSP the json object should have the following base structure:
+
+```
+{
+      "type": {
+        "value": "article"
+      },
+      "id": "2",
+      "category": "APPLICASTER NEWS",
+      "title": "Applicaster: grandes expectativas en la región",
+      "summary": "Applicaster estuvo en Natpe Miami.",
+      "published": "2019-05-03T13:57:36-05:00",
+      "updated": "2019-05-03T13:57:36-05:00",
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.prensario.net/18935-Applicaster-grandes-expectativas-en-la-region.note.aspx"
+      },
+      "content": {
+        "type": "html",
+        "content": "<p></p><p>'Es el primer año que llevamos como compañía organizada en Miami, tenemos nuestra propia estructura y actuamos como entidades independientes. Nos podemos enfocar en las necesidades de cada uno de los territorios, tenemos una plataforma que nos permite ser muy competitivos para adaptarnos a las necesidades del cliente', explicó Tapias.</p><p>La empresa tiene nuevos negocios en Miami y Latinoamérica, territorios donde además tiene el apoyo de sus clientes, que se están diversificando hacia más apps dentro de sus productos. ‘Hemos visto una evolución a la proliferación de target dirigido y a marcas más concretas, para desarrollar relación usuario-marca’, destacó.</p><p>El equipo está distribuido entre Miami, España, Nueva York y Colombia, destaca entre sus clientes a Televisa, donde acaba de lanzar el Canal de las Estrellas de Televisa para Android, Apple y Apple TV, también con America TV, y Medcom en Panamá entre otros.</p><p>En el marco de Natpe Miami, Applicaster anunció un acuerdo con TVX de El Salvador y cerró más desarrollos, que Laura Tapias espera poder dar a conocer próximamente.</p><p style='text-align: right;'><strong>Por Emira Sanabria, corresponsal Miami</strong></p><p></p>"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "http://www.prensario.net/Multimedios/imgs/25758_468.jpg?v=4"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "Notimex"
+      },
+      "color": "#FF006699",
+      "extensions": {
+        "color": "#FF006699"
+      }
+    }
+
+
+```
+
+![image\_2][image-25]
+
 
 #### Social
 
@@ -343,4 +394,5 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-21]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_21.png?raw=true
 [image-22]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_22.png?raw=true
 [image-23]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_23.png?raw=true
-[image-23]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_24.png?raw=true
+[image-24]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_24.png?raw=true
+[image-25]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_25.png?raw=true
