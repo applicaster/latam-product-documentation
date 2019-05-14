@@ -348,7 +348,14 @@ The card will look in the app as follows:
 	c.- title
 	d.- summary
 
+![image\_2][image-26]
 
+The article will expand full screen and will show the content—>src value as the article body.
+
+	a.- Close button
+	b.- content—>content
+
+![image\_2][image-27]
 
 #### Social
 
@@ -404,3 +411,5 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-23]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_23.png?raw=true
 [image-24]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_24.png?raw=true
 [image-25]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_25.png?raw=true
+[image-26]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_26.png?raw=true
+[image-27]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_27.png?raw=true
