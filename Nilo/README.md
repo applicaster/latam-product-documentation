@@ -47,7 +47,7 @@ Due to its video nature the live switcher experience can be improved by adding o
 **DAI (Dynamic Add Insertion)**. This product popularized by cloud providers such as Google and AWS take the streaming and can replace commercials using digital Que Tones. In this way a network can have a linear commercialization and another for streaming, monetizing both platforms.
 
 **DFP (Doubleclick For Publishers).** This is a well known product to add pre rolls, mid rolls and post rolls to a streaming video. Generally this is better combined with VOD but a live streaming can benefit by adding a pre roll before playback.
-*DFP is part of the plugin and it should only need proper configuration.
+\*DFP is part of the plugin and it should only need proper configuration.
 
 ## Sources of Content
 
@@ -72,7 +72,7 @@ Content events are shown in the form of "Cards", with the following types:
 
 ## Configuration
 
-###Live Feed Set Up
+### Live Feed Set Up
 
 Before beginning the configuration, please make sure your account has been set up by support and you have access to the Applicaster CMS.
 
@@ -80,75 +80,75 @@ Before beginning the configuration, please make sure your account has been set u
 
 2.- Once inside enter the name of your account, it should appear as an option you can select.
 
-![image_1](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true)
+![image\_1][image-1]
 
 3.- From the menu, select Feed & Interactive.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_2.png?raw=true)
+![image\_2][image-2]
 
 4.- To create the feed click on “New TV Show”.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_3.png?raw=true)
+![image\_2][image-3]
 
 
-    4.1 Give a clear name so it makes reference to what the context is going to be about.
+	4.1 Give a clear name so it makes reference to what the context is going to be about.
+	
+	4.2 Add an image to give identity to the feed (optional).
 
-    4.2 Add an image to give identity to the feed (optional).
-
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_4.png?raw=true)
+![image\_2][image-4]
 
 5.- Once created the TV Show, go to “Actions” and select “Enter Feed”
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_5.png?raw=true)
+![image\_2][image-5]
 
 6.- The first time entering the TV Show, the creation of a new feed is needed.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_6.png?raw=true)
+![image\_2][image-6]
 
 7.- As the last step before creating Nilo Cards. Create a new episode by clicking “New Episode” in the TV Show dashboard.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_7.png?raw=true)
+![image\_2][image-7]
 
-    7.1.- If the feed is not gonna be temporal set the date to be 1+ year ahead.
+	7.1.- If the feed is not gonna be temporal set the date to be 1+ year ahead.
+	
+	7.2.- Upload a logo to have an avatar to be included in the feed cards.
 
-    7.2.- Upload a logo to have an avatar to be included in the feed cards.
 
-
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_8.png?raw=true)
+![image\_2][image-8]
 
 
 8.- The final result will show an upcoming event.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_9.png?raw=true)
+![image\_2][image-9]
 
 ### Live Feed Cards
 
 - Once in the TV Show Dashboard an episode should be “Live” to start adding cards to the feed.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_10.png?raw=true)
+![image\_2][image-10]
 
 - Enter the event and click on “New Event”. You have two buttons available to activate the cards menu.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_11.png?raw=true)
+![image\_2][image-11]
 
 
 #### Text Card
 
 The “Text Card” allows to post a brief paragraph of information. This follow a simple text format with no other elements combined.
 
-    a.- Text. The text to show 
+	a.- Text. The text to show 
+	
+	b.- Choose the event source. One feed can mix several events, by selecting one in particular it will brand the card to do reference to it.
 
-    b.- Choose the event source. One feed can mix several events, by selecting one in particular it will brand the card to do reference to it.
+![image\_2][image-12]
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_12.png?raw=true)
+	c.- Trigger Scheduled. A card can be created and be published at an specific time. A client can benefit from scheduling a series of cards during a live streaming event, marketing campaigns, etc…
 
-    c.- Trigger Scheduled. A card can be created and be published at an specific time. A client can benefit from scheduling a series of cards during a live streaming event, marketing campaigns, etc…
-
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_13.png?raw=true)
+![image\_2][image-13]
 
 After creating the card, it will show ready to be publish.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_14.png?raw=true)
+![image\_2][image-14]
 
 The card will look in the app as follows:
 
@@ -157,7 +157,7 @@ The card will look in the app as follows:
 	c.- Text message.
 	d.- Event Avatar.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_15.png?raw=true)
+![image\_2][image-15]
 
 #### Image Card
 
@@ -171,7 +171,7 @@ The “Image Card” allows to post an Image with a brief description text.
 	
 	d.- Trigger Scheduled. Program the publishing of the card at an specific time.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_16.png?raw=true)
+![image\_2][image-16]
 
 
 The card will look in the app as follows:
@@ -182,7 +182,7 @@ The card will look in the app as follows:
 	d.- Card Image.
 	e.- Event Avatar.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_17.png?raw=true)
+![image\_2][image-17]
 
 #### Video Card
 
@@ -198,7 +198,7 @@ The “Video Card” allows to post a Video with a brief description text.
 	
 	e.- Trigger Scheduled. Program the publishing of the card at an specific time.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_18.png?raw=true)
+![image\_2][image-18]
 
 The card will look in the app as follows:
 
@@ -207,10 +207,10 @@ The card will look in the app as follows:
 	c.- Brief description.
 	d.- Video Image.
 	e.- Event Avatar.
-
+	
 	*Video will play in loop while in focus
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_19.png?raw=true)
+![image\_2][image-19]
 
 #### Link Event Card
 
@@ -222,15 +222,15 @@ The “Link Event Card” allows to post a Video with a brief description text.
 	
 	c.- Actual URL for the link.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_20.png?raw=true)
+![image\_2][image-20]
 
 	d.- Preview Image. This image will the main part of the card, referencing the link 				context.
-
+	
 	e.- Trigger Scheduled. Program the publishing of the card at an specific time.	
 	
 	*Configurations presented for the webview don’t apply for “Nilo Link Event Cards”.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_21.png?raw=true)
+![image\_2][image-21]
 
 The card will look in the app as follows:
 
@@ -240,9 +240,47 @@ The card will look in the app as follows:
 	d.- Event Avatar.
 	e.- Brief text about the link.
 
-![image_2](https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_22.png?raw=true)
+![image\_2][image-22]
 
-#### Social 
+## DSP Feed
+
+Link and Link Event Card
+
+To create the card through DSP the json object should have the following base structure:
+
+	{
+	      "type": {
+	        "value": "link"
+	      },
+	      "id": "1",
+	      "title": “applicaster.com”,
+	      "published": "2019-05-03T13:57:36-05:00",
+	      "updated": "2019-05-03T13:57:36-05:00",
+	      "link": {
+	        "rel": "alternate",
+	        "type": "html",
+	        "href": "https://www.applicaster.com"
+	      },
+	      "media_group": [
+	        {
+	          "type": "image",
+	          "media_item": [
+	            {
+	              "type": "image",
+	              "key": "image_base",
+	              "src": “https://www.applicaster.com/hs-fs/hubfs/Retake_and_Own_Your_Audience/eGuide-asset-1.png?width=1030&name=eGuide-asset-1.png"
+	            }
+	          ]
+	        }
+	      ],
+	      "author": {
+	        "name": "Arturo"
+	      }
+	    }
+
+
+
+#### Social
 
 Twitter and Instagram social mirroring must be configured in the Starlight CMS timeline that corresponds to the timelineId indicated.
 
@@ -271,3 +309,25 @@ Please contact support in order to configure Twitter or Instagram support@applic
 
 
 
+[image-1]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true
+[image-2]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_2.png?raw=true
+[image-3]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_3.png?raw=true
+[image-4]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_4.png?raw=true
+[image-5]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_5.png?raw=true
+[image-6]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_6.png?raw=true
+[image-7]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_7.png?raw=true
+[image-8]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_8.png?raw=true
+[image-9]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_9.png?raw=true
+[image-10]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_10.png?raw=true
+[image-11]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_11.png?raw=true
+[image-12]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_12.png?raw=true
+[image-13]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_13.png?raw=true
+[image-14]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_14.png?raw=true
+[image-15]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_15.png?raw=true
+[image-16]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_16.png?raw=true
+[image-17]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_17.png?raw=true
+[image-18]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_18.png?raw=true
+[image-19]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_19.png?raw=true
+[image-20]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_20.png?raw=true
+[image-21]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_21.png?raw=true
+[image-22]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_22.png?raw=true
