@@ -499,10 +499,48 @@ Parameters:
 ![image\_2][image-33]
 
 
+As final step use the method “PUT Configuration” go to the Body section and leave “id” and “twitterScreenName” as the only parameters active.
 
+Parameters:
 
+-id. Is the “_id” key available as part of the Configuration response in the previous step.
+-twitterScreenName. The username of the twitter account.
 
+The call should give a response as follows (Twitter account fields should be part of the configuration):
 
+```
+{
+    "_id": "5cbfb8e20ab2f80004677427",
+    "episodeTitle": "Product Episode",
+    "endTime": 1614737623,
+    "startTime": 1556068723,
+    "timelineTitle": "Product Show",
+    "episodeId": "5cbfb8e162c47f28b499de2a",
+    "accountId": "5aa98c3bd7c3ef0008754666",
+    "timelineId": "5cb0c462a491440249a7c973",
+    "pollingInterval": 30,
+    “instagramJobId": -1,
+    "facebookJobId": -1,
+    "twitterJobId": 4103993,
+    "aggregationJobId": 110728859,
+    "starsJobId": 30619780,
+    "__v": 0,
+    "twitterScreenName": "product2019",
+    "twitterAccessTokenKey": "1127986960402923521-vO6Bh8CLJpoQmoVpFbELH8fPd7JFaa",
+    "twitterAccessTokenSecret": "jZH5EkYz8M7zCEov919wMj7oxLKyszHFEhbzGNGAopq2H",
+    "twitterConsumerKey": "7rhG0ibnaDkpFNw7OPTYbglMr",
+    "twitterConsumerSecret": "y9Q8EZ1C5Cs1fun3trIOfd8iSmBjuuwbE05SAPFKdLtxEFt83S",
+    "instagramJobId": -1,
+        "facebookJobId": -1,
+        "twitterJobId": -1,
+        "aggregationJobId": 104257621,
+        "starsJobId": 28328914,
+        "__v": 0
+    }
+```
+### Card Example
+
+![image\_2][image-34]
 
 
 
@@ -549,3 +587,4 @@ Parameters:
 [image-31]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_31.png?raw=true
 [image-32]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_32.png?raw=true
 [image-33]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_33.png?raw=true
+[image-34]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_34.png?raw=true
