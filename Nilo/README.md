@@ -439,6 +439,12 @@ The card will look in the app as follows:
 
 ![image\_2][image-30]
 
+### Apendix
+
+#### media_item Object
+
+
+![image\_2][image-31]
 
 #### Social
 
@@ -499,3 +505,4 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-28]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_28.png?raw=true
 [image-29]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_29.png?raw=true
 [image-30]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_30.png?raw=true
+[image-31]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_31.png?raw=true
