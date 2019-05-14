@@ -586,7 +586,37 @@ To confirm the instagram account has been linked there are two options:
 ![image\_2][image-36]
 
 
+2.- Use the call “Get Configuration” in postman. The response should contain the instagram fields for the account.
 
+```
+{
+        "_id": "5cbe5a191bebd500049d1fcc",
+        "episodeTitle": “Episode Test",
+        "endTime": 1556237960,
+        "startTime": 1556065160,
+        "timelineTitle": "Product Test",
+        "episodeId": "5cbe5a18f8292f4a9bdfef48",
+        "accountId": "5aa98c3bd7c3ef0008754666",
+        "timelineId": "5ca7a8d78f6260436de2ecfb",
+        "pollingInterval": 30,
+        "instagramAccessToken": "12308291594.0b11f0e.1ed2a241c8f34e029d4394e0d871a3ef",
+        "facebookJobId": -1,
+        "twitterJobId": -1,
+        "aggregationJobId": 104257621,
+        "starsJobId": 28328914,
+        "__v": 0,
+        "instagramUser": {
+        "id": "12308291594",
+        "username": "appproduct2019",
+        "profile_picture": "https://scontent-iad3-1.cdninstagram.com/vp/1db9936ae11fbb38a79a40704859ed2e/5D5480F1/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com",
+        "full_name": "ApplicasterProduct"
+    }
+}
+```   
+
+### Card Example
+
+![image\_2][image-37]
 
 
 
@@ -626,3 +656,4 @@ To confirm the instagram account has been linked there are two options:
 [image-34]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_34.png?raw=true
 [image-35]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_35.png?raw=true
 [image-36]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_36.png?raw=true
+[image-37]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_37.png?raw=true
