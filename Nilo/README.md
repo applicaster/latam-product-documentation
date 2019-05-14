@@ -546,6 +546,7 @@ Instagram
 
 Open the following URL in a private or incognito window to prevent linking a personal account. Enter the credentials for the account.
 
+![image\_2][image-35]
 
 
 https://social-media-aggregator-prod.herokuapp.com/api/instagram-login-redirect?episodeId={episodeID}
@@ -582,7 +583,7 @@ To confirm the instagram account has been linked there are two options:
 1.- Go to the episode details page.
 
 
-![image\_2][image-35]
+![image\_2][image-36]
 
 
 
@@ -624,3 +625,4 @@ To confirm the instagram account has been linked there are two options:
 [image-33]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_33.png?raw=true
 [image-34]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_34.png?raw=true
 [image-35]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_35.png?raw=true
+[image-36]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_36.png?raw=true
