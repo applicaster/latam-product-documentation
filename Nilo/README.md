@@ -443,7 +443,6 @@ The card will look in the app as follows:
 
 #### media_item Object
 
-
 ![image\_2][image-31]
 
 #### Social
