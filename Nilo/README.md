@@ -384,6 +384,18 @@ To create the card through DSP the json object should have the following base st
 ```
 ![image\_2][image-28]
 
+
+The card will look in the app as follows:
+
+	a.- content—>src
+	b.- title
+
+The cars will expand to fullscreen on touch.
+
+![image\_2][image-29]
+
+
+
 #### Social
 
 Twitter and Instagram social mirroring must be configured in the Starlight CMS timeline that corresponds to the timelineId indicated.
@@ -441,3 +453,4 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-26]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_26.png?raw=true
 [image-27]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_27.png?raw=true
 [image-28]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_28.png?raw=true
+[image-29]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_29.png?raw=true
