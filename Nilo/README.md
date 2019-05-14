@@ -248,37 +248,39 @@ Link and Link Event Card
 
 To create the card through DSP the json object should have the following base structure:
 
-	{
-	      "type": {
-	        "value": "link"
-	      },
-	      "id": "1",
-	      "title": “applicaster.com”,
-	      "published": "2019-05-03T13:57:36-05:00",
-	      "updated": "2019-05-03T13:57:36-05:00",
-	      "link": {
-	        "rel": "alternate",
-	        "type": "html",
-	        "href": "https://www.applicaster.com"
-	      },
-	      "media_group": [
-	        {
-	          "type": "image",
-	          "media_item": [
-	            {
-	              "type": "image",
-	              "key": "image_base",
-	              "src": “https://www.applicaster.com/hs-fs/hubfs/Retake_and_Own_Your_Audience/eGuide-asset-1.png?width=1030&name=eGuide-asset-1.png"
-	            }
-	          ]
-	        }
-	      ],
-	      "author": {
-	        "name": "Arturo"
-	      }
-	    }
+```
+{
+      "type": {
+        "value": "link"
+      },
+      "id": "1",
+      "title": “applicaster.com”,
+      "published": "2019-05-03T13:57:36-05:00",
+      "updated": "2019-05-03T13:57:36-05:00",
+      "link": {
+        "rel": "alternate",
+        "type": "html",
+        "href": "https://www.applicaster.com"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": “https://www.applicaster.com/hs-fs/hubfs/Retake_and_Own_Your_Audience/eGuide-asset-1.png?width=1030&name=eGuide-asset-1.png"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "Arturo"
+      }
+    }
+```
 
-
+![image\_2][image-23]
 
 #### Social
 
@@ -331,3 +333,4 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-20]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_20.png?raw=true
 [image-21]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_21.png?raw=true
 [image-22]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_22.png?raw=true
+[image-23]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_23.png?raw=true
