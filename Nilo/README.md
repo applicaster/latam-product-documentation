@@ -460,11 +460,43 @@ To enable Nilo to use any of the social accounts configured, go to UI Builder an
 
 ![image\_2][image-32]
 
+### Twitter
+
+
+Open the following URL in a private or incognito window to prevent linking a personal account. Enter the credentials for the account.
+
+https://social-media-aggregator-prod.herokuapp.com/api/twitter-login-redirect?episodeId={episodeID}
 
 
 
+Parameters:
 
+- episodeID. 
 
+  - To acquire use the following collection in Postman. https://www.getpostman.com/collections/e33ac8480bc37bc15f0c.
+  - Use the method “GET All configurations” to acquire your feed ID or “GET Configuration by ID” if you already have the ID. See the example below.
+
+```
+{
+        "_id": "5cbe5a191bebd500049d1fcc",
+        "episodeTitle": “Episode Test",
+        "endTime": 1556237960,
+        "startTime": 1556065160,
+        "timelineTitle": "Product Test",
+        "episodeId": "5cbe5a18f8292f4a9bdfef48",
+        "accountId": "5aa98c3bd7c3ef0008754666",
+        "timelineId": "5ca7a8d78f6260436de2ecfb",
+        "pollingInterval": 30,
+        "instagramJobId": -1,
+        "facebookJobId": -1,
+        "twitterJobId": -1,
+        "aggregationJobId": 104257621,
+        "starsJobId": 28328914,
+        "__v": 0
+    }
+```
+
+![image\_2][image-33]
 
 
 
@@ -516,3 +548,4 @@ To enable Nilo to use any of the social accounts configured, go to UI Builder an
 [image-30]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_30.png?raw=true
 [image-31]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_31.png?raw=true
 [image-32]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_32.png?raw=true
+[image-33]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_33.png?raw=true
