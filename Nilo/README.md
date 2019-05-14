@@ -395,6 +395,50 @@ The cars will expand to fullscreen on touch.
 ![image\_2][image-29]
 
 
+### Video Card
+
+To create the card through DSP the json object should have the following base structure:
+
+```
+{
+      "type": {
+        "value": "video"
+      },
+      "id": "4",
+      "category": "APPLICASTER VIDEOS",
+      "title": "VIDEO CARD",
+      "summary": "TEST",
+      "published": "2019-05-07T13:58:36-05:00",
+      "updated": "2019-05-07T13:58:36-05:00",
+      "content": {
+        "type": "video/hls",
+        "src": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "key": "image_base",
+              "src": "http://www.prensario.net/Multimedios/imgs/25758_468.jpg?v=4"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "Arturo"
+      }
+```
+
+The card will look in the app as follows:
+
+	a.- content—>src
+	b.- title
+	c.- summary
+
+![image\_2][image-30]
+
 
 #### Social
 
@@ -454,3 +498,4 @@ Please contact support in order to configure Twitter or Instagram support@applic
 [image-27]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_27.png?raw=true
 [image-28]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_28.png?raw=true
 [image-29]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_29.png?raw=true
+[image-30]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_30.png?raw=true
