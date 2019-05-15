@@ -620,6 +620,7 @@ To confirm the instagram account has been linked there are two options:
 
 
 
+
 [image-1]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true
 [image-2]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_2.png?raw=true
 [image-3]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_3.png?raw=true
