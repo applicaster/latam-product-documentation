@@ -52,6 +52,7 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
 - Use the **Developer Resources** section to obtain the URL for JSON and RSS formats. This URL will be set up as part of the plugin.
     - The parameter **search** will be the input value for the search.
 
+![image\_2][image-5]
 
 ### UI Builder
 
