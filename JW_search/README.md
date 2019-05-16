@@ -57,6 +57,8 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
 ### UI Builder
 
 - Once inside UI Builder go to **plugins->My PLugins** . Find the **JW Search Plugin** and install it.
+
+![image\_2][image-6]
   
 - The plugin will be available as a screen. This allow it to be actioned by any component.
 
