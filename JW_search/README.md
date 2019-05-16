@@ -36,6 +36,8 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
 
 - Click on **Create** button and select **Search** as the type of playlist to create.
 
+![image\_2][image-2]
+
 - Inside the playlist details page there are several settings to personalise the bevavior.USe the **SETUP** subsection .
 
     1.- Filter by Tag - Include videos with. Restrain the search to only respond with videos containing specific tags and the text being searched.
@@ -85,3 +87,11 @@ Contact JW Player for more information.
 
 
 [image-1]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_1.png?raw=true
+[image-2]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_2.png?raw=true
+[image-3]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_3.png?raw=true
+[image-4]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_4.png?raw=true
+[image-5]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_5.png?raw=true
+[image-6]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_6.png?raw=true
+[image-7]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_7.png?raw=true
+[image-8]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_8.png?raw=true
+[image-9]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_9.png?raw=true
