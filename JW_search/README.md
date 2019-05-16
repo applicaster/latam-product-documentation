@@ -62,6 +62,8 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
   
 - The plugin will be available as a screen. This allow it to be actioned by any component.
 
+![image\_2][image-7]
+
 - There are two settings to configure to make the plugin functional:
   - Base URL. The URL gathered through the JW Platform which references the search playlist
   - Page Limit. Amount of itmes to be requested. The pagination will load more items at the same rate each time the last item is reached while scrolling the list.
