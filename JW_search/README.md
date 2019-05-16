@@ -32,6 +32,8 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
 
 - Once inside the dashboard select **Playlists** from the videos menu.
 
+![image\_2][image-1]
+
 - Click on **Create** button and select **Search** as the type of playlist to create.
 
 - Inside the playlist details page there are several settings to personalise the bevavior.USe the **SETUP** subsection .
@@ -72,3 +74,14 @@ TBD
 ### Pricing
 
 Contact JW Player for more information.
+
+
+
+
+
+
+
+
+
+
+[image-1]:	https://github.com/applicaster/latam-product-documentation/blob/master/JW_search/ss_1.png?raw=true
