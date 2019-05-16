@@ -47,6 +47,8 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
     3.- Promoted content. Not applicable at this moment to the product.
     4.- List Lenght. Maximum records to be returned by the search. This value can be paginated to improve the experience and time of response by the search. 
 
+![image\_2][image-4]
+
 - Use the **Developer Resources** section to obtain the URL for JSON and RSS formats. This URL will be set up as part of the plugin.
     - The parameter **search** will be the input value for the search.
 
