@@ -38,6 +38,8 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
 
 ![image\_2][image-2]
 
+![image\_2][image-3]
+
 - Inside the playlist details page there are several settings to personalise the bevavior.USe the **SETUP** subsection .
 
     1.- Filter by Tag - Include videos with. Restrain the search to only respond with videos containing specific tags and the text being searched.
@@ -76,8 +78,6 @@ TBD
 ### Pricing
 
 Contact JW Player for more information.
-
-
 
 
 
