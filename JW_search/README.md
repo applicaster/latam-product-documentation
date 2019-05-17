@@ -68,6 +68,8 @@ The configuration is devided between JW PLatform Dashboard and UI Builder.
   - Base URL. The URL gathered through the JW Platform which references the search playlist
   - Page Limit. Amount of itmes to be requested. The pagination will load more items at the same rate each time the last item is reached while scrolling the list.
 
+![image\_2][image-8]
+
 Visual example of the search.
 
 
