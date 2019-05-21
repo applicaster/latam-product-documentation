@@ -31,6 +31,14 @@ The list of channels can be used in conjunction to display live events or as a s
 
 - Streaming source change. Each time the player begins the playback of a channel or a live event an event is triggered and it can be send to a specific endpoint.
 
+Key for VOD:
+
+vod_play_rn
+
+key for Live:
+
+live_play_rn
+
 ## Related Technologies
 
 Due to its video nature the live switcher experience can be improved by adding one or both of the following technologies:
