@@ -47,6 +47,14 @@ Due to its video nature the live switcher experience can be improved by adding o
 
 **DFP (Doubleclick For Publishers)**. This is a well known product to add pre rolls, mid rolls and post rolls to a streaming video. Generally this is better combined with VOD but a live streaming can benefit by adding a pre roll before playback.
 
+DFP VAST tags have to be configured in applicaster 2 using the following keys:
+
+iOS:
+Inline preroll iphone
+
+Android:
+Preroll inline android phone
+
 ## Configuration
 
 ### Feed Structure
