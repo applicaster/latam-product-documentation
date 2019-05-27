@@ -72,4 +72,4 @@ The plugin covers the following flows:
 
 
 [image-1]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_1.png
-[image-2]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_2.png
+[image-2]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_2upup.png
