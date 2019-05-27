@@ -53,6 +53,8 @@ Provide the following parameters to configure the User Pool in the plugin config
 - Region
 - userpoolid
 
+![image\_3][image-3]
+
 The plugin can be personalized to fit a client's corporative image. A sketch file is hosted as part of the documentation; all keys for texts, colors and components are there and with clear visuals.
 
 [Sketch file](https://github.com/applicaster/latam-product-documentation/blob/master/AWS_cognito/cognito.sketch)
@@ -71,7 +73,24 @@ The plugin covers the following flows:
 - User Forgot Password
 - User activation
 
-![image\_3][image-3]
+### Out of scope
+
+For registration the plugin takes the following fields only:
+
+- Username
+- E-mail
+- Password
+
+AWS cognito supports by default user attributes defined in the [OpenID Connect Specification](https://openid.net/specs/openid-connect-core-1_0.html#StandardClaims)
+
+For following phases the development should explore a dinamic way to define which fields to show as part of the registration.
+
+### Next Phases
+
+- Identity Pools (Fedarated Entities). Specifically social login.
+- "Not now" Flow. Suggest to login for clients who chose to add this type of suggestion to improve app experience.
+- Dynamic resgistration fields.
+- Firebase Analytics.
 
 
 [image-1]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_1.png
