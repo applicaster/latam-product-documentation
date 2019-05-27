@@ -59,7 +59,7 @@ The plugin can be personalized to fit a client's corporative image. A sketch fil
 
 ![image\_1][image-1]
 
-All keys described in the file are available in the plugin condiguration.
+All keys described in the file are available in the plugin configuration.
 
 ![image\_4][image-4]
 
