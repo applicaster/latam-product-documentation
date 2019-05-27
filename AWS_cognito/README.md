@@ -54,6 +54,7 @@ Provide the following parameters to configure the User Pool in the plugin config
 - userpoolid
 
 The plugin can be personalized to fit a clien't corporative image. A sketch file is hosted as part of the documentation
+[Sketch file](https://github.com/applicaster/latam-product-documentation/blob/master/AWS_cognito/cognito.sketch)
 
 ![image\_1][image-1]
 
