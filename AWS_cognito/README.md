@@ -55,6 +55,8 @@ Provide the following parameters to configure the User Pool in the plugin config
 
 The plugin can be personalized to fit a clien't corporative image. A sketch file is hosted as part of the documentation
 
+![image\_1][image-1]
+
 The plugin covers the following flows:
 
 - User Sign In
@@ -62,3 +64,5 @@ The plugin covers the following flows:
 - User Forgot Password
 - User activation
 
+
+[image-1]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_1.png
