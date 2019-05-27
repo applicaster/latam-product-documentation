@@ -61,6 +61,7 @@ The plugin can be personalized to fit a client's corporative image. A sketch fil
 
 All keys described in the file are available in the plugin condiguration.
 
+![image\_4][image-4]
 
 
 The plugin covers the following flows:
@@ -70,6 +71,10 @@ The plugin covers the following flows:
 - User Forgot Password
 - User activation
 
+![image\_3][image-3]
+
 
 [image-1]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_1.png
-[image-2]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_2upup.png
+[image-2]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_2.png
+[image-3]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_3.png
+[image-4]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_4.png
