@@ -44,7 +44,7 @@ The userpool should have been configured using a client secret.
 
 Add the plugin ""AWS Cognito Login" to your app, through the zapp gallery.
 
-Once addesd
+![image\_2][image-2]
 
 Provide the following parameters to configure the User Pool in the plugin configuration:
 
@@ -53,10 +53,15 @@ Provide the following parameters to configure the User Pool in the plugin config
 - Region
 - userpoolid
 
-The plugin can be personalized to fit a clien't corporative image. A sketch file is hosted as part of the documentation
+The plugin can be personalized to fit a client's corporative image. A sketch file is hosted as part of the documentation; all keys for texts, colors and components are there and with clear visuals.
+
 [Sketch file](https://github.com/applicaster/latam-product-documentation/blob/master/AWS_cognito/cognito.sketch)
 
 ![image\_1][image-1]
+
+All keys described in the file are available in the plugin condiguration.
+
+
 
 The plugin covers the following flows:
 
@@ -67,3 +72,4 @@ The plugin covers the following flows:
 
 
 [image-1]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_1.png
+[image-2]:	https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/AWS_cognito/ss_2.png
