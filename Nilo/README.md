@@ -471,9 +471,10 @@ https://social-media-aggregator-prod.herokuapp.com/api/twitter-login-redirect?ep
 
 Parameters:
 
-- episodeID. 
+- episodeID.
 
   - To acquire use the following collection in Postman. https://www.getpostman.com/collections/e33ac8480bc37bc15f0c.
+  - 
   - Use the method “GET All configurations” to acquire your feed ID or “GET Configuration by ID” if you already have the ID. See the example below.
 
 ```
