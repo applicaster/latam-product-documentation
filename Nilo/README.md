@@ -474,7 +474,17 @@ Parameters:
 - episodeID.
 
   - To acquire use the following collection in Postman. https://www.getpostman.com/collections/e33ac8480bc37bc15f0c.
-  - 
+    - Dowload postman from [here](https://www.getpostman.com/downloads/).
+    - Open postman and add the collection to your workspace.
+      1.- You can use the workspace by default or creat a new personal workspace.
+      2.- Select collections.
+      3.- Click on import.
+      ![image\_2][image-38]
+
+    - In the import window select "Import From Link". Enter the link for the collection and click on "Import" button.
+      ![image\_2][image-39]
+
+
   - Use the method “GET All configurations” to acquire your feed ID or “GET Configuration by ID” if you already have the ID. See the example below.
 
 ```
@@ -504,8 +514,15 @@ As final step use the method “PUT Configuration” go to the Body section and 
 
 Parameters:
 
--id. Is the “_id” key available as part of the Configuration response in the previous step.
--twitterScreenName. The username of the twitter account.
+- id. Is the “_id” key available as part of the Configuration response in the previous step.
+- twitterScreenName. The username of the twitter account.
+
+  
+  1.- Collection Folder.
+  2.- Mehotd to use "PUT Configuration"
+  3.- Select Body -> form-data  and Check the two parameters aformentioned. Enter both values in reference to the client.  
+
+![image\_2][image-40]
 
 The call should give a response as follows (Twitter account fields should be part of the configuration):
 
@@ -619,7 +636,20 @@ To confirm the instagram account has been linked there are two options:
 
 ![image\_2][image-37]
 
+## Detache Social
 
+In order to detach Twitter and/or Instagram from Nilo. Making use of the same Postman Colletion, follow the next steps:
+
+1- Gather the ID of your configuration. Use the method GET All Configurations.
+
+
+
+1.- Open postman and select one of the two methods respectively. 
+
+  - Instagram: Detach Instagram from Configuration.
+  - Twitter: Detach Twitter from Configuration.
+
+2.- Once selected the 
 
 
 [image-1]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true
@@ -659,3 +689,6 @@ To confirm the instagram account has been linked there are two options:
 [image-35]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_35.png?raw=true
 [image-36]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_36.png?raw=true
 [image-37]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_37.png?raw=true
+[image-38]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_38.png?raw=true
+[image-39]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_39.png?raw=true
+[image-40]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_40.png?raw=true
