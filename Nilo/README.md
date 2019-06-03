@@ -636,7 +636,7 @@ To confirm the instagram account has been linked there are two options:
 
 ![image\_2][image-37]
 
-## Detache Social
+## Detach Social
 
 In order to detach Twitter and/or Instagram from Nilo. Making use of the same Postman Colletion, follow the next steps:
 
