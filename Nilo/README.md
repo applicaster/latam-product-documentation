@@ -702,4 +702,4 @@ In order to detach Twitter and/or Instagram from Nilo. Making use of the same Po
 [image-39]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_39.png?raw=true
 [image-40]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_40.png?raw=true
 [image-41]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_41.png?raw=true
-[image-42]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_41.png?raw=true
+[image-42]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_42.png?raw=true
