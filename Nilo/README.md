@@ -640,16 +640,25 @@ To confirm the instagram account has been linked there are two options:
 
 In order to detach Twitter and/or Instagram from Nilo. Making use of the same Postman Colletion, follow the next steps:
 
-1- Gather the ID of your configuration. Use the method GET All Configurations.
+-Gather the ID of your configuration:
+
+  1.- Slect GET All Configurations 
+  2.- Hit Send Button
+  3.- Click on the response area (where the json apeear) and hit cmd+f for the search bar to appear.
+  4.- Use the search bar to find your Episode Name and gather the configuration id.
+
+  ![image\_2][image-41]
 
 
+- With the configuration ID:
 
-1.- Open postman and select one of the two methods respectively. 
-
-  - Instagram: Detach Instagram from Configuration.
-  - Twitter: Detach Twitter from Configuration.
-
-2.- Once selected the 
+  1.- Select one of the two methods respectively:
+    - Instagram: Detach Instagram from Configuration.
+    - Twitter: Detach Twitter from Configuration.
+  2.- Replace the id configuration in the URL of the method.
+  3.- Hit send. The Response will show the details for the account with Instagram of Twitter tokens set to "-1"
+ 
+  ![image\_2][image-42]
 
 
 [image-1]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_1.png?raw=true
@@ -692,3 +701,5 @@ In order to detach Twitter and/or Instagram from Nilo. Making use of the same Po
 [image-38]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_38.png?raw=true
 [image-39]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_39.png?raw=true
 [image-40]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_40.png?raw=true
+[image-41]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_41.png?raw=true
+[image-42]:	https://github.com/applicaster/latam-product-documentation/blob/master/Nilo/ss_41.png?raw=true
