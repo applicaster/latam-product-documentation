@@ -53,6 +53,29 @@ Provide the following parameters to configure the User Pool in the plugin config
 - Region
 - userpoolid
 
+*Region should cosider the following values in iOS:*
+- useast1
+- useast2
+- uswest1
+- uswest2
+- euwest1
+- euwest2
+- eucentral1
+- apsoutheast1
+- apnortheast1
+- apnortheast2
+- apsoutheast2
+- apsouth1
+- saeast1
+- cnnorth1
+- cacentral1
+- usgovwest1
+- cnnorthwest1
+- euwest3
+- usgoveast1
+- eunorth1
+- apeast1
+
 ![image\_3][image-3]
 
 The plugin can be personalized to fit a client's corporative image. A sketch file is hosted as part of the documentation; all keys for texts, colors and components are there and with clear visuals.
