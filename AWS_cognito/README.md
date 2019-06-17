@@ -83,7 +83,7 @@ For registration the plugin takes the following fields only:
 
 AWS cognito supports by default user attributes defined in the [OpenID Connect Specification](https://openid.net/specs/openid-connect-core-1_0.html#StandardClaims)
 
-For following phases the development should explore a dinamic way to define which fields to show as part of the registration.
+For following phases the development should explore a dynamic way to define which fields to show as part of the registration.
 
 ### Next Phases
 
