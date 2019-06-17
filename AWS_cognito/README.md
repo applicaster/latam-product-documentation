@@ -76,6 +76,12 @@ Provide the following parameters to configure the User Pool in the plugin config
 - eunorth1
 - apeast1
 
+*Region in Android can be taken from the suffix in the userpoolID*
+
+ Example: us-east-1_mE85twU0T
+ Region = us-east-1
+ 
+
 ![image\_3][image-3]
 
 The plugin can be personalized to fit a client's corporative image. A sketch file is hosted as part of the documentation; all keys for texts, colors and components are there and with clear visuals.
