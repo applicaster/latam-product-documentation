@@ -171,6 +171,8 @@ The “Image Card” allows to post an Image with a brief description text.
 	
 	d.- Trigger Scheduled. Program the publishing of the card at an specific time.
 
+  *Consider to use images with 16:9 Apect Ratio. Preferably 1280x720.
+
 ![image\_2][image-16]
 
 
