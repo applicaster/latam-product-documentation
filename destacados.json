@@ -1,0 +1,96 @@
+{
+  "entry": [
+    {
+      "author": {
+        "name": "TV Azteca"
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=https://envivoapp.qa.tv-azteca.psdops.com/destacados/masterchef-2018",
+        "type": "feed"
+      },
+      "id": "0000016a-4abf-da31-afef-fbbfd5c10000",
+      "link": {
+        "href": "https://envivoapp.qa.tv-azteca.psdops.com/destacados/masterchef-2018",
+        "rel": "self",
+        "type": "feed"
+      },
+      "mediaGroup": [
+        {
+          "mediaItem": [
+            {
+              "key": "image_1",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/cb76460/2147483647/strip/true/crop/207x303+64+0/resize/375x550!/quality/90/?url=https%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2018%2F41%2Flogomasterchefmxico2018-2260725.png",
+              "type": "image"
+            },
+            {
+              "key": "image_base",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/2e97b03/2147483647/strip/true/crop/334x188+0+58/resize/1024x576!/quality/90/?url=https%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2018%2F41%2Flogomasterchefmxico2018-2260725.png",
+              "type": "image"
+            },
+            {
+              "key": "cmsSiteLogo",
+              "src": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/35/2b/81646a2e45a2b94d8746630f8a1b/logoaztecauno-2268512.png",
+              "type": "image"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "published": "2019-04-23T15:11:20.833Z",
+      "summary": "MasterChef México regresa este 2018 más exigente que nunca. Descubre quién será el mejor cocinero de México en la cocina más famosa del mundo. Tv Azteca.",
+      "title": "MASTERCHEF 2018",
+      "type": {
+        "value": "feed"
+      },
+      "updated": "2019-07-09T19:27:34.771Z"
+    },
+    {
+      "author": {
+        "name": "TV Azteca"
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=https://envivoapp.qa.tv-azteca.psdops.com/destacados/exatlon",
+        "type": "feed"
+      },
+      "id": "00000169-e8e4-d134-af6f-fce54dd00000",
+      "link": {
+        "href": "https://envivoapp.qa.tv-azteca.psdops.com/destacados/exatlon",
+        "rel": "self",
+        "type": "feed"
+      },
+      "mediaGroup": [
+        {
+          "mediaItem": [
+            {
+              "key": "image_1",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/e05e9a1/2147483647/strip/true/crop/222x326+179+0/resize/375x550!/quality/90/?url=http%3A%2F%2Fstatic.azteca.com%2Fcrop%2Fcrop.php%3Fwidth%3D580%26height%3D%26img%3Dhttp%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2017%2F41%2Fexatlon-2167878.jpg%26coordinates%3D50%2C50",
+              "type": "image"
+            },
+            {
+              "key": "image_base",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/f6c6778/2147483647/strip/true/crop/580x326+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Fstatic.azteca.com%2Fcrop%2Fcrop.php%3Fwidth%3D580%26height%3D%26img%3Dhttp%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2017%2F41%2Fexatlon-2167878.jpg%26coordinates%3D50%2C50",
+              "type": "image"
+            },
+            {
+              "key": "cmsSiteLogo",
+              "src": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/35/2b/81646a2e45a2b94d8746630f8a1b/logoaztecauno-2268512.png",
+              "type": "image"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "published": "2019-04-04T15:10:13.956Z",
+      "summary": "20 participantes. 2 equipos. Sólo un ganador. Disfruta Exatlón, por Azteca Uno ¿Estás listo para la competencia deportiva más difícil del mundo? En este nuevo reality que llega a la pantalla de Azteca 7, 20 participantes no solo usarán sus capacidades físicas, si no también tendrán que poner a prueba su destreza y sacar todo su coraje para permanecer dentro de la competencia.",
+      "title": "Exatlon",
+      "type": {
+        "value": "feed"
+      },
+      "updated": "2019-07-09T19:39:23.323Z"
+    }
+  ],
+  "title": "Destacados",
+  "type": {
+    "value": "feed"
+  }
+}
