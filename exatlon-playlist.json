@@ -1,0 +1,52 @@
+{
+  "entry": [
+    {
+      "author": {
+        "name": "TV Azteca"
+      },
+      "content": {
+        "src": "",
+        "type": "video/hls"
+      },
+      "id": "00000169-e8e8-d134-af6f-fce996ad0001",
+      "mediaGroup": [
+        {
+          "type": "image"
+        }
+      ],
+      "published": "2019-04-04T15:17:32.008Z",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "title": "¡Evelyn tira para seguir en la batalla!",
+      "type": {
+        "value": "video"
+      },
+      "updated": "2019-07-09T19:37:02.773Z"
+    },
+    {
+      "author": {
+        "name": "TV Azteca"
+      },
+      "content": {
+        "src": "",
+        "type": "video/hls"
+      },
+      "id": "00000169-e8e8-d134-af6f-fce996ad0001",
+      "mediaGroup": [
+        {
+          "type": "image"
+        }
+      ],
+      "published": "2019-04-04T15:17:32.008Z",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "title": "¡Evelyn tira para seguir en la batalla!",
+      "type": {
+        "value": "video"
+      },
+      "updated": "2019-07-09T19:37:02.773Z"
+    }
+  ],
+  "title": "Test Playlist",
+  "type": {
+    "value": "feed"
+  }
+}
