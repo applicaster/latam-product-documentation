@@ -1,0 +1,39 @@
+{
+  "color": "#1ca0d1",
+  "icono": "f072",
+  "items": [
+    {
+      "autor": "Azteca Noticias",
+      "compartir": "https://noticiasapp.qa.tv-azteca.psdops.com/ultimas-noticias/article-2",
+      "contenido": "Butcher cliche keytar taiyaki, neutra hashtag next level affogato raw denim wolf chillwave unicorn craft beer jianbing normcore. Authentic vice echo park, gochujang brunch tousled vinyl. Hexagon bushwick forage pug synth. Lyft forage VHS, helvetica normcore iceland truffaut etsy. Tilde lumbersexual snackwave church-key pork belly. Fanny pack affogato portland keytar aesthetic. Ennui everyday carry stumptown, butcher trust fund crucifix shabby chic gluten-free cold-pressed fam shaman.<br><br>DIY af cred chicharrones. Godard beard cardigan selfies seitan kogi. Roof party taxidermy 3 wolf moon art party DIY master cleanse post-ironic blog truffaut brunch seitan pabst literally. Yuccie gochujang hexagon fingerstache, church-key blog vexillologist bushwick actually coloring book selvage cray lomo.<br><br>Poke trust fund truffaut venmo woke celiac health goth PBR&amp;B. Bespoke wolf man braid direct trade unicorn. Flexitarian PBR&amp;B listicle, vaporware keffiyeh cardigan mustache ethical portland activated charcoal polaroid thundercats iceland. Aesthetic marfa williamsburg, retro authentic YOLO wayfarers lo-fi pok pok pickled letterpress tilde cardigan.<br>",
+      "fecha": "Tue Apr 23 16:32:34 EDT 2019",
+      "fechacap": "Tue Apr 23 16:32:34 EDT 2019",
+      "galeria": "",
+      "imagen": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/6d/fc/e68bc9514fe6accaa059e92d141d/garden1.jpg",
+      "imgDefault": "0",
+      "nota": "https://noticiasapp.qa.tv-azteca.psdops.com/ultimas-noticias/article-2",
+      "orden": "1",
+      "teaser": "Subheadline",
+      "tema": "Ultimas Noticias",
+      "titulo": "Article 2",
+      "video": ""
+    },
+    {
+      "autor": "Azteca Noticias",
+      "compartir": "https://noticiasapp.qa.tv-azteca.psdops.com/ultimas-noticias/article-1",
+      "contenido": "Dreamcatcher tumblr 3 wolf moon, fam asymmetrical brunch mixtape everyday carry hammock. Put a bird on it slow-carb taiyaki mlkshk, mumblecore XOXO listicle fashion axe cold-pressed plaid af. Fixie church-key air plant chicharrones tbh microdosing narwhal everyday carry authentic mumblecore organic coloring book drinking vinegar seitan. Craft beer single-origin coffee squid, pabst authentic normcore iceland tumblr. Asymmetrical air plant keytar, tumeric skateboard franzen YOLO organic tofu etsy activated charcoal vexillologist neutra iceland meditation.<br><br>Viral woke gluten-free pickled franzen cliche small batch stumptown seitan forage sustainable blog. Raw denim cloud bread godard migas, whatever roof party literally copper mug photo booth hell of readymade. Thundercats hammock lo-fi taxidermy seitan freegan. Kickstarter lyft venmo, gluten-free air plant pinterest tilde occupy humblebrag put a bird on it skateboard roof party everyday carry cloud bread hexagon. Blue bottle 90's woke artisan hammock pickled vape. Tilde occupy dreamcatcher affogato waistcoat.",
+      "fecha": "Tue Apr 23 16:31:31 EDT 2019",
+      "fechacap": "Tue Apr 23 16:31:31 EDT 2019",
+      "galeria": "",
+      "imagen": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/3f/ac/940abb2d48078cc864517afa653a/garden3.jpg",
+      "imgDefault": "0",
+      "nota": "https://noticiasapp.qa.tv-azteca.psdops.com/ultimas-noticias/article-1",
+      "orden": "2",
+      "teaser": "Subheadline",
+      "tema": "Ultimas Noticias",
+      "titulo": "Article 1",
+      "video": ""
+    }
+  ],
+  "nombre": "Ultimas Noticias"
+}
