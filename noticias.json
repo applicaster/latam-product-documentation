@@ -1,0 +1,88 @@
+{
+  "actualizacion": {
+    "cerrar": 0,
+    "dispositivos": [
+      {
+        "android": [
+          {
+            "imagenPhone": "http://www.aztecanoticias.com.mx/appnoticias2018/json/imagenes/telefono.png",
+            "imagenTablet": "http://www.aztecanoticias.com.mx/appnoticias2018/json/imagenes/tableta.png",
+            "urlPhone": "https://play.google.com/store/apps/details?id=com.noticias.azteca",
+            "urlTablet": "https://play.google.com/store/apps/details?id=com.noticias.azteca",
+            "versionPhone": "6.0.0",
+            "versionTablet": "6.0.0"
+          }
+        ]
+      },
+      {
+        "IOS": [
+          {
+            "imagenPhone": "http://www.tvazteca.com/moviles/alerta/noticias/imagenes/iphone.jpg",
+            "imagenTablet": "http://www.tvazteca.com/moviles/alerta/noticias/imagenes/ipad.jpg",
+            "imagenTabletsota": "http://www.tvazteca.com/moviles/alerta/noticias/imagenes/ipadsota.jpg",
+            "urlPhone": "https://itunes.apple.com/us/app/azteca-noticias/id396764341?mt=8",
+            "urlTablet": "https://itunes.apple.com/us/app/azteca-noticias/id396764341?mt=8",
+            "urlTabletsota": "https://itunes.apple.com/us/app/azteca-noticias/id396764341?mt=8",
+            "versionPhone": "4.0",
+            "versionTablet": "4.0",
+            "versionTabletsota": "4.0"
+          }
+        ]
+      }
+    ],
+    "imagenBoton": "",
+    "mostrar": 0,
+    "textoBoton": ""
+  },
+  "busqueda": {
+    "servicio": "http://www.aztecanoticias.com.mx/rest/index/index.php?modulo=",
+    "url": "http://www.aztecanoticias.com.mx/rest/index/index.php?modulo=busqueda"
+  },
+  "publicidad": {
+    "url": "http://www.aztecanoticias.com.mx/appnoticias2018/json/smart/posicionesVenta.xml"
+  },
+  "secciones": {
+    "datos": [
+      {
+        "color": "#227744",
+        "icono": "f11d",
+        "tipo": "seccion",
+        "titulo": "Política",
+        "url": "https://noticiasapp.qa.tv-azteca.psdops.com/politica"
+      },
+      {
+        "color": "#006699",
+        "icono": "f0ac",
+        "tipo": "seccion",
+        "titulo": "Internacional",
+        "url": "https://noticiasapp.qa.tv-azteca.psdops.com/internacional"
+      },
+      {
+        "color": "#cc3333",
+        "icono": "f0e3",
+        "tipo": "seccion",
+        "titulo": "Elecciones",
+        "url": "https://noticiasapp.qa.tv-azteca.psdops.com/elecciones"
+      }
+    ],
+    "titulo": "SECCIONES"
+  },
+  "splash": {
+    "etiqueta": "AL MOSTRAR",
+    "valor": "2"
+  },
+  "ultimasnoticias": {
+    "color": "#1ca0d1",
+    "icono": "f072",
+    "tipo": "seccion",
+    "titulo": "Ultimas Noticias",
+    "url": "https://noticiasapp.qa.tv-azteca.psdops.com/ultimas-noticias"
+  },
+  "ultimosvideos": {
+    "color": "#1ca0d1",
+    "icono": "f073",
+    "tipo": "seccion",
+    "titulo": "Ultimos Videos",
+    "url": "https://noticiasapp.qa.tv-azteca.psdops.com/ultimos-videos"
+  }
+}
