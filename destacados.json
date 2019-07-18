@@ -14,9 +14,9 @@
         "rel": "self",
         "type": "feed"
       },
-      "mediaGroup": [
+      "media_group": [
         {
-          "mediaItem": [
+          "media_item": [
             {
               "key": "image_1",
               "src": "https://qa.tv-azteca.psdops.com/dims4/default/cb76460/2147483647/strip/true/crop/207x303+64+0/resize/375x550!/quality/90/?url=https%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2018%2F41%2Flogomasterchefmxico2018-2260725.png",
@@ -58,9 +58,9 @@
         "rel": "self",
         "type": "feed"
       },
-      "mediaGroup": [
+      "media_group": [
         {
-          "mediaItem": [
+          "media_item": [
             {
               "key": "image_1",
               "src": "https://qa.tv-azteca.psdops.com/dims4/default/e05e9a1/2147483647/strip/true/crop/222x326+179+0/resize/375x550!/quality/90/?url=http%3A%2F%2Fstatic.azteca.com%2Fcrop%2Fcrop.php%3Fwidth%3D580%26height%3D%26img%3Dhttp%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2017%2F41%2Fexatlon-2167878.jpg%26coordinates%3D50%2C50",
