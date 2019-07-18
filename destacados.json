@@ -1,2 +1,96 @@
-
-{"type":{"value":"feed"},"title":"DESTACADOS","entry":[{"type":{"value":"feed"},"id":"11481","title":"MI PAREJA PUEDE","summary":"Es un programa de concursos donde parejas competir\u00e1n en desaf\u00edos que el conductor les pondr\u00e1 para demostrar la confianza que existe entre ellos y ganar as\u00ed, dinero.","published":"2019-01-09T19:00:00Z","updated":"2019-01-09T19:00:00Z","author":{"name":"TvAzteca"},"media_group":[{"type":"image","media_item":[{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=375&height=550&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/miparejapuede_1.jpg&coordinates=50,50","key":"image_1","type":"image"},{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=1024&height=576&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/miparejapuede_2.jpg&coordinates=50,50","key":"image_base","type":"image"},{"src":"https:\/\/static.azteca.com\/imagenes\/2018\/45\/logoaztecauno-2268512.png","key":"icon_1","type":"image"}]}],"content":{"type":"feed","src":"general-provider:\/\/fetchData?type=FEED_JSON&url=http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/miparejapuede.json"},"link":{"type":"feed","rel":"self","href":"http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/miparejapuede.json"}},{"type":{"value":"feed"},"id":"11014","title":"ENAMOR\u00c1NDONOS","summary":"Azteca Uno presenta Enamor\u00e1ndonos En Vivo. Un dating show donde hombres y mujeres podr\u00e1n encontrar el amor. Entra y disfruta del programa en vivo. ","published":"2016-09-28T13:19:00Z","updated":"2016-09-28T13:19:00Z","author":{"name":"TvAzteca"},"media_group":[{"type":"image","media_item":[{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=375&height=550&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/enamorandonos_1.jpg&coordinates=50,50","key":"image_1","type":"image"},{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=1024&height=576&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/enamorandonos_2.jpg&coordinates=50,50","key":"image_base","type":"image"},{"src":"https:\/\/static.azteca.com\/imagenes\/2018\/45\/logoaztecauno-2268512.png","key":"icon_1","type":"image"}]}],"content":{"type":"feed","src":"general-provider:\/\/fetchData?type=FEED_JSON&url=http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/enamorandonos.json"},"link":{"type":"feed","rel":"self","href":"http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/enamorandonos.json"}},{"type":{"value":"feed"},"id":"257","title":"VENTANEANDO","summary":"Ventaneando es un programa televisivo con noticias, entrevistas e informaci\u00f3n oportuna del medio del espect\u00e1culo.","published":"2010-10-10T10:00:00Z","updated":"2010-10-10T10:00:00Z","author":{"name":"TvAzteca"},"media_group":[{"type":"image","media_item":[{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=375&height=550&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/ventaneando_1.jpg&coordinates=50,50","key":"image_1","type":"image"},{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=1024&height=576&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/ventaneando_2.jpg&coordinates=50,50","key":"image_base","type":"image"},{"src":"https:\/\/static.azteca.com\/imagenes\/2018\/45\/logoaztecauno-2268512.png","key":"icon_1","type":"image"}]}],"content":{"type":"feed","src":"general-provider:\/\/fetchData?type=FEED_JSON&url=http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/ventaneando.json"},"link":{"type":"feed","rel":"self","href":"http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/ventaneando.json"}},{"type":{"value":"feed"},"id":"11374","title":"TODO UN SHOW","summary":"Recibe el mediod\u00eda lleno de informaci\u00f3n, humor, chismes y mucha diversi\u00f3n.","published":"2018-04-22T19:29:00Z","updated":"2018-04-22T19:29:00Z","author":{"name":"TvAzteca"},"media_group":[{"type":"image","media_item":[{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=375&height=550&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/todounshow_1.jpg&coordinates=50,50","key":"image_1","type":"image"},{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=1024&height=576&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/todounshow_2.jpg&coordinates=50,50","key":"image_base","type":"image"},{"src":"https:\/\/static.azteca.com\/imagenes\/2018\/45\/logoaztecauno-2268512.png","key":"icon_1","type":"image"}]}],"content":{"type":"feed","src":"general-provider:\/\/fetchData?type=FEED_JSON&url=http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/todounshow.json"},"link":{"type":"feed","rel":"self","href":"http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/todounshow.json"}},{"type":{"value":"feed"},"id":"272","title":"VENGA LA ALEGR\u00cdA","summary":"Venga la Alegr\u00eda es un divertido programa de entretenimiento transmitido por Azteca Trece, dise\u00f1ado para llevar diversi\u00f3n a la familia mexicana de manera desenfadada y sencilla. ","published":"2010-10-10T10:00:00Z","updated":"2010-10-10T10:00:00Z","author":{"name":"TvAzteca"},"media_group":[{"type":"image","media_item":[{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=375&height=550&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/vengalaalegria_1.jpg&coordinates=50,50","key":"image_1","type":"image"},{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=1024&height=576&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/vengalaalegria_2.jpg&coordinates=50,50","key":"image_base","type":"image"},{"src":"https:\/\/static.azteca.com\/imagenes\/2018\/45\/logoaztecauno-2268512.png","key":"icon_1","type":"image"}]}],"content":{"type":"feed","src":"general-provider:\/\/fetchData?type=FEED_JSON&url=http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/vengalaalegria.json"},"link":{"type":"feed","rel":"self","href":"http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/vengalaalegria.json"}},{"type":{"value":"feed"},"id":"11510","title":"RESISTIR\u00c9","summary":"El reality que pone a prueba todos tus instintos de supervivencia. ","published":"2019-03-15T19:15:00Z","updated":"2019-03-15T19:15:00Z","author":{"name":"TvAzteca"},"media_group":[{"type":"image","media_item":[{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=375&height=550&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/resistire_1.jpg&coordinates=50,50","key":"image_1","type":"image"},{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=1024&height=576&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/resistire_2.jpg&coordinates=50,50","key":"image_base","type":"image"},{"src":"https:\/\/static.azteca.com\/imagenes\/2018\/45\/logoazteca7-2268511.png","key":"icon_1","type":"image"}]}],"content":{"type":"feed","src":"general-provider:\/\/fetchData?type=FEED_JSON&url=http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/resistire.json"},"link":{"type":"feed","rel":"self","href":"http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/resistire.json"}},{"type":{"value":"feed"},"id":"358","title":"A QUIEN CORRESPONDA","summary":"Jorge Garralda  Con or\u00edgenes profesionales en radio, en Diciembre de 1985 se incorpora al mundo de la televisi\u00f3n y comienza a trabajar en Imevision, hoy en d\u00eda TV Azteca, en un programa llamado ","published":"-0001-11-30T00:00:00Z","updated":"-0001-11-30T00:00:00Z","author":{"name":"TvAzteca"},"media_group":[{"type":"image","media_item":[{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=375&height=550&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/a-quien-corresponda_1.jpg&coordinates=50,50","key":"image_1","type":"image"},{"src":"https:\/\/static.azteca.com\/crop\/crop.php?width=1024&height=576&img=http:\/\/www.tvazteca.com\/appTvAzteca\/img\/a-quien-corresponda_2.jpg&coordinates=50,50","key":"image_base","type":"image"},{"src":"https:\/\/static.azteca.com\/imagenes\/2018\/45\/logoazteca7-2268511.png","key":"icon_1","type":"image"}]}],"content":{"type":"feed","src":"general-provider:\/\/fetchData?type=FEED_JSON&url=http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/a-quien-corresponda.json"},"link":{"type":"feed","rel":"self","href":"http:\/\/www.tvazteca.com\/appTvAzteca\/destacados\/a-quien-corresponda.json"}}]}
+{
+  "entry": [
+    {
+      "author": {
+        "name": "TV Azteca"
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=http://www.tvazteca.com/appTvAzteca/destacados/miparejapuede.json",
+        "type": "feed"
+      },
+      "id": "0000016a-4abf-da31-afef-fbbfd5c10000",
+      "link": {
+        "href": "http://www.tvazteca.com/appTvAzteca/destacados/miparejapuede.json",
+        "rel": "self",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "media_item": [
+            {
+              "key": "image_1",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/cb76460/2147483647/strip/true/crop/207x303+64+0/resize/375x550!/quality/90/?url=https%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2018%2F41%2Flogomasterchefmxico2018-2260725.png",
+              "type": "image"
+            },
+            {
+              "key": "image_base",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/2e97b03/2147483647/strip/true/crop/334x188+0+58/resize/1024x576!/quality/90/?url=https%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2018%2F41%2Flogomasterchefmxico2018-2260725.png",
+              "type": "image"
+            },
+            {
+              "key": "icon_1",
+              "src": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/35/2b/81646a2e45a2b94d8746630f8a1b/logoaztecauno-2268512.png",
+              "type": "image"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "published": "2019-04-23T15:11:20.833Z",
+      "summary": "MasterChef México regresa este 2018 más exigente que nunca. Descubre quién será el mejor cocinero de México en la cocina más famosa del mundo. Tv Azteca.",
+      "title": "MASTERCHEF 2018",
+      "type": {
+        "value": "feed"
+      },
+      "updated": "2019-07-09T19:27:34.771Z"
+    },
+    {
+      "author": {
+        "name": "TV Azteca"
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=http://www.tvazteca.com/appTvAzteca/destacados/miparejapuede.json",
+        "type": "feed"
+      },
+      "id": "00000169-e8e4-d134-af6f-fce54dd00000",
+      "link": {
+        "href": "http://www.tvazteca.com/appTvAzteca/destacados/miparejapuede.json",
+        "rel": "self",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "media_item": [
+            {
+              "key": "image_1",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/e05e9a1/2147483647/strip/true/crop/222x326+179+0/resize/375x550!/quality/90/?url=http%3A%2F%2Fstatic.azteca.com%2Fcrop%2Fcrop.php%3Fwidth%3D580%26height%3D%26img%3Dhttp%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2017%2F41%2Fexatlon-2167878.jpg%26coordinates%3D50%2C50",
+              "type": "image"
+            },
+            {
+              "key": "image_base",
+              "src": "https://qa.tv-azteca.psdops.com/dims4/default/f6c6778/2147483647/strip/true/crop/580x326+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Fstatic.azteca.com%2Fcrop%2Fcrop.php%3Fwidth%3D580%26height%3D%26img%3Dhttp%3A%2F%2Fstatic.azteca.com%2Fimagenes%2F2017%2F41%2Fexatlon-2167878.jpg%26coordinates%3D50%2C50",
+              "type": "image"
+            },
+            {
+              "key": "icon_1",
+              "src": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/35/2b/81646a2e45a2b94d8746630f8a1b/logoaztecauno-2268512.png",
+              "type": "image"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "published": "2019-04-04T15:10:13.956Z",
+      "summary": "20 participantes. 2 equipos. Sólo un ganador. Disfruta Exatlón, por Azteca Uno ¿Estás listo para la competencia deportiva más difícil del mundo? En este nuevo reality que llega a la pantalla de Azteca 7, 20 participantes no solo usarán sus capacidades físicas, si no también tendrán que poner a prueba su destreza y sacar todo su coraje para permanecer dentro de la competencia.",
+      "title": "Exatlon",
+      "type": {
+        "value": "feed"
+      },
+      "updated": "2019-07-09T19:39:23.323Z"
+    }
+  ],
+  "title": "Destacados",
+  "type": {
+    "value": "feed"
+  }
+}
