@@ -28,7 +28,7 @@
               "type": "image"
             },
             {
-              "key": "cmsSiteLogo",
+              "key": "icon_1",
               "src": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/35/2b/81646a2e45a2b94d8746630f8a1b/logoaztecauno-2268512.png",
               "type": "image"
             }
@@ -72,7 +72,7 @@
               "type": "image"
             },
             {
-              "key": "cmsSiteLogo",
+              "key": "icon_1",
               "src": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/35/2b/81646a2e45a2b94d8746630f8a1b/logoaztecauno-2268512.png",
               "type": "image"
             }
