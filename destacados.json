@@ -5,7 +5,7 @@
         "name": "TV Azteca"
       },
       "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=https://envivoapp.qa.tv-azteca.psdops.com/destacados/masterchef-2018",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=http://www.tvazteca.com/appTvAzteca/destacados/miparejapuede.json",
         "type": "feed"
       },
       "id": "0000016a-4abf-da31-afef-fbbfd5c10000",
@@ -49,7 +49,7 @@
         "name": "TV Azteca"
       },
       "content": {
-        "src": "general-provider://fetchData?type=FEED_JSON&url=https://envivoapp.qa.tv-azteca.psdops.com/destacados/exatlon",
+        "src": "general-provider://fetchData?type=FEED_JSON&url=http://www.tvazteca.com/appTvAzteca/destacados/miparejapuede.json",
         "type": "feed"
       },
       "id": "00000169-e8e4-d134-af6f-fce54dd00000",
