@@ -16,16 +16,16 @@ We defined a set of pre-configured number of screens which you can open through 
 
 - `<app_schema_id>` **(Required)**: Application scheme id.
 - `<screen_id>` **(Required)**: A predefined `<screen_id>` from one of the following options:
--- `home_screen`
--- `match_details_screen`
--- `all_matches_screen`
--- `all_teams_screen`
--- `team_screen`
--- `player_screen`
+ - `home_screen`
+ - `match_details_screen`
+ - `all_matches_screen`
+ - `all_teams_screen`
+ - `team_screen`
+ - `player_screen`
 - `<other_data_key>` **(Required for specific screens)**: To show values from a specific entity:
--- `match_id=<op_id>&push=<true_or_false>`
--- `team_id` (`team_screen` and `all_matches_screen`)
--- `player_id` (`player_screen`)
+ - `match_id=<op_id>&push=<true_or_false>`
+ - `team_id` (`team_screen` and `all_matches_screen`)
+ - `player_id` (`player_screen`)
 
 #### Match details & Push option
 When opening match details screen through URL scheme, there is another key named push where indicates if the URL scheme comes from the push or if it’s being opened through the regular way.
