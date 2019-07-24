@@ -43,27 +43,27 @@ The list of screen available in the integration will be the following:
 ### <a name=home-screen></a> Home screen
 You can find the whole design [here](https://app.zeplin.io/project/5c8863d4039b9f39096d453d/screen/5c8864178bd661197ccb8c82).
 
-![Home screen preview](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/home_screen.png?raw=true)
+![Home screen preview](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/home_screen.png)
 
 ### <a name=match-details-screen></a> Match Details Screen
 You can find the complete design [here](https://app.zeplin.io/project/5c8863d4039b9f39096d453d/screen/5c88641af85b69045c2eafca).
 
-![Match details screen preview](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/match_details_1.png?raw=true) ![Match details screen preview](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/match_details_2.png?raw=true) ![Match details screen preview](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/match_details_3.png?raw=true)
+![Match details screen preview](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/match_details_1.png) ![Match details screen preview](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/match_details_2.png) ![Match details screen preview](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/match_details_3.png)
 
 ### <a name=all-matches-screen></a> All Matches Screen
 You can find the complete design [here](https://app.zeplin.io/project/5c8863d4039b9f39096d453d/screen/5c886418988ef419824d583b).
 
-![All matches screen preview](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/all_matches_screen.png?raw=true)
+![All matches screen preview](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/all_matches_screen.png)
 
 ### <a name=team-screen></a> Team Screen
 You can find the complete design [here](https://app.zeplin.io/project/5c8863d4039b9f39096d453d/screen/5caf607f225f00a04b00e1d2).
 
-![Team screen preview](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/team_screen.png?raw=true)
+![Team screen preview](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/team_screen.png)
 
 ### <a name=player-screen></a> Player Screen
 You can find the complete design [here](https://app.zeplin.io/project/5c8863d4039b9f39096d453d/screen/5cab7ce9e89d3f338980bcb3).
 
-![Player screen preview](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/player_screen.png?raw=true)
+![Player screen preview](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/player_screen.png)
 
 ## Plugin configuration
 In order to make this plugin generic and be used for other tournaments, we defined the following parameters:
@@ -79,4 +79,4 @@ In order to make this plugin generic and be used for other tournaments, we defin
 ### How to configure the plugin
 In Zapp Builder, go to the screen plugin, and in the right panel, you will see the fields to be filled.
 
-![Stats configuration](https://github.com/applicaster/latam-product-documentation/blob/added-opta-stats-documentation/Opta-Stats/media/stats_configuration.png?raw=true)
+![Stats configuration](https://github.com/applicaster/latam-product-documentation/blob/master/Opta-Stats/media/stats_configuration.png)
