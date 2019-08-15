@@ -80,7 +80,7 @@ TBD
 
 
 # Contact Third Party
-[Click Here](https://www.jwplayer.com/) to learn more about Cheartbeat. 
+[Click Here](https://www.jwplayer.com/) to learn more about JW Platform. 
 
 
 
