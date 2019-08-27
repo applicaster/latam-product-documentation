@@ -1,0 +1,668 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "title": "Search",
+    "entry": [
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "11387",
+            "title": "Rosario Tijeras",
+            "summary": "Contina la historia de la legendaria Rosario Tijeras, la mujer inquebrantable\nque har todo por sobrevivir. Escapando de una muerte segura, Rosario y Antonio lograr burlar a sus\nenemigos para asegurar su libertad, pero en la huida son obligados a separarse.\nSe ver atrapada en medio de la sangrienta venganza de dos capos, entre ellos\nEl ngel, un hombre misterioso, tan violento como seductor, que guarda un\nsecreto muy oscuro. Rosario tendr que hacer hasta lo imposible para salvar a\nsu hermanito y recuperar a Antonio, el amor de su vida.",
+            "published": "2018-06-19T19:49:00Z",
+            "updated": "2018-06-19T19:49:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/rosariotijeras_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/rosariotijeras_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoazteca7-2268511.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/series/rosariotijeras.json&title=Rosario%20Tijeras"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/series/rosariotijeras.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "10536",
+            "title": "Series",
+            "summary": "Las mejores series solo por Azteca 7",
+            "published": "2014-07-11T16:40:00Z",
+            "updated": "2014-07-11T16:40:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/series_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/series_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoazteca7-2268511.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/series/series.json&title=Series"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/series/series.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "11368",
+            "title": "La Academia",
+            "summary": "Sinopsis del Programa",
+            "published": "2018-04-13T13:43:00Z",
+            "updated": "2018-04-13T13:43:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/laacademia2018_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/laacademia2018_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/realities/laacademia2018.json&title=La%20Academia"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/realities/laacademia2018.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "11318",
+            "title": "Exatln",
+            "summary": "20 participantes. 2 equipos. Slo un ganador. Disfruta Exatln, por Azteca 7 Ests listo para la competencia deportiva ms difcil del mundo? En este nuevo reality que llega a la pantalla de Azteca 7, 20 participantes no solo usarn sus capacidades fsicas, si no tambin tendrn que poner a prueba su destreza y sacar todo su coraje para permanecer dentro de la competencia.",
+            "published": "2017-09-29T11:39:00Z",
+            "updated": "2017-09-29T11:39:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/exatlon_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/exatlon_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/realities/exatlon.json&title=Exatln"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/realities/exatlon.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "11014",
+            "title": "Enamorndonos",
+            "summary": "Azteca Uno presenta Enamorndonos En Vivo. Un dating show donde hombres y mujeres podrn encontrar el amor. Entra y disfruta del programa en vivo. ",
+            "published": "2016-09-28T13:19:00Z",
+            "updated": "2016-09-28T13:19:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/enamorandonos_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/enamorandonos_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/realities/enamorandonos.json&title=Enamorndonos"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/realities/enamorandonos.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "10972",
+            "title": "MasterChef 2018",
+            "summary": "MasterChef Mxico regresa este 2018 ms exigente que nunca. Descubre quin ser el mejor cocinero de Mxico en la cocina ms famosa del mundo. Tv Azteca.",
+            "published": "2016-07-29T12:51:00Z",
+            "updated": "2016-07-29T12:51:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/masterchef_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/masterchef_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/realities/masterchef.json&title=MasterChef%202018"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/realities/masterchef.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "11374",
+            "title": "Todo un show",
+            "summary": "Recibe el medioda lleno de informacin, humor, chismes, tiles consejos y mucha diversin, junto a Laura G, Anette Cuburu y Roger Gonzalez.",
+            "published": "2018-04-22T19:29:00Z",
+            "updated": "2018-04-22T19:29:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/todounshow_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/todounshow_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/todounshow.json&title=Todo%20un%20show"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/todounshow.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "11336",
+            "title": "Mi pareja puede",
+            "summary": "Mi pareja puede",
+            "published": "2018-01-09T15:54:00Z",
+            "updated": "2018-01-09T15:54:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/miparejapuede_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/miparejapuede_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoazteca7-2268511.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/miparejapuede.json&title=Mi%20pareja%20puede"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/miparejapuede.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "11142",
+            "title": "Game Central",
+            "summary": "Game Central es un programa dedicado a videojuegos, cosplays, tecnologa, comics, y anime, dirigido a geeks y gamers en espaol",
+            "published": "2016-11-08T13:34:00Z",
+            "updated": "2016-11-08T13:34:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/gamecentral_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/gamecentral_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoazteca7-2268511.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/gamecentral.json&title=Game%20Central"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/gamecentral.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "10978",
+            "title": "Al Extremo",
+            "summary": "Entrate de la informacin ms Al Extremo con nuestros reportajes, noticias y videos.",
+            "published": "2016-08-23T13:21:00Z",
+            "updated": "2016-08-23T13:21:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/alextremo_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/alextremo_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/alextremo.json&title=Al%20Extremo"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/alextremo.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "10700",
+            "title": "La Resolana con el Capi",
+            "summary": "La Resolana es un programa que adems de parodiar lo que ocurre en la televisin, tambin lo har con los temas actuales.",
+            "published": "2015-05-07T19:03:00Z",
+            "updated": "2015-05-07T19:03:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/laresolanaconelcapi_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/laresolanaconelcapi_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/laresolanaconelcapi.json&title=La%20Resolana%20con%20el%20Capi"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/laresolanaconelcapi.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "272",
+            "title": "Venga la Alegra",
+            "summary": "Venga la Alegra es un divertido programa de entretenimiento transmitido por Azteca Trece, diseado para llevar diversin a la familia mexicana de manera desenfadada y sencilla. ",
+            "published": "2015-05-07T19:03:00Z",
+            "updated": "2015-05-07T19:03:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/vengalaalegria_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/vengalaalegria_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/vengalaalegria.json&title=Venga%20la%20Alegra"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/vengalaalegria.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "262",
+            "title": "Lo que callamos las mujeres",
+            "summary": "Lo Que Callamos Las Mujeres est basada en historias reales con problemas cotidianos que sufren las mujeres.",
+            "published": "2015-05-07T19:03:00Z",
+            "updated": "2015-05-07T19:03:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/loquecallamos_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/loquecallamos_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/loquecallamos.json&title=Lo%20que%20callamos%20las%20mujeres"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/loquecallamos.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "257",
+            "title": "Ventaneando",
+            "summary": "Ventaneando es un programa televisivo con noticias, entrevistas e informacin oportuna del medio del espectculo.",
+            "published": "2015-05-07T19:03:00Z",
+            "updated": "2015-05-07T19:03:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/ventaneando_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/ventaneando_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoaztecauno-2268512.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/programas/ventaneando.json&title=Ventaneando"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/programas/ventaneando.json"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "934",
+            "title": "Platinum",
+            "summary": "PLATINUM",
+            "published": "2015-05-07T19:03:00Z",
+            "updated": "2015-05-07T19:03:00Z",
+            "author": {
+                "name": "TvAzteca"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=375&height=550&img=http://www.tvazteca.com/appTvAzteca/img/platinum_1.jpg&coordinates=50,50",
+                            "key": "image_1",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/crop/crop.php?width=1024&height=576&img=http://www.tvazteca.com/appTvAzteca/img/platinum_2.jpg&coordinates=50,50",
+                            "key": "image_base",
+                            "type": "image"
+                        },
+                        {
+                            "src": "http://static.azteca.com/imagenes/2018/45/logoazteca7-2268511.png",
+                            "key": "icon_1",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "type": "feed",
+                "src": "aztecaott://fetchData?type=category&url=http://www.tvazteca.com/appTvAzteca/peliculas/platinum.json&title=Platinum"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "http://www.tvazteca.com/appTvAzteca/peliculas/platinum.json"
+            }
+        }
+    ]
+}
