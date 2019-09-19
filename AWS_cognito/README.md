@@ -114,6 +114,8 @@ AWS cognito supports by default user attributes defined in the [OpenID Connect S
 
 For following phases the development should explore a dynamic way to define which fields to show as part of the registration.
 
+Time hook
+
 ### Next Phases
 
 - Identity Pools (Fedarated Entities). Specifically social login.
