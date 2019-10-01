@@ -1,0 +1,147 @@
+{
+  "id": "99758631966",
+  "title": "INSPIRED BY FRIENDSHIP",
+  "author": {
+    "name": "OCS"
+  },
+  "type": {
+    "value": "feed"
+  },
+  "link": {
+    "type": "atom",
+    "rel": "self",
+    "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL2NvbGxlY3Rpb24vOTk3NTg2MzE5NjY="
+  },
+  "content": {
+    "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL2NvbGxlY3Rpb24vOTk3NTg2MzE5NjY="
+  },
+  "updated": "2019-10-01T00:02:53.4470803Z",
+  "entry": [
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71676968048",
+      "title": "Global Games",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=https://9mo6jw7iia.execute-api.eu-west-1.amazonaws.com/Prod/vod/api/Feed/series/71676968048=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=https://9mo6jw7iia.execute-api.eu-west-1.amazonaws.com/Prod/vod/api/Feed/series/71676968048=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71676968180",
+      "title": "Synchro Sisters",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3Njk2ODE4MA=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3Njk2ODE4MA=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71558696402",
+      "title": "Speed Boarders",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTU1ODY5NjQwMg=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTU1ODY5NjQwMg=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71676968219",
+      "title": "Sports Swap",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3Njk2ODIxOQ=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3Njk2ODIxOQ=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71676968140",
+      "title": "Gamers Vs",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3Njk2ODE0MA=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3Njk2ODE0MA=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71676456079",
+      "title": "Gold Medal Entourage",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3NjQ1NjA3OQ=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3NjQ1NjA3OQ=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71676456177",
+      "title": "Flame Catchers",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3NjQ1NjE3Nw=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3NjQ1NjE3Nw=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "71676456424",
+      "title": "A Game for two",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3NjQ1NjQyNA=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy83MTY3NjQ1NjQyNA=="
+      }
+    },
+    {
+      "type": {
+        "value": "feed"
+      },
+      "id": "82048040403",
+      "title": "Five Rings Films: The Golden Generation",
+      "published": "1970-01-01T00:00:00Z",
+      "link": {
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy84MjA0ODA0MDQwMw=="
+      },
+      "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL3Nlcmllcy84MjA0ODA0MDQwMw=="
+      }
+    }
+  ]
+}
