@@ -1,0 +1,27 @@
+{
+    "id": "99759144425",
+    "title": "ORIGINAL TEST",
+    "type": {
+        "value": "feed"
+    },
+    "updated": "2019-10-02T02:31:48.7711346Z",
+    "entry": [
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "71675944232",
+            "title": "Against All Odds",
+            "published": "1970-01-01T00:00:00Z",
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://9mo6jw7iia.execute-api.eu-west-1.amazonaws.com/Prod/vod/api/Feed/series/71675944232"
+            },
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=https://9mo6jw7iia.execute-api.eu-west-1.amazonaws.com/Prod/vod/api/Feed/series/71675944232"
+            }
+        }
+    ]
+}
