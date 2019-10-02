@@ -1,0 +1,107 @@
+{
+    "languages": [
+        "en",
+        "es",
+        "pt"
+    ],
+    "onboardingTexts": {
+        "title": {
+            "es": "Escoge tu",
+            "en": "Choose Your",
+            "pt": "Escolha o seu"
+        },
+        "subtitle": {
+            "es": "Equipo favorito",
+            "en": "Favorite Team",
+            "pt": "Time Favorito"
+        },
+        "skipOnboarding": {
+            "es": "Elegir después",
+            "en": "Choose Later",
+            "pt": "Escolher depois"
+        },
+        "finishOnboarding": {
+            "es": "Listo",
+            "en": "Finish",
+            "pt": "Terminar"
+        }
+    },
+    "categories": [
+        {
+            "title": {
+                "es": "Copa America",
+                "en": "Copa America",
+                "pt": "Copa America"
+            },
+            "id": "32424234",
+            "imageUrl": "http://copaamerica.com/static/PAR-b2d96f3bde8b57ed982105ee6e332255.jpg",
+            "segments": [
+                {
+                    "title": {
+                        "es": "Argentina",
+                        "en": "Argentina",
+                        "pt": "Argentina"
+                    },
+                    "id": "1001",
+                    "imageUrl": "http://copaamerica.com/static/VEN-c4cf24aaf0312f622387a60fd730a725.jpg"
+                },
+                {
+                    "title": {
+                        "es": "Bolivia",
+                        "en": "Bolivia",
+                        "pt": "Bolivia"
+                    },
+                    "id": "1002",
+                    "imageUrl": "http://copaamerica.com/static/PAR-b2d96f3bde8b57ed982105ee6e332255.jpg"
+                },
+                {
+                    "title": {
+                        "es": "Brasil",
+                        "en": "Brasil",
+                        "pt": "Brasil"
+                    },
+                    "id": "1003",
+                    "imageUrl": "http://copaamerica.com/static/VEN-c4cf24aaf0312f622387a60fd730a725.jpg"
+                }
+            ]
+        },
+        {
+            "title": {
+                "es": "La liga de campeones",
+                "en": "The Champions League",
+                "pt": "Liga dos Campeões"
+            },
+            "id": "32424234abc",
+            "imageUrl": "http://copaamerica.com/static/BRA-d8b045bd0d3a077fb0ee2fcc2280c8d3.jpg",
+            "segments": [
+                {
+                    "title": {
+                        "es": "Barcelona",
+                        "en": "Barcelona",
+                        "pt": "Barcelona"
+                    },
+                    "id": "1001asd",
+                    "imageUrl": "http://copaamerica.com/static/ARG-87363d8f85b6ec8bccfaa03fb0ac0060.jpg"
+                },
+                {
+                    "title": {
+                        "es": "Real Madrid",
+                        "en": "Real Madrid",
+                        "pt": "Real Madrid"
+                    },
+                    "id": "1002asdf",
+                    "imageUrl": "http://copaamerica.com/static/BOL-7c4fb47e1c47807336d383f0936b14f4.jpg"
+                },
+                {
+                    "title": {
+                        "es": "Ajax",
+                        "en": "Ajax",
+                        "pt": "Ajax"
+                    },
+                    "id": "1003asdf",
+                    "imageUrl": "http://copaamerica.com/static/BRA-d8b045bd0d3a077fb0ee2fcc2280c8d3.jpg"
+                }
+            ]
+        }
+    ]
+}
