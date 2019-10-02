@@ -1,0 +1,39 @@
+{
+    "id": "99759144425",
+    "title": "ORIGINAL SERIES",
+    "author": {
+        "name": "OCS"
+    },
+    "type": {
+        "value": "feed"
+    },
+    "link": {
+        "type": "atom",
+        "rel": "self",
+        "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL2NvbGxlY3Rpb24vOTk3NTkxNDQ0MjU="
+    },
+    "content": {
+        "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly85bW82anc3aWlhLmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL1Byb2Qvdm9kL2FwaS9GZWVkL2NvbGxlY3Rpb24vOTk3NTkxNDQ0MjU="
+    },
+    "updated": "2019-10-02T02:31:48.7711346Z",
+    "entry": [
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "71675944232",
+            "title": "Against All Odds",
+            "published": "1970-01-01T00:00:00Z",
+            "link": {
+                "type": "atom",
+                "rel": "self",
+                "href": "general-provider://fetchData?type=FEED_JSON&url=https://9mo6jw7iia.execute-api.eu-west-1.amazonaws.com/Prod/vod/api/Feed/collection/71675944232"
+            },
+            "content": {
+                "type": "atom",
+                "rel": "self",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=https://9mo6jw7iia.execute-api.eu-west-1.amazonaws.com/Prod/vod/api/Feed/collection/71675944232"
+            }
+        }
+    ]
+}
