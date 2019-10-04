@@ -1,0 +1,89 @@
+{
+    "id": "71675944232",
+    "title": "Against All Odds",
+    "type": {
+        "value": "feed"
+    },
+    "updated": "2019-10-03T23:16:46.5581984Z",
+    "entry": [
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "186752581342",
+            "title": "The Oscar Figueroa story (extended version)",
+            "published": "2017-03-31T11:09:51+00:00",
+            "summary": "The Oscar Figueroa story (extended version)",
+            "content": {
+                "type": "video/hls",
+                "src": "https://ocs-vod-hls.secure.footprint.net/NBCR_Production_-_OCS/459/736/GEPH-AGAINSTS01E005C-_E17032902_master.m3u8"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://vod.olympicchannel.com/NBCR_-_OCS_Prod/950/144/6108422_Against_All_Odds_-_The_Oscar_Figueroa_story_002_10-14-56-03_1565273990902.jpeg",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "extensions": {
+                "allow_play": false,
+                "broadcaster_id": 0,
+                "hqme": false,
+                "no_delete": false,
+                "auto_download": false,
+                "duration": 0,
+                "video_360": false,
+                "free": false,
+                "parent_id": 0,
+                "start_time": "2017-03-28T00:00:00+00:00",
+                "end_time": "2100-01-01T23:59:59+00:00"
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "186815557052",
+            "title": "The Santiago Lange story (extended version)",
+            "published": "2017-07-01T14:33:52+00:00",
+            "summary": "The Santiago Lange story (extended version)",
+            "author": {
+                "name": "OCS"
+            },
+            "content": {
+                "type": "video/hls",
+                "src": "https://ocs-vod-hls.secure.footprint.net/NBCR_Production_-_OCS/65/748/GEPH-AGAINSTS01E006C-_E17022001_master.m3u8"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://vod.olympicchannel.com/NBCR_-_OCS_Prod/1010/204/S01E06_1565082503644.jpg",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ],
+            "extensions": {
+                "allow_play": false,
+                "broadcaster_id": 0,
+                "hqme": false,
+                "no_delete": false,
+                "auto_download": false,
+                "duration": 0,
+                "video_360": false,
+                "free": false,
+                "parent_id": 0,
+                "start_time": "2017-06-13T00:00:00+00:00",
+                "end_time": "2100-01-01T23:59:59+00:00"
+            }
+        }
+    ]
+}
