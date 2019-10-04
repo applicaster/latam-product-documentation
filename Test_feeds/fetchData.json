@@ -1,0 +1,601 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "title": "TV+ Categories",
+    "entry": [
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5cb5f0f77c1a456374261e16",
+            "title": "Cariño Malo",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5cb5f0f77c1a456374261e16"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5cb5f0f77c1a456374261e16"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f0f77c1a456374261e16-1559081202490.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d8e76df0ea089079eb3a36f",
+            "title": "Chris Quick",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d8e76df0ea089079eb3a36f"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d8e76df0ea089079eb3a36f"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d4dd2b5cf23cd08180e70d1",
+            "title": "Cosas de Mujeres",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d4dd2b5cf23cd08180e70d1"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d4dd2b5cf23cd08180e70d1"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5d4dd2b5cf23cd08180e70d1-1565381760089.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d5c77d42b7869262ea1c018",
+            "title": "Directo al Corazón",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d5c77d42b7869262ea1c018"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d5c77d42b7869262ea1c018"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5d5c77d42b7869262ea1c018-1566341126715.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d8e7689064a8806e5f4e19b",
+            "title": "Doctor Vet",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d8e7689064a8806e5f4e19b"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d8e7689064a8806e5f4e19b"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d65a20569035a077aa9db4b",
+            "title": "El Tiempo en TV+",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d65a20569035a077aa9db4b"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d65a20569035a077aa9db4b"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5d65a20569035a077aa9db4b-1567543155849.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d7fddac11614e6c6dbf3322",
+            "title": "Fin de Semana de Reportajes",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d7fddac11614e6c6dbf3322"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d7fddac11614e6c6dbf3322"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d766c013f9f47079240bd7f",
+            "title": "Genius",
+            "summary": "Genius es una serie que nos relata la trayectoria vital de un icono mundial Albert Einstein. Todos los Sábado a las 22 horas",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d766c013f9f47079240bd7f"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d766c013f9f47079240bd7f"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5cb5f1026860cb4e172c5d1d",
+            "title": "Habitación 309",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5cb5f1026860cb4e172c5d1d"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5cb5f1026860cb4e172c5d1d"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f1026860cb4e172c5d1d-1559081251655.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5cb5f84883f5ed63ac3caa2e",
+            "title": "Home",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5cb5f84883f5ed63ac3caa2e"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5cb5f84883f5ed63ac3caa2e"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f84883f5ed63ac3caa2e.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d28f8b406e18806d8bb388a",
+            "title": "Infieles",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d28f8b406e18806d8bb388a"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d28f8b406e18806d8bb388a"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5d28f8b406e18806d8bb388a-1563386725400.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d94ff201edaf0131ac3121b",
+            "title": "Lo Que Se Ve No Se Pregunta",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d94ff201edaf0131ac3121b"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d94ff201edaf0131ac3121b"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d767a3916f2530790729baf",
+            "title": "Los 90´s",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d767a3916f2530790729baf"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d767a3916f2530790729baf"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d683be5b09b563f0c5666f8",
+            "title": "Los Años Dorados",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d683be5b09b563f0c5666f8"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d683be5b09b563f0c5666f8"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d94fd4d1edaf0131ac31155",
+            "title": "Love Nature",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d94fd4d1edaf0131ac31155"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d94fd4d1edaf0131ac31155"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5cb5f0d2724a6a79c174350e",
+            "title": "Mamá al Cien",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5cb5f0d2724a6a79c174350e"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5cb5f0d2724a6a79c174350e"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f0d2724a6a79c174350e-1559081480985.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5cb5f0e483f5ed63ac3ca72c",
+            "title": "Me Late",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5cb5f0e483f5ed63ac3ca72c"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5cb5f0e483f5ed63ac3ca72c"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f0e483f5ed63ac3ca72c-1559252613995.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5ccb78ce75f7d106eecfc124",
+            "title": "Me Late Prime",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5ccb78ce75f7d106eecfc124"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5ccb78ce75f7d106eecfc124"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5ccb78ce75f7d106eecfc124-1559252633445.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d7675a5b9baea07224ac91d",
+            "title": "Megaestructuras",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d7675a5b9baea07224ac91d"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d7675a5b9baea07224ac91d"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d76b2f8ba9d0e2d14694f24",
+            "title": "Mentes Criminales",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d76b2f8ba9d0e2d14694f24"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d76b2f8ba9d0e2d14694f24"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5d76b2f8ba9d0e2d14694f24-1568146436262.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5cb5f0ed724a6a79c1743526",
+            "title": "MILF",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5cb5f0ed724a6a79c1743526"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5cb5f0ed724a6a79c1743526"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f0ed724a6a79c1743526-1559081362616.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d8e77350ea089079eb3a378",
+            "title": "Narda",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d8e77350ea089079eb3a378"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d8e77350ea089079eb3a378"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d94fe151edaf0131ac31199",
+            "title": "Sabores sin Límites",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d94fe151edaf0131ac31199"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d94fe151edaf0131ac31199"
+            }
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5d0172cd6bdeed7943af879a",
+            "title": "Somos un Plato",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5d0172cd6bdeed7943af879a"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5d0172cd6bdeed7943af879a"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5d0172cd6bdeed7943af879a-1560376593285.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": {
+                "value": "feed"
+            },
+            "id": "5cb5f10d50ae45798813b997",
+            "title": "Toc Show",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "tv-plus://fetchData?type=generic&url=https://next.platform.mediastre.am/graphql?id=5cb5f10d50ae45798813b997"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://next.platform.mediastre.am/graphql?id=5cb5f10d50ae45798813b997"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f10d50ae45798813b997-1559081412238.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
