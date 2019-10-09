@@ -1,0 +1,32 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "title": "Arriba Cuba",
+    "summary": "",
+    "entry": [
+        {
+            "title": "Arriba Cuba",
+            "published": "1970-01-01T00:00:00Z",
+            "summary": "An exploration of the past, present and future of sports in Cuba at a time of unprecedented change and transformation.",
+            "link": {
+                "href": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9nMDAxNnlqczg2LmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL3YxLXN0YWdpbmcvdm9kL2FwaS9GZWVkL3Nlcmllcy83NDE3Mzk5MjI5OA=="
+            },
+            "content": {
+                "src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9nMDAxNnlqczg2LmV4ZWN1dGUtYXBpLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL3YxLXN0YWdpbmcvdm9kL2FwaS9GZWVkL3Nlcmllcy83NDE3Mzk5MjI5OA=="
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://vod.olympicchannel.com/NBCR_-_OCS_Prod/img/series/Arriba Cuba_thumbnail.jpg",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
