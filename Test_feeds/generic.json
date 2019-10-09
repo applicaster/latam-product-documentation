@@ -1,0 +1,34 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "title": "MILF",
+    "summary": "",
+    "entry": [
+        {
+            "title": "MILF",
+            "summary": "",
+            "content": {
+                "type": "feed",
+                "src": "general-provider://fetchData?type=FEED_JSON&url=https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Test_feeds/connected.json"
+            },
+            "link": {
+                "type": "feed",
+                "rel": "self",
+                "href": "https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Test_feeds/connected.json"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://crop-platform-static.cdn.mdstrm.com/category/5cb5f0ed724a6a79c1743526-1559081362616.png",
+                            "key": "image_base",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
