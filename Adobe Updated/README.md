@@ -38,7 +38,7 @@ Adobe Primetime Authentication is a hosted service that serves as a proxy betwee
 
 ### tvOS and Android TV (QuickBrick)
 
-Both platforms make use of the Clientless API
+Both platforms make use of the **Clientless API**
 
 #### Service Configuration
 Once the client has aquired a license for Adobe Pass Authentication the following data shall be provided by Adobe:
@@ -52,27 +52,7 @@ Once the client has aquired a license for Adobe Pass Authentication the followin
 - Public Key: MVPD private key. Provided by Adobe.
 - Registration URL: Second Screen activation page URL. This URL should always match the environment in use (Staigng or Production).
 
-
-
-
-The aforementioned keys apply to all Clientless API platforms and shall be configured in the plugin. 
-
-
-The following imsage show the plugin condiguration page, UI cconfigurations are part of it and down below they will be explained.
-
-![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe/ss_1.png)
-
-#### UI Configuration
-
-![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe/ss_3.png)
-- **text_color**: Color of the texts present in the screen (excluding button text)
-- **code_bg_color**: Color of the square that contains the activation code
-- **code_text_color**: Color of the text in the activation code
-- **btn_text_color**: Color of the text inside the button
-- **bg_color**: Background color of the screen
-- **btn_bg_color**: Background color of the button
-
-![SS Plugin Config](https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe/ss_2.png)
+![image\_2][plugin_config]
 
 # Contact Third Party
 [Click Here](http://tve.helpdocsonline.com/home) to learn more about Adobe Primetime Authentication. 
@@ -86,3 +66,6 @@ The following imsage show the plugin condiguration page, UI cconfigurations are 
 **Potential Future Features Include:**
 
 Single Sing On (SSO): The user authenticates once through Adobe Primetime Authentication in one paticular platform. The user keeps the session open and can access content in other platforms without signing in again. This flow can work only if the other platform(s) are part of Adobe Primetime Authentication.
+
+
+[plugin_config]: https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe%20Updated/adobe_QB.png
