@@ -36,12 +36,13 @@ Adobe Primetime Authentication is a hosted service that serves as a proxy betwee
 
 ## Configuration
 
+Client has to aquire a license for Adobe Pass Authentication previous to any kind of configuration or addition of the plugin to an app.
+
 ### tvOS and Android TV (QuickBrick)
 
 Both platforms make use of the **Clientless API**
 
 #### Service Configuration
-Once the client has aquired a license for Adobe Pass Authentication the following data shall be provided by Adobe:
 
 - Environment URL: Adobe environment to be used by the plugin.
   - Staging: api.auth-staging.adobe.com
@@ -53,6 +54,26 @@ Once the client has aquired a license for Adobe Pass Authentication the followin
 - Registration URL: Second Screen activation page URL. This URL should always match the environment in use (Staigng or Production).
 
 ![image\_2][plugin_config]
+
+#### User Interface
+
+
+![image\_2][plugin_ui]
+
+### Android
+
+Android implements the native Adobe SDK (AccessEnabler).
+
+#### Service Configuration
+
+- Base URL: Adobe environment to be used by the plugin.
+  - Staging: sp.auth.adobe.com
+  - Production: sp.auth-staging.adobe.com
+- Token Validation URL: Endpoint specefied by Adobe to validate tokens(http://sp-prequal.auth.adobe.com/tvs/v1/validate).
+- Software Statement: Created by the client through the Adobe's portal. The SS has to be created taking on account the client's domain and environment. 
+- Resource ID: MVPD specific resource ID.
+- Requestor ID: MVPD Adobe ID.
+- Redirect URI: Reverse cleint's domain.
 
 # Contact Third Party
 [Click Here](http://tve.helpdocsonline.com/home) to learn more about Adobe Primetime Authentication. 
@@ -69,3 +90,5 @@ Single Sing On (SSO): The user authenticates once through Adobe Primetime Authen
 
 
 [plugin_config]: https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe%20Updated/adobe_QB.png
+
+[plugin_ui]: https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe%20Updated/adobe_ui.png
