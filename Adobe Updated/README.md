@@ -75,6 +75,35 @@ Android implements the native Adobe SDK (AccessEnabler).
 - Requestor ID: MVPD Adobe ID.
 - Redirect URI: Reverse cleint's domain.
 
+### User Interface
+
+The plugin relays on a list view containing all MVPD's available to login. 
+
+*MVPD's logos and names are acquired through Adobe's API; any change required by the client should be handled by Adobe itself.*
+
+![image\_2][adobe_mvpd_list]
+
+### iOS
+
+iOS implements the native Adobe SDK (AccessEnabler).
+
+#### Service Configuration
+
+- Base URL: Adobe environment to be used by the plugin.
+  - Staging: sp.auth.adobe.com
+  - Production: sp.auth-staging.adobe.com
+- Token Validation URL: Endpoint specefied by Adobe to validate tokens(http://sp-prequal.auth.adobe.com/tvs/v1/validate).
+- Software Statement: Created by the client through the Adobe's portal. The SS has to be created taking on account the client's domain and environment. 
+- Resource ID: MVPD specific resource ID.
+- Requestor ID: MVPD Adobe ID.
+- Redirect URI: Reverse cleint's domain.
+
+### User Interface
+
+The plugin relays on a list view containing all MVPD's available to login. 
+
+*MVPD's logos and names are acquired through Adobe's API; any change required by the client should be handled by Adobe itself.*
+
 # Contact Third Party
 [Click Here](http://tve.helpdocsonline.com/home) to learn more about Adobe Primetime Authentication. 
 
@@ -92,3 +121,7 @@ Single Sing On (SSO): The user authenticates once through Adobe Primetime Authen
 [plugin_config]: https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe%20Updated/adobe_QB.png
 
 [plugin_ui]: https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe%20Updated/adobe_ui.png
+
+[adobe_logout]: https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe%20Updated/adobe_logout.png
+
+[adobe_mvpd_list]: https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Adobe%20Updated/adobe_mvpd_list.png
