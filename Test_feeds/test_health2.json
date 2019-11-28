@@ -85,7 +85,7 @@
                     ]
                 },
                 "thumbnails": "https://cdn.jwplayer.com/strips/wGFWDki8-120.vtt",
-                "free": false,
+                "free": true,
                 "authorization_providers_ids": []
             }
         },
