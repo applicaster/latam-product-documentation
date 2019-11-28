@@ -1,0 +1,2526 @@
+{
+    "type": {
+        "value": "feed"
+    },
+    "entry": [
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "yyrLvBMb",
+            "title": "HPV Treatment",
+            "summary": "A lot of children don’t develop any type of infection although their moms are HPV positive. Dr. Alberto Sirven, Medical Director of the West Kendall OB/GYN Program and Women and Infant Credentials Committee Chairman with West Kendall Baptist Hospital, explains the best HPV treatment is prevention and he also talks about HPV vaccine.",
+            "published": "2019-09-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/yyrLvBMb/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/yyrLvBMb.m3u8?exp=1574970832560&sig=072821e753745df8053eb83d9e614380"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/yyrLvBMb?exp=1574970832560&sig=658c610622c0d2c879d6a5f43491f325"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "914-3.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/LSJRN47U.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/yyrLvBMb-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "wGFWDki8",
+            "title": "Addiction and Dopamine",
+            "summary": "How does the brain behave in an addict person? Dr. Daniel Bober, Psychiatrist and Addiction Medicine Physician, explains the role of dopamine in addiction, and what can be the causes of addiction, such as genetics or having a trauma.",
+            "published": "2019-08-27T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/wGFWDki8/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/wGFWDki8.m3u8?exp=1574970832560&sig=e869eaf92241e06bac58cde93674ffd1"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/wGFWDki8?exp=1574970832560&sig=45be5685fd31ccabee20b635baa54300"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "765-3.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/h1fcftGX.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/wGFWDki8-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "vHedOKM6",
+            "title": "Addictions: Social Media",
+            "summary": "Is there an addiction problem more prevalent than others? Dr. Daniel Bober, Psychiatrist and Addiction Medicine Physician, talks about behavioral addictions that involve people using social media all day.",
+            "published": "2019-08-27T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/vHedOKM6/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/vHedOKM6.m3u8?exp=1574970832560&sig=6b0d503fc57ac93740387cf1c151b3d1"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/vHedOKM6?exp=1574970832560&sig=a0d50a571038456b7a11b818710bef5b"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "765-1.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/DqkNiF9w.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/vHedOKM6-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "FgvkFetW",
+            "title": "Substance Abuse and Co-Occurring Conditions",
+            "summary": "How are substance abuse disorders related to co-occurring conditions? Dr. Daniel Bober, Psychiatrist and Addiction Medicine Physician, talks about some mental health disorders that put people at increased risks for substance abuse, and how they can treat both mental health problems.",
+            "published": "2019-08-27T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/FgvkFetW/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/FgvkFetW.m3u8?exp=1574970832560&sig=b10587abe16922f64d02ccf5b1bfe133"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/FgvkFetW?exp=1574970832560&sig=2a8d0fcc12fb5525931469622f660436"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "765-4.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/uFNP0TFd.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/FgvkFetW-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "4BU5jtfY",
+            "title": "Common Substance Abuse Disorders",
+            "summary": "Alcohol and opioid addiction are some common substance abuse disorders. Dr. Daniel Bober, Psychiatrist and Addiction Medicine Physician, talks about how they were battled and what other disorders emerged because of substance abuse.",
+            "published": "2019-08-27T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/4BU5jtfY/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/4BU5jtfY.m3u8?exp=1574970832560&sig=03e233c4f12770a40b9d69c889292718"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/4BU5jtfY?exp=1574970832560&sig=4e7266f45e99d5ce96d89129323a8a27"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "765-6.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/IjTIvm9C.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/4BU5jtfY-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "y0CtUiK2",
+            "title": "Mental Illness Stigma",
+            "summary": "What is stigma in mental illness? Dr. Daniel Bober, Psychiatrist and Addiction Medicine Physician, explains how people react to mental illness in different situations and how that reaction affects negatively the patient.",
+            "published": "2019-08-27T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/y0CtUiK2/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/y0CtUiK2.m3u8?exp=1574970832560&sig=d0fc134afbee4dfc9778aa35980fd22c"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/y0CtUiK2?exp=1574970832560&sig=c60af7eb5707febe1fe6f4ebfe30ef7f"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "765-2.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/EUuoL6l8.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/y0CtUiK2-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "2uFXY6A2",
+            "title": "Medication vs. Addiction",
+            "summary": "Taking medicines can lead to an addiction problem. Dr. Daniel Bober, Psychiatrist and Addiction Medicine Physician, explains how people become addicts by getting a certain amount of opioids from their doctors.",
+            "published": "2019-08-27T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/2uFXY6A2/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/2uFXY6A2.m3u8?exp=1574970832560&sig=fd2ca2a827537fac6545ed07054cd695"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/2uFXY6A2?exp=1574970832560&sig=bed5f129ee7464079f773c9e12cf0b47"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "765-7.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/7l2LSPB6.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/2uFXY6A2-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "ANWLW42G",
+            "title": "Cycle of Addiction",
+            "summary": "What are the parts of addiction? Dr. Daniel Bober, Psychiatrist and Addiction Medicine Physician, explains the cycle of addiction that includes triggers, tempting thoughts, guilt, and abstinence, among others.",
+            "published": "2019-08-27T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/ANWLW42G/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/ANWLW42G.m3u8?exp=1574970832560&sig=c337dce11a934cb206f792dd59a06e89"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/ANWLW42G?exp=1574970832560&sig=c29801c2b9478fb6c8beb0edf11dea2f"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "765-5.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/TNsFABmn.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/ANWLW42G-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "YFgvX7kx",
+            "title": "Humanizing Addiction",
+            "summary": "Why is it important to humanize substance abusers? Amy Exum, Psychotherapist with Care and Counseling at Baptist Health South Florida, explains why putting a label on people with addiction makes harder to have compassion for them, and how humanizing the patients helps to address this disease.",
+            "published": "2019-08-15T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/YFgvX7kx/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/YFgvX7kx.m3u8?exp=1574970832560&sig=a1657656b972c9bca1b153b04669bdc8"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/YFgvX7kx?exp=1574970832560&sig=91d400b65c50a298cd619e6b792f2bbb"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "746-3.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/lQim9nWO.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/YFgvX7kx-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "20vQ0s1t",
+            "title": "Addiction and Family Support",
+            "summary": "Family helps in the recovery process of the substance abuser. Amy Exum, Psychotherapist with Care and Counseling at Baptist Health South Florida, talks about how family support decreases isolation and self-blame, and increases self-care awareness.",
+            "published": "2019-08-15T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/20vQ0s1t/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/20vQ0s1t.m3u8?exp=1574970832560&sig=875156c36aab5f3f4256cbf3d6c136a8"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/20vQ0s1t?exp=1574970832560&sig=05f54caf5c4a46387ab6b5b998fc142e"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "746-5.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/iymEHM2Q.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/20vQ0s1t-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "ceY1lvN1",
+            "title": "Addiction and Support Groups",
+            "summary": "Is it better for the substance abuser to have a support group? Amy Exum, Psychotherapist with Care and Counseling at Baptist Health South Florida, talks about how helpful it is to have the family involved in the rehabilitation, and highlights the work of organizations like AA, and Narcotics Anonymous.",
+            "published": "2019-08-15T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/ceY1lvN1/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/ceY1lvN1.m3u8?exp=1574970832560&sig=4d79e0743b107fd322f1bd72ff342190"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/ceY1lvN1?exp=1574970832560&sig=f0b31a1b46686858aa99b04ac0b4202c"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "746-4.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/tpTh2uPz.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/ceY1lvN1-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "XMT9nRyV",
+            "title": "Addictions: Consequences",
+            "summary": "How do addictions affect the body and mind? Amy Exum, Psychotherapist with Care and Counseling at Baptist Health South Florida, explains how dangerous it is that a lot of people do not have any idea of what they are consuming, and how this can lead to physical and mental effects.",
+            "published": "2019-08-15T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/XMT9nRyV/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/XMT9nRyV.m3u8?exp=1574970832560&sig=c2634705052722053ddc747734cb0891"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/XMT9nRyV?exp=1574970832560&sig=09d7081ebc2ae73cdd86997eaad726df"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "746-2.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/5VdqSsto.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/XMT9nRyV-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "8hvmov6Y",
+            "title": "Addiction: Relapse and Family",
+            "summary": "How can families deal with a relative's relapse? Vilma Dailey, Psychotherapist with Care and Counseling at Baptist Health South Florida, explains what family members go through with a relapse, what they think, and what they can do to help.",
+            "published": "2019-08-15T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/8hvmov6Y/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/8hvmov6Y.m3u8?exp=1574970832560&sig=6aca968f772894c3afa1f1beceeab069"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/8hvmov6Y?exp=1574970832560&sig=e046b1110008e946b6955a80dab22aea"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "746-6.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/Nrm8nzZ8.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/8hvmov6Y-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "TqLLy6Wq",
+            "title": "Predisposition to Addiction",
+            "summary": "Is there anything determining if you have a predisposition to addiction? Amy Exum, Psychotherapist with Care and Counseling at Baptist Health South Florida, explains there are studies that show a genetic component predisposing people to addiction, and how they treat it as a medical condition, like cancer or diabetes.",
+            "published": "2019-08-15T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/TqLLy6Wq/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/TqLLy6Wq.m3u8?exp=1574970832560&sig=3f56fee71a967f86c864c9bf0ae77e4b"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/TqLLy6Wq?exp=1574970832560&sig=c68770e3b34342d9cd98203845b84a5a"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "746-1.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/ngMZqlPL.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/TqLLy6Wq-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "pg68tqIz",
+            "title": "Warning Signs of Substance Abuse",
+            "summary": "How can you tell if a relative is having an addiction problem? Amy Exum, Psychotherapist with Care and Counseling at Baptist Health South Florida, explains the warning signs you might notice, such as changes in sleeping or eating habits, aggressive behavior, and missing money.",
+            "published": "2019-08-15T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/pg68tqIz/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/pg68tqIz.m3u8?exp=1574970832560&sig=f3ef19f910f1c6f8c88227dc9579b349"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/pg68tqIz?exp=1574970832560&sig=ec3bd8b22d10b427f918067d5b64adda"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "746-7.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/GYkeU8lb.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/pg68tqIz-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "KB3wxnlj",
+            "title": "Red Flags of Addiction in Older People",
+            "summary": "What should you do if you think someone has an addiction, especially if they are older people? Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, gives us some signs and symptoms that would suggest an older adult is struggling with an addiction.",
+            "published": "2019-07-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/KB3wxnlj/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/KB3wxnlj.m3u8?exp=1574970832560&sig=b47bca233540b7f14f0084ce33e4691e"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/KB3wxnlj?exp=1574970832560&sig=a9bb69f16d7729f9bafc8ef6763452f5"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "724-5.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/L5bt3QTe.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/KB3wxnlj-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "srC5iKtO",
+            "title": "Older Population: Causes of Addiction",
+            "summary": "Self-reliant generation, forgetfulness, and drug cultures in the 60s and 70s are some causes of addiction in older populations. Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, talks about the growing number of adults and what things can trigger addiction in them.",
+            "published": "2019-07-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/srC5iKtO/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/srC5iKtO.m3u8?exp=1574970832560&sig=18a1418553f2953943a26bbefd48fbad"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/srC5iKtO?exp=1574970832560&sig=324663edfe74fc563e0793abe0949113"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "724-2.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/8TcKxh7v.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/srC5iKtO-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "kQV9V9tz",
+            "title": "Elderly: Recovering from Addictions",
+            "summary": "After receiving treatment for addiction, how is life for older people? Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, explains how they provide help, care, and clinical interventions so older people can have more chances of success.",
+            "published": "2019-07-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/kQV9V9tz/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/kQV9V9tz.m3u8?exp=1574970832560&sig=50287153e8423d89cfaa2c3c44c451eb"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/kQV9V9tz?exp=1574970832560&sig=fe87b4ee99d5eca6a1aa80a29dcc8e61"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "724-6.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/uwcGDHjA.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/kQV9V9tz-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "AG33lL1G",
+            "title": "Addiction: Post-Treatment Resources",
+            "summary": "Where to go after a treatment for addiction? Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, talks about care groups, apps, online social networks, among others, to seek for post-treatment support.",
+            "published": "2019-07-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/AG33lL1G/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/AG33lL1G.m3u8?exp=1574970832560&sig=1c073a08f3e38c718588a08a1b86ad45"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/AG33lL1G?exp=1574970832560&sig=232475cee3b9cfc5f9559de22f07714a"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "724-7.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/iRoHfSdO.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/AG33lL1G-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "i85YqQ1l",
+            "title": "Baby Boomer Addiction: Treatment",
+            "summary": "To treat addiction in the baby boomer generation, it is important to incorporate health and wellness concerns. Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, talks about how they can focus on rediscovering purpose in life and how doctors help them to cover the stigma of addiction.",
+            "published": "2019-07-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/i85YqQ1l/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/i85YqQ1l.m3u8?exp=1574970832560&sig=c3cfd1a9800835a93fe25be88b64f04f"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/i85YqQ1l?exp=1574970832560&sig=db5d5fcf079bc563d8ff29d4e628e2f5"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "724-4.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/OIn83d03.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/i85YqQ1l-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "v2d1g9S5",
+            "title": "Aging and Stress",
+            "summary": "Emotional pain and physical pain are some causes of stress in older people. Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, explains these and more stressors in life, and why it is important to look at the mental health stressors, but also the medical ones of older people.",
+            "published": "2019-07-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/v2d1g9S5/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/v2d1g9S5.m3u8?exp=1574970832560&sig=13cd4e6be96c7520690515c9c96a91c6"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/v2d1g9S5?exp=1574970832560&sig=31c71e6aa2a48a9f3a996d051341ef50"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "724-3.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/U6Gy8t1p.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/v2d1g9S5-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "6MKpDDM3",
+            "title": "Addiction in Elderly Population",
+            "summary": "One of the problems of addiction in the elderly population is that it is underdiagnosed. Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, talks about this disease and its medical concerns.",
+            "published": "2019-07-30T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/6MKpDDM3/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/6MKpDDM3.m3u8?exp=1574970832560&sig=93f600e7c080a16c99e6c212911afca1"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/6MKpDDM3?exp=1574970832560&sig=b34c4b6708fb3a9c145abdcee221d87f"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "724-1.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/oBhbkt4t.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/6MKpDDM3-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "3jk0kkWE",
+            "title": "Parenting And Teen Drugs Abuse",
+            "summary": "Dr. Francisco Medina, Director of Pediatric Emergency Services and Chief of Pediatrics at Homestead Hospital, says to avoid teen drugs abuse it is important to be involved with your child when they are at home, and being involved in the decisions that they make, because the conversations and what they see at home prepare them for interactions with peer pressure.\n\n\"The surprising factor for a lot of us is the parents not being aware of what's going on when it's right there in front of them.\"",
+            "published": "2019-07-01T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/3jk0kkWE/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/3jk0kkWE.m3u8?exp=1574970832560&sig=444300c32580017ef488c459a7bfd8cc"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/erBepuPaXPE"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/3jk0kkWE-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "dyMyUH6E",
+            "title": "Raising Children with Awareness",
+            "summary": "Doctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center, considers cigarettes and E-cigarettes can be risky, because people can put different things in affecting the lungs, because people are breathing these chemicals in and out and. Also they can affect all the organs of the body.\n\nThe doctor recommends to rise children awareness of the long-term effects of cigarettes and nicotine. “Nutrition is a big part of your body's development. These chemicals can actually suppress appetite and can affect sleep and body's development. These are long-term effects from these chemicals,” he explains.",
+            "published": "2019-06-06T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/dyMyUH6E/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/dyMyUH6E.m3u8?exp=1574970832560&sig=420ebcf86c005270c21fae1410b9901d"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/dyMyUH6E?exp=1574970832560&sig=19c6c7d2cda94aeb8210d11332569cc6"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/dyMyUH6E-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "V5lN63VH",
+            "title": "Substance Abuse: a Real Disease",
+            "summary": "Dr. Moraima Trujillo, Chief Medical Officer with Banyan Health, explains substance abuse is a disease and not a choice of the individual. She says there is scientific evidence to support the fact that there are brain receptors that respond to certain substances, such as painkillers, opioids and other stimulants.\n\nShe points out it is important to educate children to avoid their using drugs because of the peer pressure. She also highlights adults can become drug addicts after self-medicating.",
+            "published": "2019-05-23T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/V5lN63VH/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/V5lN63VH.m3u8?exp=1574970832560&sig=93ed676a7f8648d9ea20ee9f772305a8"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/V5lN63VH?exp=1574970832560&sig=c68c4a79698307556b55ebf34b6d43d6"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "626-2.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/AjTHdUbJ.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/V5lN63VH-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "kxOvqNqX",
+            "title": "Recovering from Substance Abuse",
+            "summary": "Dr. Moraima Trujillo, Chief Medical Officer with Banyan Health, says recovery is an individual process and some patients will recover quicker than others. She explains some patients require residential rehabilitation services or intensive outpatient services.\n\nAna Lara, Outpatient Psychiatry Supervisor with Banyan Health, points out the patients who recover the fastest or most successfully are the ones that have a support system, such as family, friends, church, and groups like AA.",
+            "published": "2019-05-23T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/kxOvqNqX/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/kxOvqNqX.m3u8?exp=1574970832560&sig=9e8c66ab25b1e2c7bebde8a5d8dc2ba1"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/kxOvqNqX?exp=1574970832560&sig=790fec53f28f20ec25fdfa73e7339ae3"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "626-7.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/bt30YxAm.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/kxOvqNqX-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "2Howl74T",
+            "title": "Addiction Treatment",
+            "summary": "Access to any drug makes it more likely that people abuse and if they cross the line, it is called addiction, affirms Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, \nThe risk of overdose for opioids is so huge even when people go to treatment, as well as in people who may even have had a short period of sobriety, the expert says. \nShe says both education and hope are very important when addictions happen. Importantly, there's hope that someone can get out of this problem. \nThe first step in order to get treatment is asking for help, she adds.",
+            "published": "2019-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/2Howl74T/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/2Howl74T.m3u8?exp=1574970832560&sig=a88172ee3d6a6f5d5de290d0f6c81754"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/2Howl74T?exp=1574970832560&sig=53b3e775607d2413599e75747c25e332"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "547-1.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/WdndK8Fa.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/2Howl74T-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "1NJffEgN",
+            "title": "Risk Factors for Addictions",
+            "summary": "The World Health Organization says 50% of the time, addiction is hereditary. However, most people do use drugs to try something through their life. \nOther risk factors might be socioeconomic, trauma, accessibility of drugs, explains Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation.\nThe expert also says a lot of people are using drugs in moderation, for feeling well. But for people with certain risk factors, their chances of becoming addicted are much greater.",
+            "published": "2019-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/1NJffEgN/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/1NJffEgN.m3u8?exp=1574970832560&sig=c804e67e75522d2524b85101cef87a96"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/1NJffEgN?exp=1574970832560&sig=2e487d994616c71354edcffd268b8042"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "547-2.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/tr73dvUC.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/1NJffEgN-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "0HdFomb7",
+            "title": "Opioid Epidemic & Drug Trifecta",
+            "summary": "In the late 90s, Pardue Pharmacy introduced Oxycodone, a very highly addictive drug for pain, explains Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation.\nThe expert also talks about drug trifecta: opioids, alcohol and benzos. Trifecta refers to depressants active in a lot of the overdoses. \nShe explains benzodiazepines are anxiety pills, but they’re also sleeping pills. Benzos can slow people down, because they have opiates. \nShe affirms they see the trifecta a lot: mix of opioids, alcohol and benzos and this mix can be fatal.",
+            "published": "2019-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/0HdFomb7/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/0HdFomb7.m3u8?exp=1574970832560&sig=25678a318c8f5fb60a5e0d5d4149ff4a"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/0HdFomb7?exp=1574970832560&sig=f4f9ee0e4b99c2cf44894a4c63fb2b7a"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "547-3.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/n8borEY0.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/0HdFomb7-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "ocHHXB1R",
+            "title": "Learning about Addiction",
+            "summary": "Addictions include chemical use and chemical abuse, explains Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation.\n\nShe advises being alert to warning signs, such as less self-esteem, self-acceptance problems or constantly thinking about when to take the next pill to feel better.",
+            "published": "2019-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/ocHHXB1R/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/ocHHXB1R.m3u8?exp=1574970832560&sig=83bb3be645b5a10c3b6207b00bddf738"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/ocHHXB1R?exp=1574970832560&sig=f5d04af8f1cae3ca8d0c2622ff5d88d0"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "547-6.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/zl9W82Nk.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/ocHHXB1R-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "ImHXMoSU",
+            "title": "Social Support in Addiction Treatment",
+            "summary": "Addiction is a chronic disease. And as in any chronic disease, the success of the treatment is seen days after it has been realized, says Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation. \nThe expert explains in her Foundation, during the treatment, that they do a lot of education, therapy and support groups, but that after the treatment, when patients enter the community they also analyze how they  can help them in their continuous recovery.\nCommunity is very important in the recovery process, because its support helps patients in daily life.",
+            "published": "2019-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/ImHXMoSU/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/ImHXMoSU.m3u8?exp=1574970832560&sig=5802b1a2f0f6a40c3b7d56ae59f07215"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/ImHXMoSU?exp=1574970832560&sig=0d241fa0c3e6a671df1133d6bf16364c"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "547-7.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/lCDlXBtb.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/ImHXMoSU-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "2MLZVZsE",
+            "title": "Causes of Alcohol Addiction",
+            "summary": "Alcohol is socially acceptable and it’s legal, says Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation.\nThe expert says alcohol overdoses in older people are labeled as fall or as a heart attack.\nShe affirms the U.S. health care system is overwhelmed with addictions, which they can be alcohol and drugs, but they can also be food: the obesity epidemic.",
+            "published": "2019-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/2MLZVZsE/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/2MLZVZsE.m3u8?exp=1574970832560&sig=4cb5634d1bdcd83c29130a2e1febe57d"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/2MLZVZsE?exp=1574970832560&sig=eb9fcd5e9c6a444d961cedd8c15d3a99"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "547-5.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/xaIdrLcu.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/2MLZVZsE-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "1Fe1kMKk",
+            "title": "Treatment Options for Addictions",
+            "summary": "There are many different treatment options for addictions, affirms Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation and says in her foundation they have published a lot of books about that.\nThe expert explains different treatments for age groups. For young people, until 24, the treatment is based in their behavior. \nFor older people, they work on education about addictions, she says, \nShe affirms that the treatments must be personalized, according to the needs of each patient.",
+            "published": "2019-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/1Fe1kMKk/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/1Fe1kMKk.m3u8?exp=1574970832560&sig=7ca7caac95828ab7c60a2664a9236290"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/1Fe1kMKk?exp=1574970832560&sig=c7a5f045ac335b8f8d7781bb16d78487"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "547-4.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/yHC2LU7T.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/1Fe1kMKk-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "NgcJ446U",
+            "title": "Drug Addiction Treatment",
+            "summary": "Christopher Irizarry, Vice President of Primary Health Care Services at Banyan Health Systems, explains abstinence does not necessarily work for everyone. He says medication can also be a solution for treating substance use disorder.\n\nHe also points out there are a lot of social determinants in the environment people live in that can lead to triggering a person to relapse, and medication assisted treatment is an option that is growing.",
+            "published": "2019-02-20T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/NgcJ446U/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/NgcJ446U.m3u8?exp=1574970832560&sig=500dd5582cc460dd81a71e7153f73943"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/NgcJ446U?exp=1574970832560&sig=5a7dfaf5af896ca84ba86d57c4d3ec73"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "501-4.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/7ivQrcNx.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/NgcJ446U-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "OlZTIVJu",
+            "title": "Substance Use Disorders",
+            "summary": "The most common substance use disorders are alcohol use disorder (AUD), tobacco use disorder, cannabis use disorder, stimulant use disorder, hallucinogen use disorder, and opioid use disorder.\n\nChristopher Irizarry, Vice President of Primary Health Care Services at Banyan Health Systems, says most people do not see tobacco as a drug, but it is nicotine, and most kids think vaping is not harmful because it is not a cigarette, but it is addiction to nicotine. He also points out people taking opioids do not know the level of addiction they were facing, and they are taking opioids for pain, not understanding the addictive properties they have.",
+            "published": "2019-02-20T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/OlZTIVJu/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/OlZTIVJu.m3u8?exp=1574970832560&sig=0895ff669265ecdd804706039b840d5f"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/OlZTIVJu?exp=1574970832560&sig=5fc74718f9383331d8740c9ac405c11d"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "501-3.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/7I4Zgldg.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/OlZTIVJu-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "8Dk8hK9W",
+            "title": "Opioid Addiction during Pregnancy",
+            "summary": "According to the Centers for Disease Control and Prevention, more than 72,000 Americans died from drug overdoses last year.\n\nDr. Jaime Fernandez, Pediatric Neonatologist with Homestead Hospital, says the opioid epidemic is startling, because it makes these moms completely dysfunctional and incapable of taking care of their babies.",
+            "published": "2019-01-30T19:32:50+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/8Dk8hK9W/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/8Dk8hK9W.m3u8?exp=1574970832560&sig=b7abd90f87850799f9c1021758cd4d9c"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://cdn.jwplayer.com/previews/8Dk8hK9W?exp=1574970832560&sig=a5a081bceb967cd45a7d5ffcc14a1412"
+            },
+            "extensions": {
+                "text_tracks": {
+                    "version": "1.0",
+                    "tracks": [
+                        {
+                            "label": "439-5.mp4",
+                            "kind": "captions",
+                            "source": "https://cdn.jwplayer.com/tracks/t8wDzBoQ.srt"
+                        }
+                    ]
+                },
+                "thumbnails": "https://cdn.jwplayer.com/strips/8Dk8hK9W-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "P3htiLDj",
+            "title": "Overdose Symptoms",
+            "summary": "Euphoria is the typical symptom of an opiate, according to Dr. Yvonne Johnson, who adds that after a very euphoric period, the patient could be lethargic, have slurred speech, could not respond normally as well as they normally do nor breathe very well. \n\nNot breathing very well is the most dangerous situation, she says. “If a person doesnâ€™t breathe for a few seconds, it can be a big problem. Their pupils may be pinpoint and they are not just as responsive as they normally are,\" she adds.\n\nIf these symptoms appear it means that it is necessary to go to ER.",
+            "published": "2018-10-07T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/P3htiLDj/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/P3htiLDj.m3u8?exp=1574970832560&sig=6dd9aa1d41a7959644c2b9bee3b6a12d"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://www.youtube.com/watch?v=vhYmZpMMZeE&t=5s"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/P3htiLDj-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "WEsfcB9G",
+            "title": "Opioids For Back Pain",
+            "summary": "The opioid crisis is the rapid increase in the use of prescription and non-prescription opioid drugs as a solution to manage pain.\n\nJosÃ© Mena, Interventional Spine Specialist at Baptist Health South Florida, says opioids are not intended into treating the source of the pain, they are just masking the pain.\n\nDoctors should be proactive in dealing with the symptoms where the pain is coming out from to prevent patients from escalating the use of this type of narcotics.",
+            "published": "2018-10-07T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/WEsfcB9G/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/WEsfcB9G.m3u8?exp=1574970832560&sig=c11c310582e506ec08ea24c301bf2e0e"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/6SHDh0CY8o8"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/WEsfcB9G-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "eAbGjpPH",
+            "title": "The Nature Of The Drug ",
+            "summary": "The nature of the drug causes an addiction instead of human nature, according to Dr. Yvonne Johnson. \n\nShe confesses she was impressed when she discovered that It's not about a person's moral failing. It's really about the nature of the drug that causes addiction,\" she says. \n\nShe thinks society has a greater affinity for doing something about a problem that affects that portion of the population.",
+            "published": "2018-10-07T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/eAbGjpPH/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/eAbGjpPH.m3u8?exp=1574970832560&sig=661c727b3376ea18f0d5edda3616158a"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://www.youtube.com/watch?v=OCzka_bDwRI&t=2s"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/eAbGjpPH-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "vjdH16nN",
+            "title": "Teens And Nicotine, A Bad Partnership",
+            "summary": "There are consequences of smoking nicotine. Michael Hernandez, Critical Care & Pulmonary Medicine Physician, at South Miami Hospital, says some of the effects are increased heart rate and increased blood pressure.\n\nHe points out e-cigarettes are built as a cleaner delivery device, but there is a problem with them and that is there are other things within the liquid, other than nicotine, whose long-term side effects are unknown by experts.\n\nIn the heating coils of these e-cigarettes there are heavy metals, such as tin and arsenic.",
+            "published": "2018-10-07T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/vjdH16nN/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/vjdH16nN.m3u8?exp=1574970832560&sig=f7b4782cbeaaf3ccd5f30aa3e092b80d"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/R4RQM4XX9XI"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/vjdH16nN-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "4Ozg2ZaB",
+            "title": "Medicine Addiction ",
+            "summary": "Medicine addiction is a consequence in people who suffer from very chronic painful injuries or chronic painful conditions and it may cause a risk of overdose. \n\nDoctor Yvonne Johnson says the people who use a lot of pain killers or narcotic drugs can become addict over the time.\n\n“Narcotic abuse can increase the risk of overdose, because if you develop pain tolerance and at the same time you have tolerance to the negative side effects of medicine, and take more and more pills, you can also suffer the negative side effects,\" Dr. Yvonne Johnson explains.",
+            "published": "2018-10-07T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/4Ozg2ZaB/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/4Ozg2ZaB.m3u8?exp=1574970832560&sig=d6e0dd37e3f767e19f24971ed3a018b7"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://www.youtube.com/watch?v=Txx1YAllIRo&t=3s"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/4Ozg2ZaB-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "CUNXGvnX",
+            "title": "E-Cigarettes, A Tobacco Product",
+            "summary": "E-cigarettes have nicotine derived from tobacco, so they are considered a tobacco product. Michael Hernandez, Critical Care & Pulmonary Medicine Physician, at South Miami Hospital, highlights  the recommendations are avoiding the use of e-cigarettes or vaping around pregnant women, people with lung conditions and around kids as well.\n\nHe says teenagers are using this delivery device and getting heavily addicted on nicotine and it is becoming a gateway to combustible cigarettes.",
+            "published": "2018-10-07T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/CUNXGvnX/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/CUNXGvnX.m3u8?exp=1574970832560&sig=13c8b156f40bfd33eb61ea4ac04a0d57"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/T77qod6cpiU"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/CUNXGvnX-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "wlyPPOu6",
+            "title": "Sleeping: Adenosine And Melatonin",
+            "summary": "In recent years the number of women smokers who get pregnant has increased comparing with ten years ago.\n\nDr. Karen Salazar-Valdes, Obstetrician and Gynecologist with Baptist Hospital of Miami advises staying away from smoking, because it can affect the fetus. \n\nShe also recommends not drinking during pregnancy.",
+            "published": "2018-08-28T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/wlyPPOu6/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/wlyPPOu6.m3u8?exp=1574970832560&sig=d607fabb5131faa81dcbd8cf56b6b594"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/faz8TgD_Js8"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/wlyPPOu6-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "eTkcE10A",
+            "title": "A Quit Smoking Plan",
+            "summary": "For some people trying to quit smoking keeping a plan could help to achieve the goal. Rodney Benjamin, Critical Care and Pulmonary Medicine Physician at South Miami Hospital, says the first part of the plan is making a decision.\n\n\"That is a commitment to yourself and to your family and without that probably nobody is going to be successful, and the second thing is to set up a plan for when you're going to stop smoking and how you are going to do it,\" he explains.",
+            "published": "2018-08-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/eTkcE10A/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/eTkcE10A.m3u8?exp=1574970832560&sig=e1fa5e2e2cfdf1ede12db7df7c14b3b6"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/DNnbFRbczxQ"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/eTkcE10A-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "3L6wxkZW",
+            "title": "Nicotine Withdrawal Symptoms",
+            "summary": "According to Rodney Benjamin, Critical Care and Pulmonary Medicine Physician at South Miami Hospital, the symptoms that people feel when they attempt to quit smoking can vary from just being a little ready for a few days and annoying your family to being a completely insane person and out of control.\n\n\"It's a withdrawal and withdrawals can be powerful. The average person is just uncomfortable and has cravings and eats too much, but this is a huge spectrum,\" he says.",
+            "published": "2018-08-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/3L6wxkZW/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/3L6wxkZW.m3u8?exp=1574970832560&sig=9176eaa339863a1bf9412891e213577c"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/gLuZk1_NCOI"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/3L6wxkZW-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "UQ1mgbs1",
+            "title": "Age And Vulnerability To Smoke",
+            "summary": "The American Cancer Society says the younger you start smoking, the more addicted you become.\n\nRodney Benjamin, Critical Care and Pulmonary Medicine Physician at South Miami Hospital, believes younger people are more vulnerable, because they donÂ´t have any sense of their mortality.\n\nHe points out it is a scary age for dangerous behavior and smoking is a dangerous behavior.",
+            "published": "2018-08-06T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/UQ1mgbs1/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/UQ1mgbs1.m3u8?exp=1574970832560&sig=4e71d3457371cc13fa58aeae4b2c5c1c"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/ZNwUMquSQoE"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/UQ1mgbs1-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "cX2cV03Q",
+            "title": "The Effects In Smoker Lungs",
+            "summary": "The Centers for Disease Control says one out of every five deaths each year is cigarette related. That is, more deaths than AIDS, alcohol, car accidents, illegal drugs, murder and suicides combined.\n\nMen account for almost 280,000 deaths, while women are over 200,000. And men who smoke are at an increased risk for dying from bronchitis, emphysema, lung cancer and coronary heart disease.\n\nRodney Benjamin, Critical Care and Pulmonary Medicine Physician at South Miami Hospital, explains that people who smoke have a lot of carbon in the lung and it gets black, which starts to create a lot of medical issues to the patient.",
+            "published": "2018-08-06T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/cX2cV03Q/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/cX2cV03Q.m3u8?exp=1574970832560&sig=9d5becbef99ffb6d1559bf7cd2e90ea1"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/AB_nUhQCUvU"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/cX2cV03Q-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "9yEjxsUn",
+            "title": "The Battle Against Smoking",
+            "summary": "Rodney Benjamin, Critical Care and Pulmonary Medicine Physician at South Miami Hospital, says he is astounded that this e-cigarette thing has happened. \"It seems like a huge step back, I don't get it why there aren't laws against it, because weâ€™re trying to get people to stop smoking and then we're introducing nicotine in an alternative form,\" he explains.\n\nHe says e-cigarettes are not better than cigarettes, because nobody has any idea what they are actually inhaling: \"These are products that come from out of the country with no regulation,\" he highlights.",
+            "published": "2018-08-06T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/9yEjxsUn/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/9yEjxsUn.m3u8?exp=1574970832560&sig=399862b4fec9fcce0620922015c43cd0"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/vu6tSdTtBUg"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/9yEjxsUn-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "u9psg2eI",
+            "title": "Smoking Cessation In Lung Cancer Patients",
+            "summary": "The World Health Organization organizes a No Tobacco Day to encourage smokers to put out their cigarettes, because worldwide tobacco use causes 6 million deaths annually.\n\nRodney Benjamin, Critical Care and Pulmonary Medicine Physician at South Miami Hospital, explains if a new product came out that did what tobacco does, nobody would touch it.\n\n\"It is hard to understand why people smoke and I think it's a combination of two things: the culture, there's a culture about smoking, and it's an addictive substance, because of the nicotine,\" he points out.",
+            "published": "2018-08-06T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/u9psg2eI/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/u9psg2eI.m3u8?exp=1574970832560&sig=1eea50205d9a9266adf25c3d3a4d8bb8"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/hSiyL4g1WAA"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/u9psg2eI-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "oE0tJ12I",
+            "title": "Strategies To Quit Smoking",
+            "summary": "Rodney Benjamin, Critical Care and Pulmonary Medicine Physician at South Miami Hospital, explains the standard strategy to quit smoking is called the five days, which is a long counseling process.\n\n\"I look at smoking as a disease and if someone is a smoker and they are interested in quitting, I treat it the same way I treat diabetes\", he says. The treatment is about behavioral modifications and strategies like not having cigarettes in your house, for example.",
+            "published": "2018-08-06T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/oE0tJ12I/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/oE0tJ12I.m3u8?exp=1574970832560&sig=a26a6aae9f033464d1171bbd138c7324"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/_fcxnvzbn5w"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/oE0tJ12I-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "vDNLXczt",
+            "title": "Blood Pressure Affected By Alcohol",
+            "summary": "A study from the Centers for Disease Control and Prevention suggests there are long term effects with binge drinking and heavy alcohol consumption related to high blood pressure.\n\nIan del Conde, Cardiovascular Specialist at Miami Cardiac and Vascular Institute, says binge drinking is bad not only for the liver, which is probably the organ that is best known to be affected by alcohol but also by blood pressure.\n\n\"You can actually have a very high blood pressure on a Saturday morning if you were binge drinking on Friday, so that's something we should really avoid\", he explains.",
+            "published": "2018-07-22T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/vDNLXczt/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/vDNLXczt.m3u8?exp=1574970832560&sig=5db1038437a7130acf9a5bd9e7667e7b"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/dYeB9RM7JUg"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/vDNLXczt-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "pX9RMODg",
+            "title": "Smoking & Drinking During Pregnancy",
+            "summary": "Lung cancer is the leading cause of death of men and women in the US. According to the American Cancer Society, most lung cancer is caused by smoking.\n\nAdrian Cristian, Physiatrist at Miami Cancer Institute, says stopping smoking is probably the most important thing that you can do to minimize the complications, so part of the rehabilitation program for someone with lung cancer is smoking cessation.\n\nHe points out that if the person is actively smoking before their surgery or treatments, the program is to offer services to help them to stop smoking.",
+            "published": "2018-07-21T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/pX9RMODg/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/pX9RMODg.m3u8?exp=1574970832560&sig=abadf5ac59f45145bcee2a0b26e3d4a1"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/UKppDROHgJI"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/pX9RMODg-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "Whct1KeQ",
+            "title": "Effects Of Stress On Behavior",
+            "summary": "Overeating or undereating, angry outbursts, drug or alcohol use, social withdrawal and exercising less often are the main effects of stress in personal behavior.\n\nNicole Rodriguez, Psychotherapist with Care & Counseling at Baptist Health South Florida, also adds that stress is becoming anxiety and depression too.",
+            "published": "2018-07-11T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/Whct1KeQ/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/Whct1KeQ.m3u8?exp=1574970832560&sig=020dbc864dfe02a16076729f2f4a2eed"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/9KcOVYJTmm4"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/Whct1KeQ-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "nydYrztI",
+            "title": "Vaping And Teenagers",
+            "summary": "E-cigarettes and vaping are a trend among teens, but it could be dangerous for their health.\n\nMichael Hernandez, Critical Care & Pulmonary Medicine Physician at South Miami Hospital, says about 95 % of disciplinary action in highschools is related to vape pens.\n\nVape cigarettes have health side effects, Hernandez recommends to no start vaping, because once you get addicted, it is very difficult to get off nicotine, which is one of the most hard substances to get weaned off.",
+            "published": "2018-04-12T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/nydYrztI/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/nydYrztI.m3u8?exp=1574970832560&sig=d586197cc44de69422a5fe27ac28210c"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/8YCcD7_odh8"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/nydYrztI-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "fcYhXPyt",
+            "title": "Quitting Smoking, A Tough Task",
+            "summary": "A lot of people try to quit smoking several times, but eventually succeed. Michael Hernandez, Critical Care & Pulmonary Medicine Physician at South Miami Hospital, says quitting smoking is really though.\n\n\"That's why I tell adolescents don't get started, because the earlier that you're addicted the harder it is to quit because your brain has not yet formed\".\n\nHe puts out quitting smoking fails 60% of the cases with the best option they have: a medication called varenicline.",
+            "published": "2018-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/fcYhXPyt/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/fcYhXPyt.m3u8?exp=1574970832560&sig=06bf93dd8ea7a88b5854a7804ee6be19"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/Azidy1sE--E"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/fcYhXPyt-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "txBnRahT",
+            "title": "E-Cigarettes, A Way To Quit Smoking",
+            "summary": "E-cigarettes could be seen as a step to start quitting smoking, but Michael Hernandez, Critical Care & Pulmonary Medicine Physician, at South Miami Hospital, says there are no conclusive studies that to reduce the use of conventional cigarettes might help the use of electronic ones.\n\n\"In regards to cessation, it doesn't quite succeed patients who smoke do smoke less combustible cigarettes when they're smoking e-cigarettes\", he explains.\n\nHernandez also highlights it is unclear whether they're ingesting less nicotine or they're less addicted.",
+            "published": "2018-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/txBnRahT/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/txBnRahT.m3u8?exp=1574970832560&sig=ad59611c396db4d0f72b7d34ec8d2547"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/pCgoxvVknw0"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/txBnRahT-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "zZ4IJyT3",
+            "title": "Diseases Caused By Smoking",
+            "summary": "Smoking can cause lung cancer, but there are other types of cancer related to smoking traditional cigarettes.\n\nMichael Hernandez, Critical Care & Pulmonary Medicine Physician at South Miami Hospital, says there are others cancers associated with tobacco, like head, neck, mouth and esophageal cancer.\n\nSmoking is bad for your health and you should avoid it, because it also causes coronary diseases.",
+            "published": "2018-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/zZ4IJyT3/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/zZ4IJyT3.m3u8?exp=1574970832560&sig=c1bbfeab828a21d3930743c854975a23"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/UmyK74hpqPc"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/zZ4IJyT3-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "RbbLdTGY",
+            "title": "Alternatives To Quit Smoking",
+            "summary": "There are some ways to quit smoking. Michael Hernandez, Critical Care & Pulmonary Medicine Physician at South Miami Hospital, says one of them is medication.\n\nHe highlights the most evidence in smoking cessation is pharmacologic therapy, such as nicotine replacement therapy with patches, gum and lozengers; bupropion and varenicline.\n\nIn addition, counselling is very helpful as therapy to quit smoking too.",
+            "published": "2018-04-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/RbbLdTGY/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/RbbLdTGY.m3u8?exp=1574970832560&sig=585d54f75c44f4c9931f2a5ea59d4ddd"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/ursqVyy7wwQ"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/RbbLdTGY-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "DoSE5XDI",
+            "title": "Opioid, The Pain Management's Mistake",
+            "summary": "Martin Lopez, Psychotherapist with Care & Counseling at Baptist Health South Florida, considers there are some factors that contributes with an opioid epidemic such as accessibility, stressors, and incorrect prescriptions, among others.\n\nDr. John Eustace, Medical Director of Care & Counseling with Baptist Health South Florida, explains a year ago, opioids referred to synthetic narcotics. “But now because of the epidemic that overlaps heroin and synthetics, the term opioid is used for the general category narcotics, be it legal, illegal, pharmaceuticals, morphine or heroin,\" he says.",
+            "published": "2018-03-09T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/DoSE5XDI/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/DoSE5XDI.m3u8?exp=1574970832560&sig=fb4e7c80d3dbccc61ae292f1727ea3b4"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/hb3_64TEJuc"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/DoSE5XDI-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "9qZTrAJa",
+            "title": "Brain & Nicotine",
+            "summary": "Brain imaging studies suggest people who smoke regularly from a young age tend to reduce activity in the prefrontal cortex of the brain. They perform less on tasks, also memory and attention are affected compared to people who don't smoke.\n\nDoctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center agrees and adds that the prefrontal cortex is a part of the brain that gives people their personalities, helps them make decisions and inhibits certain behaviors. “It's a kind of filter of the brain. The nicotine can affect this part of the brain,\" he affirms.",
+            "published": "2018-03-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/9qZTrAJa/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/9qZTrAJa.m3u8?exp=1574970832560&sig=78a1000eb56b06c9aa0e84709c5a7a47"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/KZlzuxb80h8"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/9qZTrAJa-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "M9RbR4Wk",
+            "title": "Effects Of Alcohol ",
+            "summary": "Doctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center, considers alcohol has a calming effect and makes more comfortable social type of gathering because people can feel more comfortable with it in their system.\n\nThe specialist explains there's a receptor in the brain (Gaba), a sort of a chair for a neurotransmitter which calms a patient with a specific drug component. \n\nAlcohol can have a similar effect. However, this effect is very short-lived, so if a person wants to have it continuously, he has to keep drinking. \n\nAlcohol is very toxic to the body and has bad effects on the brain and the nervous system.  Statistics reveal that more than half of 88 thousand US deaths result annually from excessive drinking.",
+            "published": "2018-03-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/M9RbR4Wk/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/M9RbR4Wk.m3u8?exp=1574970832560&sig=4e3f1fe83a7e9ad3b014435d09cea5a3"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/ysVHlzHwA-Y"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/M9RbR4Wk-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "k8MIccIM",
+            "title": "The Habit Of Smoking",
+            "summary": "Most people that have smoking as a habit start at an early age and it is not only a physiological dependence but they link it to certain situations in life, says Doctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center.\n\nThe doctor adds people who have the habit of smoking almost use a crutch because it makes them kind of comfortable in that. \n\nAbout the Vaping cigarettes, the specialist explains there are different things that people put in these and depending on what chemical is in there the effect is determined. “It's a fad,\" he says.",
+            "published": "2018-03-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/k8MIccIM/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/k8MIccIM.m3u8?exp=1574970832560&sig=24263a1f1342589730f1c6b997c5c096"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/SuKxDuZyRUU"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/k8MIccIM-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "60YKtUkC",
+            "title": "Marijuana And Medicine",
+            "summary": "There are some indications for marijuana in medicine, explains Doctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center. Most of the time, when people think of marijuana, they think of a recreational drug and it can give them a euphoric effect. For these reasons It's abused, he adds. \n\nThere are medical benefits for certain compounds within marijuana: they can certainly heighten people's senses, can calm people's nerves, many people can use this drug like a crutch to feel more comfortable in social gatherings and whatnot, he explains.\n\nIts use should be monitored by a doctor, because when marijuana is used medically, it is an option for some medical conditions like cancer pain, the Doctor affirms.",
+            "published": "2018-03-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/60YKtUkC/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/60YKtUkC.m3u8?exp=1574970832560&sig=a0162eb672abf465a7e26c431596899c"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/quWisddmBfI"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/60YKtUkC-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "41YJ4bR7",
+            "title": "Long Term Alcohol",
+            "summary": "Long term alcohol in the prefrontal cortex effects on this part of the brain can change a person's behavior, affirms Doctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center. \n\nHe also explains, in a digital imaging, that when people can feel comfortable with the alcohol effects, they tend to do things that they normally would not do if they didnâ€™t have alcohol in their bodies.\n\nCerebellum is another organ that can be very sensitive to the long-term effects of alcohol. Alcoholics can have very poor balance, so they tend to stagger and keep their legs farther apart, Doctor Jaramillo explains.",
+            "published": "2018-03-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/41YJ4bR7/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/41YJ4bR7.m3u8?exp=1574970832560&sig=816a5958840d5bea7e0d77df930375ae"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/f53EVSTUiDE"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/41YJ4bR7-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "MTskNZ58",
+            "title": "Edible Drugs",
+            "summary": "Edible drugs are becoming very popular because they're easy to get and to consume, according to Doctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center. \n\nThe specialist adds the effects of these drugs are really dose dependent. “It depends on what's the concentration in each one of these edibles, and how we as individuals sort of metabolize and get affected by the different doses of these drugs,\" he says.",
+            "published": "2018-03-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/MTskNZ58/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/MTskNZ58.m3u8?exp=1574970832560&sig=d1a5b3663b9985f0a537c3a84bff169d"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/CWNdw7fdLXA"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/MTskNZ58-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "id": "hfN7vyRj",
+            "title": "Second Hand Smoker",
+            "summary": "Any advice that physicians give to their patients is proven and scientifically based, says Doctor Sergio Jaramillo, Neurologist at Baptist Health Neuroscience Center. \n\nThere's just loads of evidence of the primary and the secondary effects of smoking. It's very clear, according to him, the link between smoking and the carcinogenic effect or the risk of developing many types of cancer. \n\nDoctor Jaramillo explains, in a digital imaging, how every organ can be affected by harmful chemicals, because, if a person is inhaling not just oxygen but smoking nicotine and other chemicals from cigarettes, he gets sort of absorbed into his bloodstream and from the lungs. That blood gets pumped to the rest of his body.",
+            "published": "2018-03-08T00:00:00+00:00",
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://cdn.jwplayer.com/v2/media/hfN7vyRj/poster.jpg?width=720",
+                            "key": "image_base"
+                        }
+                    ]
+                }
+            ],
+            "content": {
+                "src": "https://cdn.jwplayer.com/manifests/hfN7vyRj.m3u8?exp=1574970832560&sig=bbb250d3d0587e81a5e861cc44d49070"
+            },
+            "link": {
+                "type": "text/html",
+                "rel": "alternate",
+                "href": "https://youtu.be/E4K1ez4HhsY"
+            },
+            "extensions": {
+                "thumbnails": "https://cdn.jwplayer.com/strips/hfN7vyRj-120.vtt",
+                "free": false,
+                "authorization_providers_ids": []
+            }
+        }
+    ],
+    "title": "Addictions"
+}
