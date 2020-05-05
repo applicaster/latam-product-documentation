@@ -1,0 +1,2463 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "txAtCOKu",
+      "title": "Seeing a Doctor Regularly",
+      "summary": "Why is it important to see a doctor regularly? Derla Libby, Endoscopic Nurse at Galloway Endoscopy Center with Baptist Health South Florida, explains the benefits of being in constant medical care by visiting the doctor to treat the problems that appear with the aging process.",
+      "published": "2019-07-31T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/txAtCOKu/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/txAtCOKu.m3u8?exp=1588695860880&sig=2083c8e12ec1e07296726f43b1e66bda"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/txAtCOKu?exp=1588695860880&sig=bd0cf64ee8caab87f6edf9ec0a71de2d"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "730-4.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/hfVXNCsP.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/txAtCOKu-120.vtt",
+        "free": true,
+        "requires_authentication": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "VUGdjY0D",
+      "title": "Older Adults: Survival Holistic Kit",
+      "summary": "A survival holistic kit is made to help older people to exercise their memory skills and keep their capacities as longer as possible. Derla Libby, Endoscopic Nurse at Galloway Endoscopy Center with Baptist Health South Florida, explains how to achieve mental capacity as you get older by implementing this kit.",
+      "published": "2019-07-31T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/VUGdjY0D/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/VUGdjY0D.m3u8?exp=1588695860880&sig=b1db16be2cb5830b68579eb38cb9c26e"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/VUGdjY0D?exp=1588695860880&sig=b7ffdd1a10622d5b5b312af8f72fb384"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "730-3.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/TPNPj9Jp.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/VUGdjY0D-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "jKeTDVJL",
+      "title": "Older People: Dutch Cleaning",
+      "summary": "What is Dutch cleaning? How does it help the elderly population? Derla Libby, Endoscopic Nurse at Galloway Endoscopy Center with Baptist Health South Florida, talks about this concern older people have of cleaning their homes before passing, so their family does not have to take care of their things after their death.",
+      "published": "2019-07-31T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/jKeTDVJL/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/jKeTDVJL.m3u8?exp=1588695860880&sig=7ae0800621e194fd9089164ceee69eec"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/jKeTDVJL?exp=1588695860880&sig=ea039df91a78df5a1d80cfad6e2000f7"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "730-2.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/weRhy0P3.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/jKeTDVJL-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "InZuaCAC",
+      "title": "Sleeping and Older People",
+      "summary": "Staying asleep is a common problem in the elderly population. Derla Libby, Endoscopic Nurse at Galloway Endoscopy Center with Baptist Health South Florida, talks about the importance for older people to have hours of quality sleep, and how sleep plays a big role in their health status.",
+      "published": "2019-07-31T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/InZuaCAC/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/InZuaCAC.m3u8?exp=1588695860880&sig=38fcc80e3f88ad80c220917b59904505"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/InZuaCAC?exp=1588695860880&sig=e33212dd44793e3ca10b33cbe4a43491"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "730-5.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/2gLxccOq.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/InZuaCAC-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "SFxf1fWD",
+      "title": "Older Adults and Health",
+      "summary": "There is a high percentage of older adults who report having a very good or excellent health. Derla Libby, Endoscopic Nurse at Galloway Endoscopy Center with Baptist Health South Florida, says as people get older, they are more confident and do not concern too much about their health.",
+      "published": "2019-07-31T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/SFxf1fWD/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/SFxf1fWD.m3u8?exp=1588695860880&sig=e4483b66d0abaeb96a8088f17c6eaf8c"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/SFxf1fWD?exp=1588695860880&sig=69321fe933e7a2039b80b38c71ea6ff5"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "730-1.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/XhPYjCmr.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/SFxf1fWD-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "43r7xleb",
+      "title": "Older Adults: Managing Stress",
+      "summary": "How can older people manage stress? Derla Libby, Endoscopic Nurse at Galloway Endoscopy Center with Baptist Health South Florida, explains how older adults can prepare for managing stressful situations by knowing themselves.",
+      "published": "2019-07-31T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/43r7xleb/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/43r7xleb.m3u8?exp=1588695860880&sig=97afacf27e3e140859ad5daed6bf1c42"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/43r7xleb?exp=1588695860880&sig=f4e9708e2268e1e63592507bde18607c"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "730-6.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/12d6P8si.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/43r7xleb-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7xMrghpT",
+      "title": "Being Present and Older People",
+      "summary": "Aging process can be difficult for many people. Derla Libby, Endoscopic Nurse at Galloway Endoscopy Center with Baptist Health South Florida, explains how important it is to never lose hope for older people, and gives some tips to live in the moment.",
+      "published": "2019-07-31T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/7xMrghpT/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/7xMrghpT.m3u8?exp=1588695860880&sig=df9a8141063748b95784dedb5743fddc"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/7xMrghpT?exp=1588695860880&sig=1d0f59a2f3939faa12bb8e7a128a6e50"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "730-7.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/dpxoQJQJ.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/7xMrghpT-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "kQV9V9tz",
+      "title": "Elderly: Recovering from Addictions",
+      "summary": "After receiving treatment for addiction, how is life for older people? Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, explains how they provide help, care, and clinical interventions so older people can have more chances of success.",
+      "published": "2019-07-30T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/kQV9V9tz/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/kQV9V9tz.m3u8?exp=1588695860880&sig=a0145886aec2e29168a7f06d4878ddde"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/kQV9V9tz?exp=1588695860880&sig=edb9f67ecbef3dc0a0cdae81930826b4"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "724-6.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/uwcGDHjA.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/kQV9V9tz-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "v2d1g9S5",
+      "title": "Aging and Stress",
+      "summary": "Emotional pain and physical pain are some causes of stress in older people. Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, explains these and more stressors in life, and why it is important to look at the mental health stressors, but also the medical ones of older people.",
+      "published": "2019-07-30T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/v2d1g9S5/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/v2d1g9S5.m3u8?exp=1588695860880&sig=39a552c464bafd212a68332486c0ef3d"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/v2d1g9S5?exp=1588695860880&sig=23f794d8c072b88aa91e7a098f5da5e0"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "724-3.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/U6Gy8t1p.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/v2d1g9S5-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "KB3wxnlj",
+      "title": "Red Flags of Addiction in Older People",
+      "summary": "What should you do if you think someone has an addiction, especially if they are older people? Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation, gives us some signs and symptoms that would suggest an older adult is struggling with an addiction.",
+      "published": "2019-07-30T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/KB3wxnlj/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/KB3wxnlj.m3u8?exp=1588695860880&sig=4e74af30670ba80964e30c2c644c8e46"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/KB3wxnlj?exp=1588695860880&sig=05bd36357908b441f5d31fbcb665aa3d"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "724-5.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/L5bt3QTe.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/KB3wxnlj-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "4ryBjNaF",
+      "title": "Aging & Kidney Disease",
+      "summary": "The older age is a risk factor for kidney disease, especially after the age of 40. Dr. Christian Suarez, Nephrologist with Baptist Health South Florida, affirms after that age people start losing kidney function overtime. \nAccording to the CDC, one of three people with diabetes might have chronic kidney disease. Prolonged high glucose levels in the blood lead to inflammation of the kidney, Dr. Suarez says.\nHaving diabetes is the number one risk factor of kidney disease.",
+      "published": "2019-07-01T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/4ryBjNaF/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/4ryBjNaF.m3u8?exp=1588695860880&sig=8c3d441a73df158cbb0399dc9fcdd373"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/HbCMbjcd83o"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/4ryBjNaF-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "2MLZVZsE",
+      "title": "Causes of Alcohol Addiction",
+      "summary": "Alcohol is socially acceptable and it’s legal, says Brenda Iliff, Executive Director with Hazelden Betty Ford Foundation.\nThe expert says alcohol overdoses in older people are labeled as fall or as a heart attack.\nShe affirms the U.S. health care system is overwhelmed with addictions, which they can be alcohol and drugs, but they can also be food: the obesity epidemic.",
+      "published": "2019-04-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/2MLZVZsE/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/2MLZVZsE.m3u8?exp=1588695860880&sig=9a608f1e058f20d565eeac3aba041663"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/2MLZVZsE?exp=1588695860880&sig=035667c520d5377ce4ac2cd6dbe1ec19"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "547-5.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/xaIdrLcu.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/2MLZVZsE-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "9CzFRkXa",
+      "title": "Common Geriatric Syndromes",
+      "summary": "Some of the most common geriatric syndromes are falls, memory loss, and incontinence. Dr. Brenda Daniels, Geriatrics and Palliative Medicine Physician with Baptist Health South Florida, explains aging is a big factor to be more prone to fall, because of the decreased activity and loss of muscle mass.\n\nAbout memory, she says there is a type of memory issue that is not necessarily qualified as dementia, it is a minor form that affects people and sometimes we think it is just old age, but there are exercises to improve and to work on preventing some of the memory loss.",
+      "published": "2019-02-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/9CzFRkXa/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/9CzFRkXa.m3u8?exp=1588695860880&sig=f7af09efa4b9d2fc632df104461dfb2d"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/9CzFRkXa?exp=1588695860880&sig=18ed912bed1ba756cb3ca19f51136dae"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "510-1.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/lDw8Asvr.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/9CzFRkXa-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "iBAmIRuy",
+      "title": "Senior Care: Preventing Falls",
+      "summary": "Fall is the most common cause of injury visits to emergency room for older adults, it can cause open wounds, fractures and brain injuries.\n\nDr. Brenda Daniels, Geriatrics and Palliative Medicine Physician with Baptist Health South Florida, says the home is a place where most of the falls take place, so people need to focus on what they can do to prevent patients from falling.",
+      "published": "2019-02-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/iBAmIRuy/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/iBAmIRuy.m3u8?exp=1588695860880&sig=9ab972e0fe95af8d6b79701f4abf7b6e"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/iBAmIRuy?exp=1588695860880&sig=0350b790055a059006fb0e2d851e9875"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "510-2.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/pGXtxi10.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/iBAmIRuy-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "cjfnOQOv",
+      "title": "Exercises for Seniors",
+      "summary": "Dr. Brenda Daniels, Geriatrics and Palliative Medicine Physician with Baptist Health South Florida, points out exercise should not be something that is imposed on you like a chore, it should be something you enjoy.\n\nShe also says for seniors the most important thing is to start slow. \"You have to clear it with your doctor that you are able to do a certain type of exercise.\" She explains a good way to start is to exercise 30 minutes two or three times a week.",
+      "published": "2019-02-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/cjfnOQOv/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/cjfnOQOv.m3u8?exp=1588695860880&sig=dc3da2027223c7be125492e5108914f0"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/cjfnOQOv?exp=1588695860880&sig=4907a654c94ee1e2a8d2a8e4a301cb33"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "510-5.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/IY2rn06b.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/cjfnOQOv-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "1CuZ6n9h",
+      "title": "Hearing and Vision Loss in the Elderly",
+      "summary": "Dr. Brenda Daniels, Geriatrics and Palliative Medicine Physician with Baptist Health South Florida, explains as people age, they lose a little bit of vision and hearing, but it is a normal part of aging. \"You need to identify these things so that we can appropriately adjust and compensate them. If you cannot see, that is a potential cause for a fall.\"\n\nShe also says walkers and canes have specific uses and it depends on how much strength you have to determine which type is for you.",
+      "published": "2019-02-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/1CuZ6n9h/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/1CuZ6n9h.m3u8?exp=1588695860880&sig=50b0295f5034652c801712c9ce51e8a7"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/1CuZ6n9h?exp=1588695860880&sig=703b5e6e2ec6eda40b1e7bce017eef57"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "510-3.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/aiaktgsr.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/1CuZ6n9h-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "lmhl5XHK",
+      "title": "Medication for the Elderly",
+      "summary": "Dr. Brenda Daniels, Geriatrics and Palliative Medicine Physician with Baptist Health South Florida, says the time it takes for your body to process a medication might change as you age.\n\nIt is important that older adults talk to their doctor about all drugs they take and their side effects, ask questions about the medicines, follow directions, and not forget to take their medicines.",
+      "published": "2019-02-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/lmhl5XHK/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/lmhl5XHK.m3u8?exp=1588695860880&sig=94c11e105db3ea3cb7e3e0d66c77a0f3"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/lmhl5XHK?exp=1588695860880&sig=37336b84b4a7ceba3083118378f9cf57"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "510-7.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/WOU0AF1J.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/lmhl5XHK-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "Z0Os1b8O",
+      "title": "Senior Life: Physical Activity",
+      "summary": "Dr. Brenda Daniels, Geriatrics and Palliative Medicine Physician with Baptist Health South Florida, says it is good for people to know that exercise does not mean running a half marathon. It doesn't have to be endurance, there is stretching, and different types of exercises that can help you to reach out for things, and to maintain joint function.\n\n\"There are opportunities to work on your physical health and you can start slow and if you get into it then you can continue to bigger and better things.\"",
+      "published": "2019-02-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/Z0Os1b8O/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/Z0Os1b8O.m3u8?exp=1588695860880&sig=f7497d8a8de16c65a6649cf2a2f034eb"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/Z0Os1b8O?exp=1588695860880&sig=f37e0ddb6fd81b8d24cf7c8dc9402ba7"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "510-4.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/L8dzoBuN.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/Z0Os1b8O-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "MTUnLB1V",
+      "title": "Senior Care: Nutrition",
+      "summary": "Dr. Brenda Daniels, Geriatrics and Palliative Medicine Physician with Baptist Health South Florida, says a lot of the issues with people that retire and stay home is that they lose muscle mass and momentum.\n\nShe recommends engaging in some type of activity, whether it is exercise, or art lessons or music lessons to stay physically and mentally active.",
+      "published": "2019-02-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/MTUnLB1V/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/MTUnLB1V.m3u8?exp=1588695860880&sig=1e0224348486e3e5cc478b7ed5b0adb3"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/MTUnLB1V?exp=1588695860880&sig=9442f703e5292300a124c092eed3c1f4"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "510-6.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/0yoQnOTU.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/MTUnLB1V-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "LROAUmqy",
+      "title": "Hospital Challenges in Elder Care",
+      "summary": "Patients live longer nowadays due to medical treatment and technology. They’re experiencing chronic conditions such as sepsis and pneumonia. This is a big challenge for the population, says Janet Maloney, DNP, Assistant Vice President of Nursing Administration with Baptist Hospital. \n\nSandra Amador, ARNP, Medical Surgical Nurse with Baptist Hospital of Miami, states older patients usually have conditions like chronic obstructive pulmonary disease, congestive heart failure, pneumonia, and urinary tract infections that require an acute care.",
+      "published": "2019-01-17T17:31:03+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/LROAUmqy/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/LROAUmqy.m3u8?exp=1588695860880&sig=433afa10473d7c1b474c86b39e994adb"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/LROAUmqy?exp=1588695860880&sig=97e26e6710612b81176e548d506f0570"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "409-1 captions.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/flgJpE9I.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/LROAUmqy-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "i6LDJwLC",
+      "title": "Benefits of  NICHE Program",
+      "summary": "NICHE program helps nurses in order people to have best results in older patient care, as well as to know signs and symptoms that should be searched for.  \nLisette Hurtado, RN, Patient Care Nurse Manager with Baptist Hospital of Miami, affirms the nurses take an extensive core curriculum with the intention of specializing the care.  \nThey identify the needs of patients and apply the program, she says.",
+      "published": "2019-01-17T17:31:03+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/i6LDJwLC/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/i6LDJwLC.m3u8?exp=1588695860880&sig=036e0acd3fc7b1cb90564dbbf3439043"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/i6LDJwLC?exp=1588695860880&sig=a42785ecb5ba0bdc9c6f4803d6da30ec"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "409-6 captions.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/Zetpzcre.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/i6LDJwLC-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "BD8uOjMr",
+      "title": "Goals of the NICHE Program",
+      "summary": "The goals of the NICHE program is the nurses maximize the care that they provide to the elderly patients, explains Janet Maloney, DNP, Assistant Vice President of Nursing Administration with Baptist Hospital.   \n\nThey assist for pain, urinary attention, risks of fall or other problems.",
+      "published": "2019-01-17T17:31:03+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/BD8uOjMr/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/BD8uOjMr.m3u8?exp=1588695860880&sig=e222e461d2a0385c42856f9912498934"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://cdn.jwplayer.com/previews/BD8uOjMr?exp=1588695860880&sig=621b9d12f3ce29aa78e18102c139e578"
+      },
+      "extensions": {
+        "text_tracks": {
+          "version": "1.0",
+          "tracks": [
+            {
+              "label": "409-5 captions.mp4",
+              "kind": "captions",
+              "source": "https://cdn.jwplayer.com/tracks/kOcIMDGZ.srt"
+            }
+          ]
+        },
+        "thumbnails": "https://cdn.jwplayer.com/strips/BD8uOjMr-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "64yN1WCO",
+      "title": "Working Out At Any Age",
+      "summary": "“It's never too old to get started in anyhow lifestyle change and It's\nnever too late to get the benefits from them\", says Henry Guzman, Registered Nurse and Exercise Physiologist with Baptist Health South Florida, who affirms he has seen people at 70 or 80 who started taking up weightlifting and changing their diet.\n\nHe affirms the body reverses the aging process when the change starts at 40, 50, 60 or 70.\n\nWalking is the best exercise he recommends.",
+      "published": "2018-10-15T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/64yN1WCO/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/64yN1WCO.m3u8?exp=1588695860880&sig=b099f72ba7c8aa159c760eab7a2f6e63"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/zOdSyj2br1k"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/64yN1WCO-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "zrDnrrPU",
+      "title": "Starting A Healthy Habit",
+      "summary": "It's very important to start with healthy habits at an early age.\nEating healthy and exercise at a young age will be positively\nreflected in old age.\n\nIntroducing vegetables, fruits, eating at the table with family are\ngood things that parents can do for their kids, affirms Henry Guzman, Registered Nurse and Exercise Physiologist with Baptist Health South Florida.\n\nHe recommends parents to start whit the changes for themselves and then passing them on to their kids.",
+      "published": "2018-10-15T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/zrDnrrPU/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/zrDnrrPU.m3u8?exp=1588695860880&sig=9e7847f83d2fcf8ad28a770f7ffbdcbc"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/zbmKSX9p7hs"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/zrDnrrPU-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "ZJUcriKO",
+      "title": "Stop Smoking For A Healthy Lifestyle",
+      "summary": "Not smoking, being physically active every day, eating a healthy diet, maintaining a healthy weight and body shape, floss, brush and seeing a dentist regularly and discussing with a doctor when having a doubt are some of the steps for a longer and healthy life.\n\nHenry Guzman, Registered Nurse and Exercise Physiologist with Baptist Health South Florida, considers stopping smoking should be number one ever in any healthy lifestyle list, because it is terrible for health.\n\nHe advises to the patients to get help support in case they need it to\nstop smoking.",
+      "published": "2018-10-15T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/ZJUcriKO/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/ZJUcriKO.m3u8?exp=1588695860880&sig=a8174ec753e052b19055eeb40dd86105"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/GNP6mVI-Eio"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/ZJUcriKO-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "RDWfqUUx",
+      "title": "Advance Directives And The Elderly",
+      "summary": "Making arrangements for care before becoming sick, living will and durable power of attorney for healthcare are the most advance directives that elderly people should have.\n\nDr. Milton Jimenez, Primary care Physician with West Kendall Baptist Hospital, considers if aged patients have all of these topics into account, they will promote their autonomy. \n\n“A patient has all the right to decide what kind of care to receive according to his preferences, goals, values and religion. This is the way he expresses his decision,\" the doctor says.",
+      "published": "2018-10-09T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/RDWfqUUx/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/RDWfqUUx.m3u8?exp=1588695860880&sig=d2c0e53cb915261aff86e6349a6d625d"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/IbWC2fhDOpI"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/RDWfqUUx-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "gfUqOsV3",
+      "title": "Take Care At Home",
+      "summary": "65 years of age and more than four medications puts the patient at risk for accidental falls. This is one of the things that the health care taker at home should always discuss with a doctor, considers Doctor Jose Soza, Family medicine specialist at Baptist Health Primary Care.  \n\nThe specialist explains there are multiple medications that physicians put patients on for different health concerns, which may increase the risk for fall. For example, medication to help the patient sleep or anti hypertension medication may increases the risk for fall as well multiple medications are other things.\n\nThe doctor recommends that patients, or the family member, removes, from the area where the patient moves, any obstacle that may prejudice their mobility and the space should always be well lit.",
+      "published": "2018-10-07T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/gfUqOsV3/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/gfUqOsV3.m3u8?exp=1588695860880&sig=3be5eeaf5f3c2204bd9d6ee148c28bf5"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/WbdhLaeH__s"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/gfUqOsV3-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "6Gv7b9xq",
+      "title": "How Does Nutrition Affect The Brain?",
+      "summary": "Diet seems to have some relationship with brain health. Dr. Paul Damski, Neurologist with Baptist Health Neuroscience Center, says the Mediterranean diet can help the heart as well as the brain. \n\nHe explains people who adopted the Mediterranean style tend to have a little bit less salt in their diets, their blood pressure tends to be better controlled and blood pressure management is important to try to reduce the brain damage.",
+      "published": "2018-09-27T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/6Gv7b9xq/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/6Gv7b9xq.m3u8?exp=1588695860880&sig=6d6db69cbe3d5967c62a7855a51ec1aa"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/r6O4-QeN150"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/6Gv7b9xq-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "oRYFwikx",
+      "title": "Understanding Dementia",
+      "summary": "Memory is the main mental function impacted by dementia, but it is necessary to distinguish it from other types of dementia.\n\nOne of the specific types of dementia is primary progressive aphasia (problems with language), but the most common is the Alzheimer's, explains Dr. Paul Damski, Neurologist with Baptist Health Neuroscience Center.\n\nHe says he doesnâ€™t make diagnosis of dementia until someone has a loss function. ",
+      "published": "2018-09-27T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/oRYFwikx/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/oRYFwikx.m3u8?exp=1588695860880&sig=96dc0ed2125e016eb9ecc89ef8cadf88"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/0oGW4W1neLc"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/oRYFwikx-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "bLgy2h75",
+      "title": "Healthy Lifestyle, Healthy Brain",
+      "summary": "Dr. Paul Damski, Neurologist with Baptist Health Neuroscience Center, talks about his personal philosophy towards life: “Do things that seem to be healthy based on the last recommendations by different groups that have been looking into it,\" he says.\n\nIn case of mental health, Dr. Damski advises trying to maintain memory, keeping the body healthy and exercising.   \nMental health, Neurology, Philosophy, Memory, Body health, Exercise, PBS",
+      "published": "2018-09-27T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/bLgy2h75/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/bLgy2h75.m3u8?exp=1588695860880&sig=277ac7ac9f15b807add5fd96b90b5caa"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/Txh3Qv1A_tI"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/bLgy2h75-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "pkPR4sRM",
+      "title": "Supplements Keep The Brain Sharp?",
+      "summary": "There  is not enough medical evidence to prove that supplements help prevent dementia or its related diseases,  affirms Dr. Paul Damski, Neurologist with Baptist Health Neuroscience Center.\n\nHe advises always consulting an expert. ",
+      "published": "2018-09-27T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/pkPR4sRM/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/pkPR4sRM.m3u8?exp=1588695860880&sig=db8d30592a9f244f7c5e281c2724814c"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/xFJNXDnSWUs"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/pkPR4sRM-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "wAL42Zrf",
+      "title": "Aging Changes In Sleep",
+      "summary": "Timothy Grant, Medical Director of Baptist Sleep Center at Baptist Outpatient Services, says it is not true older people need less sleep. \"You need just as much sleep, but you're not very good at it anymore, so you become less efficient at your sleep and as we get older we may take more naps during the day,\" he explains.\n\nHe also says naps are a good thing and the elderly do not have to feel guilty for taking naps during the day.",
+      "published": "2018-09-25T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/wAL42Zrf/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/wAL42Zrf.m3u8?exp=1588695860880&sig=a595fe5e1b28c4da6ffc2c144996b225"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/0vRk53GknfI"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/wAL42Zrf-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "TxQr79TH",
+      "title": "Aging & Balance Issues",
+      "summary": "Dr. Manuel Torres, Primary Care Physician at Baptist Health South Florida, explains vertigo is when the dizziness persists and can be coming from the way that you perceive your surroundings. Your brain is able to interpret your space and if that is not working right you can be diagnosed with vertigo.\n\nHe also says it is important that you discuss that with your doctor and not just searching on Google what you may have, because your doctor can make some evaluations to help you.",
+      "published": "2018-09-23T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/TxQr79TH/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/TxQr79TH.m3u8?exp=1588695860880&sig=602c75f3c67fd1ab7ef781d852b5160e"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/Shz8uEVHqWA"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/TxQr79TH-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "uGx0E2T5",
+      "title": "Avoidable Falls Among Elderly",
+      "summary": "There is an estimated of 31 billion dollars in medical costs every year among elderly falls. Dr. Manuel Torres, Primary Care Physician at Baptist Health South Florida, says these falls can really complicate a slew of chronic medical conditions, like osteoporosis if you have a fracture because of a fall.\n\n\"It is definitely a problem; you need to think about it is never too early to sort of think about the long-term needs or if you have any sort of limitations to your mobility,\" he points out.",
+      "published": "2018-09-23T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/uGx0E2T5/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/uGx0E2T5.m3u8?exp=1588695860880&sig=6c54d4406f3ddf75510aa62ab175bcfd"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/N5UZn5Q_WVA"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/uGx0E2T5-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "rYI21jeQ",
+      "title": "Talking With Seniors About Health And Safety",
+      "summary": "Dr. Manuel Torres, Primary Care Physician at Baptist Health South Florida, says the safety conversation with older people may be an opportunity to review and discuss their situation, their future. He points out the idea of the conversation is to let them know you are about their independence, because it is potentially putting them in danger.\n\nHe recommends rearranging the furniture or putting some extra lights on the way to the bathroom or even going an extra step if there really are severe limitations to their mobility.",
+      "published": "2018-09-23T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/rYI21jeQ/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/rYI21jeQ.m3u8?exp=1588695860880&sig=a074ba82eb117259915afcf7c11ed3be"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/xk8WpnQvXP0"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/rYI21jeQ-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "3RRInKkz",
+      "title": "Preventing Falls At Home",
+      "summary": "Installing handle bars next to toilets and bathtubs or showers and using nonslip mats are useful tips for preventing falls at home, especially for older people.\n\nDr. Manuel Torres, Primary Care Physician at Baptist Health South Florida, says if going from a sitting position to a standing position when you need to use the toilet and that is a challenge for you, because of a knee injury, hip injury or back injury, those are things that have to be considered and improved to help you.",
+      "published": "2018-09-23T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/3RRInKkz/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/3RRInKkz.m3u8?exp=1588695860880&sig=59746bb316a8d5edf5f8d665109a5e6d"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/2LTByRqTlsA"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/3RRInKkz-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "ArPnSliV",
+      "title": "Senior's Susceptibility To Pneumonia",
+      "summary": "Dr. Carol Barrocas, Internal Medicine Physician with Baptist Health South Florida, says that seniors, at their age, have a weaker immune system, susceptible to any type of infection or disease.\n\nShe also says, a lot of seniors are also in skilled nursing facilities where they are exposed quite a bit.\n\nDr. Michelle Brewster, Internal Medicine Physician with Baptist Health South Florida, adds seniors may have others conditions like diabetes, Parkinson's disease or Alzheimer's, which can predispose the development of pneumonia.",
+      "published": "2018-09-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/ArPnSliV/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/ArPnSliV.m3u8?exp=1588695860880&sig=85e7cb17a73612344e03ddaec85e955f"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/WujMqW8Cs34"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/ArPnSliV-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "G2GEoqWn",
+      "title": "Preparing To Become A Caregiver",
+      "summary": "Dr. Jose Vazquez, Internal Medicine Physician with Baptist Health Primary Care, affirms it is very tough to understand what's happening with a relative when Alzheimer's comes.  \nHe considers caregivers need to know the disease, what is going to happen and why this is happening, he says. \nHe advises getting help in a support group, understanding the needs of patients and supporting them.",
+      "published": "2018-08-28T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/G2GEoqWn/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/G2GEoqWn.m3u8?exp=1588695860880&sig=435a834c33755bd36c0e3466de3a8628"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/-tl_dYnAUac"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/G2GEoqWn-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "5SjyEmmD",
+      "title": "Dementia In The Elderly",
+      "summary": "Dementia is an acute mental status change. Samantha Taghva, Internal Medicine Physician at Baptist Health South Florida, says it has signs like forgetting tasks or a cellphone number.\n\nShe explains the problem is it can rapidly progress in some people and dementia can affect the person and the family and it is like watching someone you used to know becoming a different person.",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/5SjyEmmD/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/5SjyEmmD.m3u8?exp=1588695860880&sig=e4631b682ae694af625df1f1045abf7e"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/Cy2T4hJAUD4"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/5SjyEmmD-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "C7uEiM0P",
+      "title": "The Best Exercises For The Elderly",
+      "summary": "Older people have to pick the right exercises to stay healthy and not hurting themselves. Some of them are endurance exercises, such as brisk walking, jogging, dancing, swimming and biking.\n\nSamantha Taghva, Internal Medicine Physician at Baptist Health South Florida, says doing a little bit of biking, even getting on a little stationary bike is a great exercise and there are a lot of benefits because it is a low-impact exercise.\n\nAnother type of exercises is to keep the strength, like lifting weights and using resistance bands.",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/C7uEiM0P/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/C7uEiM0P.m3u8?exp=1588695860880&sig=41f4509166f2e265f4bd454b2019a806"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/_gKbd8QWYZw"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/C7uEiM0P-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "P6uWmNLV",
+      "title": "Learning About Arthritis",
+      "summary": "Arthritis affects more than 50 million and it is the most common cause of disability. Samantha Taghva, Internal Medicine Physician at Baptist Health South Florida, says arthritis builds over time, because you start losing the cartilage and the bone growth.\n\nShe also explains previous injuries can leave you prone to arthritis, so you have to go to the doctor and check your situation, because it can be a debilitating condition.",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/P6uWmNLV/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/P6uWmNLV.m3u8?exp=1588695860880&sig=4d5870de5eb2f7124337d7f4381fdc39"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/Xs0_na3K_S4"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/P6uWmNLV-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "Zc4rkpjO",
+      "title": "Preventing Falls And Fractures",
+      "summary": "Samantha Taghva, Internal Medicine Physician at Baptist Health South Florida, recommends when you have family members that are ageing to be sure to visit them or someone else does it. It is also important for them to start doing physical therapy and being checked out by a neurologist.\n\nA hip fracture has a lot of repercussions. She says after a hip fracture the patients are essentially not the same and it takes away their quality of life.",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/Zc4rkpjO/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/Zc4rkpjO.m3u8?exp=1588695860880&sig=2f7ca205013168c3bd64154b4ef1626e"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/XQCK83unCF8"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/Zc4rkpjO-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "On5SuNXH",
+      "title": "Types Of Arthritis",
+      "summary": "There are different types of arthritis, such as rheumatoid arthritis and gout is a common word in this field. Samantha Taghva, Internal Medicine Physician at Baptist Health South Florida, explains the treatments for all arthritis are different.\n\n\"When you are talking about just general arthritis we are talking about pain control. Gout in itself is completely different, we control it by using agents to decrease the amount of uric acid that people have,\" she says.",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/On5SuNXH/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/On5SuNXH.m3u8?exp=1588695860880&sig=78d969a79e2b535c1fd0ad086605a8af"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/06hk1euvNFQ"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/On5SuNXH-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "5qNhHEjY",
+      "title": "Learning About Osteoarthritis",
+      "summary": "According to the Centers for Disease Control and Prevention, the most common form of arthritis in the United States is osteoarthritis. 14% of adults aged 25 years and older suffer from it.\n\nSamantha Taghva, Internal Medicine Physician at Baptist Health South Florida, says part of the problem with osteoarthritis is that even if you have maybe five pounds more weight on you than your ideal body weight, you are going to be more prone to get osteoarthritis.",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/5qNhHEjY/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/5qNhHEjY.m3u8?exp=1588695860880&sig=95c60bd0b13f46139c23494fa627360b"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/BdYkgnfvm6g"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/5qNhHEjY-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "GoVVe0ae",
+      "title": "Understanding Alzheimer And Dementia",
+      "summary": "Samantha Taghva, Internal Medicine Physician at Baptist Health South Florida, explains Alzheimer is a type of dementia, Alzheimer is just the most common type of dementia and generally it is an umbrella term when doctors couldn't figure out a cause or anything reversible.\n\nTo prevent it, the doctor recommends dance classes to also improving older adult's balance and it might enhance brain areas related to memory.",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/GoVVe0ae/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/GoVVe0ae.m3u8?exp=1588695860880&sig=42afc30d1c4f4e384a37b1b2a92869d7"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/cTPKeSfrdkU"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/GoVVe0ae-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "22ZAb9hy",
+      "title": "Exercise For Healthy Aging",
+      "summary": "Samantha Taghva, Internal Medicine Physician at Baptist Health South Florida, explains exercising increases your good hormones and will give you endorphins.\n\n\"It's going to keep you young and your mind stimulated. Exercise is great,\" she says. She also points out people who exercise look better, they feel better and they are more confident and if you are not in a happy mood, you are probably going to feel better after exercising.    ",
+      "published": "2018-08-13T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/22ZAb9hy/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/22ZAb9hy.m3u8?exp=1588695860880&sig=5824f9f75ba35c8bc96af877c18f4ae8"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/wu7xay1mx8g"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/22ZAb9hy-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "C7CPtwrR",
+      "title": "Learning About Dementia",
+      "summary": "The Huntington's disease is a memory loss which is seen for instance in patients' family members, who are developing dementia in their 40s or 50s.\n\nDr. Jose Soza, Family Medicine Physician with Baptist Health Primary Care, makes some differences between dementia and Alzheimer's. He explains dementia is memory loss, but there are different types of it.\n\nAlzheimer's is one of the types of dementia. For physicians the difficult part is to determine which type of dementia the patient has. Dr. Soza considers a healthy lifestyle in younger ages could help in older ages.",
+      "published": "2018-08-10T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/C7CPtwrR/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/C7CPtwrR.m3u8?exp=1588695860880&sig=de4b3b2380342a7f73347112211b0b8c"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/TGlHl7K2Xq4"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/C7CPtwrR-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "oPBHsnMe",
+      "title": "Dementia: Symptoms & Diagnosis",
+      "summary": "Dementia is a big term, says Dr. Jose Soza, Family Medicine Physician with Baptist Health Primary Care, who affirms there are some reasons for dementia: aging, Alzheimer's, stroke and genetic component.\n\nHowever, the specialist says the most common reason for dementia is chronic memory loss, which is gradually declining in cognitive awareness that occurs in life.",
+      "published": "2018-08-10T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/oPBHsnMe/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/oPBHsnMe.m3u8?exp=1588695860880&sig=02dc35755deffeed2f270d407824e04d"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/i2lfdXfh5sQ"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/oPBHsnMe-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "4r71mjWy",
+      "title": "Dealing With Age",
+      "summary": "The dermatologist is the best specialist that can evaluate what is the correct treatment to prevent aging, explains Dr. Ileana Perez-Quintairos, Dermatologist at Baptist Health South Florida.\n\nThe specialist will say if it is more convenient to use only cosmetics, prescription medications or cosmeceuticals, products to achieve some changes that are similar to the prescription medications but are still over the counter strengths, she affirms.",
+      "published": "2018-07-22T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/4r71mjWy/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/4r71mjWy.m3u8?exp=1588695860880&sig=32da233f119f7d0629f866a5085a0381"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/rzP5jL0fUjg"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/4r71mjWy-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "uxlNhnxo",
+      "title": "Dementia And Baby Boomers",
+      "summary": "Dementia is a natural process which has no cure, says Dr. Andrew Forster, Internal Medicine Physician at Baptist Help Primary Care. \n\nNowadays, it affects the Baby Boomers (the generation born between 1946 and 1964). \n\nThe specialist recommends consulting with a doctor in case of symptoms that may alert you to this condition.",
+      "published": "2018-07-22T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/uxlNhnxo/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/uxlNhnxo.m3u8?exp=1588695860880&sig=511c5e4b5432ba1122cdaaac27341a49"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/XVinKNUDlQc"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/uxlNhnxo-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "Vnp5TF5h",
+      "title": "Life Expectancy",
+      "summary": "Dr. Andrew Forster, Internal Medicine Physician at Baptist Help Primary Care, says that the baby boy born today can expect to live up to 78 years old in the US. In the 60s, the life expectancy was up to 70s. \n\nLife expectancy means how long people would be expected to live, the specialist explains and adds that Japan is in the first place for life expectancy. “Probably due to their diet, not smoking and family support. It's not uncommon these people live into their 90s and even hundred.\"",
+      "published": "2018-07-22T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/Vnp5TF5h/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/Vnp5TF5h.m3u8?exp=1588695860880&sig=30f6ba3129117db1b1c3452b2454e022"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/alUOuJx-X4k"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/Vnp5TF5h-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "Zu41scsk",
+      "title": "Retinoid Is The Best For Anti-Aging",
+      "summary": "Retinoid is one of the products most proven to have anti-aging functions, affirms Dr. Ileana Perez-Quintairos, Dermatologist at Baptist Health at South Florida.\n\nThere are many types of retinoid which the specialist can prescribe. The treatment is designed in steps. It starts with a prescription retinoid, which can cause irritation and inflammation. But with daily use we can build up a tolerance.",
+      "published": "2018-07-22T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/Zu41scsk/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/Zu41scsk.m3u8?exp=1588695860880&sig=ded8999ba2125fc27ec69db14762c12e"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/jIbt5UHtejQ"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/Zu41scsk-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "XoxyQDUz",
+      "title": "Myths About Adult Sexual Life",
+      "summary": "Dr. Andrew Forster, Internal Medicine Physician at Baptist Health Primary Care considers it is necessary to re-educate older people about protecting themselves if they decide to become sexually active.  \n\nHe considers sexual activity is part of life and people should never be ashamed of talking or thinking about it. \n\nAlso, the specialist affirms there are a lot of myths about the adult sexual life, such as her or his equipment doesnâ€™t work, older people shouldnâ€™t have sexual activity and aging body is not sexy, among others.",
+      "published": "2018-07-22T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/XoxyQDUz/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/XoxyQDUz.m3u8?exp=1588695860880&sig=06479d9144ae3ceb7a5099525ea9c739"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/flZGorKjvWk"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/XoxyQDUz-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "pWSUg9D6",
+      "title": "Brain Health",
+      "summary": "Learning a new skill helps the brain to maintain active. Learning a new language, taking classes at community college is a great way to stimulate the brain, considers Dr. Andrew Forster, Internal Medicine Physician at Baptist Health Primary Care. \n\nMany of the diseases can be caused by inflammations, the doctor explains. When these are reduced, the symptoms of any conditions start to reduce. Eating healthy and an exercise routine help reduce the inflammation through the body. \n\nBesides, exercise can improve moods especially in persons with anxiety and depression, the doctor affirms.",
+      "published": "2018-07-22T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/pWSUg9D6/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/pWSUg9D6.m3u8?exp=1588695860880&sig=1a9a5627952a9cd9cfd79f6ce50f5ac9"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/jAO8gghrtHE"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/pWSUg9D6-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "W9AcQXOz",
+      "title": "Senior Exercise",
+      "summary": "People who exercise, especially as they get into older age, do much better and live much longer than people who don't, affirms Dr. Andrew Forster, Internal Medicine Physician at Baptist Health Primary Care.\n\nHe affirms It's not necessary to go to the gym, because with a little bit of exercise, during the day, they add up. \n\nRunning, jogging and walking help strengthen the bones, he says.",
+      "published": "2018-07-22T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/W9AcQXOz/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/W9AcQXOz.m3u8?exp=1588695860880&sig=fe747f577f3c9e60ccbb3fac22560506"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/-7U1BpQhGmI"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/W9AcQXOz-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "Gpuku7PV",
+      "title": "Drowning Risks By Age Group",
+      "summary": "Infants new-born to one-year-old are at risk to drown in bathtubs and buckets, and swimming pools are dangerous for toddlers from 1 to 4 years old. Dr. Fernando Mendoza, Medical Director of the Emergency Department at Baptist Children's Hospital, says babies do not have the muscular straight to sit up well, and you should never trust your child in the bathtub sitting up.\n\nKids from 5 to 11 years old, and adolescents from 12 to 17 years old are at risk to drown in canals, lakes and beaches.",
+      "published": "2018-07-11T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/Gpuku7PV/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/Gpuku7PV.m3u8?exp=1588695860880&sig=c91c7171316d5ac77c842e653391cc36"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/qy4ljIoHxOs"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/Gpuku7PV-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "CkrA3qUb",
+      "title": "Exercise For Older Adults",
+      "summary": "Brian Betancourt, Exercise Physiologist at Baptist Hospital South Florida, says it is possible to exercise at an old age. \"If somebody has some knee arthritis, he can do something simple like stepping up onto a low box,\" he explains.\n\nDiana Solares, Physical Therapist at West Kendall Baptist Hospital, highlights arthritis is a lot of the time the reason why movement is so important, because it is necessary for the knee joint, for example. The way that knee gets nutrition is through movement.",
+      "published": "2018-06-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/CkrA3qUb/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/CkrA3qUb.m3u8?exp=1588695860880&sig=c1d3890cdc3fc71c9be3ab8018176e8c"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/cHcgMoofH0g"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/CkrA3qUb-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "drxLYgQ4",
+      "title": "Aging And Accidental Injuries",
+      "summary": "Dr. Andres Soto, Chief of Hospital Medicine with Baptist Health South Florida, explains as we get older, our cognitive capacity changes, and that is a risk factor to have more falls. \"When you have a fall, a lot of things start going downhill.\"\n\nHe also says diabetes is also a risk factor, because you can have more falls if you have neuropathy, and you cannot know exactly what happened, you can trip something, not feel it and have a fall.",
+      "published": "2018-04-12T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/drxLYgQ4/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/drxLYgQ4.m3u8?exp=1588695860880&sig=665939de72e43c47029d5138a63dfc6f"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/7Z7UFmAdEhQ"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/drxLYgQ4-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "qJrwSRgk",
+      "title": "Learning About Hospitalists",
+      "summary": "Dr. Samantha Taghva, Internal Medicine Physician with Baptist Health South Florida, describes what a hospitalist is. She says he is someone who has internal medicine training. “He doesnâ€™t follow patients out of the hospital, but he deals with them when theyâ€™re acutely sick and in the hospital,\" she adds. \n\nThe doctor gives as an example the case of a patient who arrives at ER in a hospital in which he does not have a treating doctor. She explains that a hospitalist is going to take care of any patient, will come into his case and try to help him.",
+      "published": "2018-04-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/qJrwSRgk/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/qJrwSRgk.m3u8?exp=1588695860880&sig=08bd1b683522dbdcc4b6df4f59407d0b"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://www.youtube.com/watch?v=0TS4GI3LvL0"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/qJrwSRgk-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "nGbjsx3t",
+      "title": "Memory Loss, The First Sign Of Dementia?",
+      "summary": "The way to know that someone has dementia is based on medical and family history, risk factors and some questionnaires to know cognitive status of the patient and his memory, says Dr. Milton Jimenez, Primary care Physician with West Kendall Baptist Hospital.\n\nAlthough there are several medications approved for treating dementia, they do not stop the progression of the disease, the doctor explains.",
+      "published": "2018-03-09T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/nGbjsx3t/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/nGbjsx3t.m3u8?exp=1588695860880&sig=7878be043766e0ec36ea134e296b609d"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/Nky75fPeB7E"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/nGbjsx3t-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "qIEV5OCh",
+      "title": "Detecting Dementia",
+      "summary": "Dementia is a disorder that can affect not only the patients, but also their relatives. \n\nDr. Milton Jimenez, Primary care Physician with West Kendall Baptist Hospital, explains the first symptom of dementia is decreasing memory. “Most of the time is not noticed by the patient self, but someone in the family,\" he says.\n\nAge, type 2 diabetes, stroke and depression are risk factors, the specialist affirms.",
+      "published": "2018-03-09T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/qIEV5OCh/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/qIEV5OCh.m3u8?exp=1588695860880&sig=dcf5bbea1d77a174807691714cf73290"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/wZYjU7uLm4U"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/qIEV5OCh-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "nqLxdx7f",
+      "title": "Joint Replacement Surgery",
+      "summary": "Osteoarthritis is the most common reason to perform a joint replacement surgery according to Dr. Carlos Alvarado, Orthopedic Surgeon with Miami Orthopedics & Sports Medicine Institute. \n\nOsteoarthritis is a degenerative process which damages the joint. It can be knee or hip replacement and the doctor affirms it is a procedure fairly routine.",
+      "published": "2018-03-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/nqLxdx7f/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/nqLxdx7f.m3u8?exp=1588695860880&sig=1150732379b5f497fb53600872aa087c"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/_yxHFabPkmg"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/nqLxdx7f-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "ws6de7TW",
+      "title": "Performing A Joint Replacement Surgery",
+      "summary": "Dr. Carlos Alvarado, Orthopedic Surgeon with Miami Orthopedics & Sports Medicine Institute, explains what the joint replacement surgery is.\n\nThe specialist explains knee replacement is done with a metal implant. In hip replacement procedure, the physician uses metal, ceramic and plastic implant. \n",
+      "published": "2018-03-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/ws6de7TW/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/ws6de7TW.m3u8?exp=1588695860880&sig=962c7b9b525431bac091e6a2ed7618a7"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/NkrTXM6hqs0"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/ws6de7TW-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "lubv9Blo",
+      "title": "When Is It Necessary To Consider Surgery?",
+      "summary": "Severe pain during activities, pain that prevent activities and pain at night that hinders sleeping are the main causes to see the doctor.\n\nThe treatment for hip and knee arthritis is a stepwise management, says Dr. Carlos Alvarado, Orthopedic Surgeon with Miami Orthopedics & Sports Medicine Institute. \n\nIn order to improve the treatment, the doctor advises weight loss, adding anti-inflammatory medication, injections into the knee or hip and surgery for hip or knee replacement.",
+      "published": "2018-03-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/lubv9Blo/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/lubv9Blo.m3u8?exp=1588695860880&sig=087df342b1efc763b77583f9042c7f08"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/N2dqe6cCOYQ"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/lubv9Blo-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "LRRZifQG",
+      "title": "Visiting The Orthopedic Doctor",
+      "summary": "Arthritis is the main reason why people see the physician, says Dr. Carlos Alvarado, Orthopedic Surgeon with Miami Orthopedics & Sports Medicine Institute. \n\nArthritis causes pain and may occur at different times, even at night.\n\nThe specialist considers that when the patient feels that he cannot longer do his daily activities, because of the pain in his joints, it is time to visit the doctor.",
+      "published": "2018-03-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/LRRZifQG/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/LRRZifQG.m3u8?exp=1588695860880&sig=0b863150981ffe239ee62d07eb99a3a5"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/YgGjnzUH6Kw"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/LRRZifQG-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "9B1seO0O",
+      "title": "Hip Replacement Surgery",
+      "summary": "Hip replacement is a very common surgery and Dr. Carlos Alvarado, Orthopedic Surgeon with Miami Orthopedics & Sports Medicine Institute, explains how it is performed and how the replacement works. \n\nThe doctor asserts this procedure guarantees that the area will not degenerate or hurt anymore. \n\n",
+      "published": "2018-03-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/9B1seO0O/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/9B1seO0O.m3u8?exp=1588695860880&sig=e2ea07fe9d753260f6b364c9000fd0f7"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/2a8EaQyxes8"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/9B1seO0O-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "0i3RusRb",
+      "title": "Benefits Of Niche Program",
+      "summary": "NICHE program helps nurses in order people to have best results in older patient care, as well as to know signs and symptoms that should be searched for.  \nLisette Hurtado, RN, Patient Care Nurse Manager with Baptist Hospital of Miami, affirms the nurses take an extensive core curriculum with the intention of specializing the care.  \nThey identify the needs of patients and apply the program, she says.",
+      "published": "2018-01-24T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/0i3RusRb/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/0i3RusRb.m3u8?exp=1588695860880&sig=9ae6e634dd7bd8b27567b667637a0b57"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/BjS59iprlzU"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/0i3RusRb-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "qhmxjm9T",
+      "title": "Depression In Older People",
+      "summary": "Sometimes older people feel alone and that can lead to depression. Teresita Calero, Psychotherapist at Baptist Health Care and Counseling, says they start to pull away and disconnect.\n\nMartin Lopez, also Psychotherapist, points out the benefits of doing activities in groups of senior people: \"A lot of activities have been developed and with them the seniors can go to places together, have fun, forming new communities and friendships.\"",
+      "published": "2018-01-08T00:00:00+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/qhmxjm9T/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": "https://cdn.jwplayer.com/manifests/qhmxjm9T.m3u8?exp=1588695860880&sig=85a372387dad8a0eed97634b0af3ec7a"
+      },
+      "link": {
+        "type": "text/html",
+        "rel": "alternate",
+        "href": "https://youtu.be/3nSSSJgarsE"
+      },
+      "extensions": {
+        "thumbnails": "https://cdn.jwplayer.com/strips/qhmxjm9T-120.vtt",
+        "free": true,
+        "authorization_providers_ids": []
+      }
+    }
+  ],
+  "title": "Senior Life"
+}
