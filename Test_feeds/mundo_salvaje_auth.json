@@ -1,0 +1,1308 @@
+{
+  "id": "356914",
+  "title": "SEASON 2",
+  "author": {
+    "name": "applicaster"
+  },
+  "summary": "",
+  "type": {
+    "value": "feed"
+  },
+  "link": {
+    "type": "atom",
+    "rel": "self",
+    "href": "applicaster://fetchData?type=APPLICASTER_CATEGORY&categoryId=356914&accountId=477&broadcasterId=561&bundleIdentifier=com.hitn.avanza&platform=android"
+  },
+  "content": {
+    "src": "applicaster://fetchData?type=APPLICASTER_CATEGORY&categoryId=356914&accountId=477&broadcasterId=561&bundleIdentifier=com.hitn.avanza&platform=android"
+  },
+  "updated": "2019/11/19 17:41:00 +0000",
+  "ui_tag": "",
+  "screen_type": "",
+  "media_group": [
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "icon_1",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "image_1",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "image_2",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "image_3",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "https://images.applicaster.com/accounts/477/broadcasters/561/categories/356914/image_assets/23589167/original.png?1574693993",
+          "key": "image_base",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "menu_icon",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "navbar_icon",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "navbar_icon_disabled",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "navbar_icon_highlighted",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media_item": [
+        {
+          "src": "",
+          "key": "navbar_icon_selected",
+          "type": "image"
+        }
+      ]
+    }
+  ],
+  "extensions": {
+    "extensions": "{}",
+    "broadcaster_id": 561,
+    "parent_id": 289628,
+    "nature": "Season",
+    "icon_url": null,
+    "link_url": null,
+    "icon82_url": null,
+    "icon120_url": null,
+    "splash_url": null,
+    "broadcast_times": null,
+    "widget_type": null,
+    "ugc_html": "",
+    "preroll_url": null,
+    "top_level_category_id": 187158,
+    "external_id": "",
+    "link": {
+      "url": null,
+      "orientation": 2,
+      "navigation": true,
+      "close_button": true,
+      "enable_zoom": false
+    },
+    "link_type": "default",
+    "color": null,
+    "free": false,
+    "requires_authentication": true,
+    "facebook_object_id": "",
+    "show_voucher_template_id": null,
+    "season_voucher_template_id": null,
+    "item_voucher_template_id": null,
+    "authorization_providers_ids": [
+      51
+    ],
+    "top_level_category": {
+      "color": null,
+      "name": "TU PLANETA"
+    },
+    "show_category": {
+      "color": null,
+      "name": "Mundo Salvaje con Ron Magill"
+    }
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7258065",
+      "title": "Animales Extraordinarios",
+      "summary": "En este episodio de Mundo Salvaje, Ron Magill nos lleva a conocer esos animales que destacan entre la multitud gracias a su extrañeza, inteligencia o características especiales.",
+      "updated": "2019/12/27 20:26:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7258065"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7258065/image_assets/23835314/original.png?1580248305",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP10_PG07598.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7254965",
+      "title": "Animales de sangre fría",
+      "summary": "",
+      "updated": "2019/12/18 16:39:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7254965"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7254965/image_assets/23830757/original.png?1577559778",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP09_PG07597.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7254970",
+      "title": "Defensa animal",
+      "summary": "En este episodio de Mundo Salvaje, Ron Magill nos muestra las tá cticas que usan algunos animales para librarse de temibles depredadores y asegurar su supervivencia.",
+      "updated": "2019/12/18 16:40:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7254970"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7254970/image_assets/23830747/original.png?1577559654",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP08_PG07596.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7254967",
+      "title": "Vida en los árboles",
+      "summary": "En este episodio de Mundo Salvaje, Ron Magill nos lleva a la copa de los árboles para mostrarnos los animales que han escogido ese lugar como su hogar y fuente de sustento.",
+      "updated": "2019/12/18 16:39:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7254967"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7254967/image_assets/23830737/original.png?1577559557",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP07_PG07595.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7243124",
+      "title": "El reto de la vida",
+      "summary": "",
+      "updated": "2019/11/22 16:21:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7243124"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7243124/image_assets/23631161/original.png?1575332344",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP06_PG07594.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7243127",
+      "title": "Ingenio animal",
+      "summary": "",
+      "updated": "2019/11/22 16:21:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7243127"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7243127/image_assets/23631078/original.png?1575332304",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP05_PG07593.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7243123",
+      "title": "Hielo y nieve",
+      "summary": "",
+      "updated": "2019/11/22 16:21:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7243123"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7243123/image_assets/23631068/original.png?1575332297",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP04_PG07592.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7240950",
+      "title": "Vida nocturna",
+      "summary": "",
+      "updated": "2019/11/18 19:37:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7240950"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7240950/image_assets/23631055/original.png?1575332290",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP03_PG07591.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7240951",
+      "title": "Vida en miniatura",
+      "summary": "En este episodio de Mundo Salvaje, Ron Magill nos lleva a conocer algunos de los animales más pequeños que habitan la tierra, sus hábitos y tácticas de supervivencia.",
+      "updated": "2019/11/18 19:37:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7240951"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7240951/image_assets/23589845/original.png?1574197905",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP02_PG07590.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    },
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "7239892",
+      "title": "Gigantes",
+      "summary": "En este episodio de Mundo Salvaje Ron Magill nos presenta cuáles son los animales marinos y terrestres más grandes que existen en la tierra.",
+      "updated": "2019/11/15 19:44:00 +0000",
+      "link": {
+        "rel": "self",
+        "href": "applicaster://fetchData?type=vod_item&itemId=7239892"
+      },
+      "author": {
+        "name": "applicaster"
+      },
+      "content": {
+        "type": "video/hls"
+      },
+      "ui_tag": null,
+      "screen_type": null,
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "icon_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_1",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "image_2",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://images.applicaster.com/accounts/477/broadcasters/561/vod_items/7239892/image_assets/23589835/original.png?1574197762",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "",
+              "key": "large_thumbnail",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "allow_play": true,
+        "broadcaster_id": 561,
+        "link_url": null,
+        "show_name": "Mundo Salvaje con Ron Magill",
+        "season_name": "SEASON 2",
+        "thumbnail_url": null,
+        "splash_url": null,
+        "thumbnail238_url": null,
+        "show_category_id": 289625,
+        "season_category_id": 356914,
+        "hqme": true,
+        "no_delete": false,
+        "auto_download": false,
+        "duration": 0,
+        "category_id": 356914,
+        "external_link": "",
+        "preroll_url": null,
+        "external_id": null,
+        "top_level_category_id": 187158,
+        "video_360": false,
+        "extensions": "{}",
+        "longtitude": "0",
+        "latitude": "0",
+        "external_policy": null,
+        "source_file_name": "MUSRMA02_EP01_PG07589.mp4",
+        "top_level_category": {
+          "color": null,
+          "name": "TU PLANETA"
+        },
+        "free": false,
+        "requires_authentication": true,
+        "facebook_object_id": "",
+        "authorization_providers_ids": [
+          51
+        ],
+        "show_category": {
+          "color": null,
+          "name": "Mundo Salvaje con Ron Magill"
+        }
+      }
+    }
+  ]
+}
