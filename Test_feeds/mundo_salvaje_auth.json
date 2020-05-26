@@ -147,7 +147,7 @@
     "link_type": "default",
     "color": null,
     "free": false,
-    "requires_authentication": true,
+    "requires_authentication": false,
     "facebook_object_id": "",
     "show_voucher_template_id": null,
     "season_voucher_template_id": null,
