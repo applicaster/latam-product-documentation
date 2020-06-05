@@ -1,0 +1,32 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "video"
+      },
+      "id": "asset-73226",
+      "title": "Solutions Test - 73226",
+      "published": "1970-01-19T07:14:18+00:00",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://cdn.jwplayer.com/v2/media/N89fJE7r/poster.jpg?width=720",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "src": ""
+      },
+      "extensions": {
+        "inplayer_asset_id": "73226"
+      }
+    }
+  ]
+}
