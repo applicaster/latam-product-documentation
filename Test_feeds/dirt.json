@@ -1,0 +1,49 @@
+{
+  "id": 3454,
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "3454-0",
+      "type": {
+        "value": "video"
+      },
+      "title": "Valvoline | January 1, 2020 | Vault",
+      "summary": "",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": {
+            "key": "image_base",
+            "src": "https://dirtvision.com/upload/06252020_Lernerville_WoOLMS_PPV.jpg"
+          }
+        }
+      ],
+      "extensions": {
+        "event_id": 3454,
+        "event_inplayer_id": "83989",
+        "event_title": "Firecracker 100",
+        "event_image": "https://dirtvision.com/upload/06252020_Lernerville_WoOLMS_PPV.jpg",
+        "event_content": "&lt;p&gt;Listen LIVE!&lt;/p&gt;",
+        "event_description": "",
+        "event_location": "Lernerville Speedway",
+        "event_date": 1593097200,
+        "event_date_end": 1593151200,
+        "event_series": "World of Outlaws Late Models",
+        "event_live_status": false,
+        "event_car_types": [
+          "latemodel",
+          "other"
+        ],
+        "isLive": false,
+        "callToAction": "Coming Soon",
+        "requires_authentication": true,
+        "ds_product_ids": [
+          "83989"
+        ],
+        "startTimeEast": "Thursday, June 25, 11:00AM EDT"
+      }
+    }
+  ]
+}
