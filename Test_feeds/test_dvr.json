@@ -8,7 +8,7 @@
       "type": {
         "value": "program"
       },
-      "id": "17360",
+      "id":"910",
       "title": "Telemetro Reporta Estelar",
       "author": {
         "name": "1. Telemetro"
@@ -44,7 +44,7 @@
       "type": {
         "value": "program"
       },
-      "id": "17364",
+      "id":"910",
       "title": "Telemetro Reporta Nocturno",
       "author": {
         "name": "1. Telemetro"
@@ -80,7 +80,7 @@
       "type": {
         "value": "program"
       },
-      "id": "340430",
+      "id":"910",
       "title": "Flor Mizrachi Pregunta",
       "author": {
         "name": "1. Telemetro"
@@ -116,7 +116,7 @@
       "type": {
         "value": "program"
       },
-      "id": "441403",
+      "id":"910",
       "title": "Ayudinga",
       "author": {
         "name": "OyeTV"
@@ -152,7 +152,7 @@
       "type": {
         "value": "program"
       },
-      "id": "18804",
+      "id":"910",
       "title": "Oyeland",
       "author": {
         "name": "OyeTV"
@@ -188,7 +188,7 @@
       "type": {
         "value": "program"
       },
-      "id": "441403",
+      "id":"910",
       "title": "Ayudinga",
       "author": {
         "name": "OyeTV"
@@ -224,7 +224,7 @@
       "type": {
         "value": "program"
       },
-      "id": "273908",
+      "id":"910",
       "title": "Acceso Exclusivo Yo Me Llamo",
       "author": {
         "name": "2. Medcom GO 1"
@@ -260,7 +260,7 @@
       "type": {
         "value": "program"
       },
-      "id": "481240",
+      "id":"910",
       "title": "C7 Contra Reloj",
       "author": {
         "name": "2. Medcom GO 2"
@@ -296,7 +296,7 @@
       "type": {
         "value": "program"
       },
-      "id": "467140",
+      "id":"910",
       "title": "Conéctate con la Estrella",
       "author": {
         "name": "2. Medcom GO 3"
@@ -332,7 +332,7 @@
       "type": {
         "value": "program"
       },
-      "id": "443090",
+      "id":"910",
       "title": "Mi Cultura en Casa",
       "author": {
         "name": "2. Medcom GO 3"
@@ -368,7 +368,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119354",
+      "id":"910",
       "title": "Tarde Espectacular",
       "author": {
         "name": "RPC Radio"
@@ -404,7 +404,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119381",
+      "id":"910",
       "title": "Conquistas y Derrotas",
       "author": {
         "name": "RPC Radio"
@@ -440,7 +440,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119501",
+      "id":"910",
       "title": "Noticias Edición de la Tarde",
       "author": {
         "name": "RPC Radio"
@@ -476,7 +476,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119339",
+      "id":"910",
       "title": "Snack Music",
       "author": {
         "name": "Caliente Radio"
@@ -512,7 +512,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119340",
+      "id":"910",
       "title": "Show Party",
       "author": {
         "name": "Caliente Radio"
@@ -548,7 +548,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119341",
+      "id":"910",
       "title": "Prime Time",
       "author": {
         "name": "Caliente Radio"
@@ -584,7 +584,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119322",
+      "id":"910",
       "title": "Con o sin Azúcar",
       "author": {
         "name": "Telemetro Radio"
@@ -620,7 +620,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119323",
+      "id":"910",
       "title": "El Marcador",
       "author": {
         "name": "Telemetro Radio"
@@ -656,7 +656,7 @@
       "type": {
         "value": "program"
       },
-      "id": "119324",
+      "id":"910",
       "title": "Cuéntamelo",
       "author": {
         "name": "Telemetro Radio"
@@ -693,56 +693,56 @@
     "channels": [
       {
         "name": "1. Telemetro",
-        "id": "508",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/telemetro.png",
         "free": true,
         "epg": true
       },
       {
         "name": "OyeTV",
-        "id": "510",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/oyetv.png",
         "free": true,
         "epg": true
       },
       {
         "name": "2. Medcom GO 1",
-        "id": "509",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/mdigital.png",
         "free": true,
         "epg": true
       },
       {
         "name": "2. Medcom GO 2",
-        "id": "1010",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/mdigital2.png",
         "free": true,
         "epg": true
       },
       {
         "name": "2. Medcom GO 3",
-        "id": "1034",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/mdigital3.png",
         "free": true,
         "epg": true
       },
       {
         "name": "RPC Radio",
-        "id": "634",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/rpcradio.png",
         "free": true,
         "epg": true
       },
       {
         "name": "Caliente Radio",
-        "id": "632",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/caliente.png",
         "free": true,
         "epg": true
       },
       {
         "name": "Telemetro Radio",
-        "id": "633",
+        "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/telemetro-radio.png",
         "free": true,
         "epg": true
