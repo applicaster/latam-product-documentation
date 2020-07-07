@@ -30,7 +30,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T13:00:00-0500",
@@ -64,7 +64,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d9cbc550ffcfd4b6db21265.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T18:00:00-0500",
@@ -98,7 +98,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T20:33:00-0500",
@@ -132,7 +132,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T22:50:00-0500",
@@ -166,7 +166,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T12:00:00-0500",
@@ -200,7 +200,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T14:00:00-0500",
@@ -234,7 +234,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T15:00:00-0500",
@@ -268,7 +268,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5da5f316327cbd2772b92d83.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T20:00:00-0500",
@@ -302,7 +302,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5e60fc0687ae056a825e17b7.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T16:00:00-0500",
@@ -336,7 +336,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5e60fc0687ae056a825e17b7.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T20:00:00-0500",
@@ -370,7 +370,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d97c90d1a1a6a07677ca0db.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T13:00:00-0500",
@@ -404,7 +404,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d97c90d1a1a6a07677ca0db.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T14:00:00-0500",
@@ -438,7 +438,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d97c90d1a1a6a07677ca0db.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T14:25:00-0500",
@@ -472,7 +472,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d977ffcbe301a0f0d8e50fb.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T12:00:00-0500",
@@ -506,7 +506,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d977ffcbe301a0f0d8e50fb.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T16:00:00-0500",
@@ -540,7 +540,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d977ffcbe301a0f0d8e50fb.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T19:00:00-0500",
@@ -574,7 +574,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T13:00:00-0500",
@@ -608,7 +608,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T14:00:00-0500",
@@ -642,7 +642,7 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8"
+        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
       },
       "extensions": {
         "start_time": "2020-07-07T15:00:00-0500",
