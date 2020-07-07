@@ -9,13 +9,47 @@
         "value": "program"
       },
       "id":"910",
+      "title": "La Rosa de Guadalupe",
+      "author": {
+        "name": "1. Telemetro"
+      },
+      "summary": "",
+      "published": "2020-07-06T08:44:00-0500",
+      "updated": "2020-07-07T13:27:01-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2017/06/28/17357/la-rosa-de-guadalupe.1280x720.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T13:00:00-0500",
+        "end_time": "2020-07-07T14:30:00-0500",
+        "applicaster_channel_id": "508"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
       "title": "Telemetro Reporta Estelar",
       "author": {
         "name": "1. Telemetro"
       },
       "summary": "",
-      "published": "2020-07-07T08:43:59-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-07-06T08:44:00-0500",
+      "updated": "2020-07-07T13:27:01-0500",
       "media_group": [
         {
           "type": "image",
@@ -30,14 +64,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d9cbc550ffcfd4b6db21265.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T18:00:00-0500",
         "end_time": "2020-07-07T20:00:00-0500",
-        "applicaster_channel_id": "508",
-        "show_id": "17360",
-        "program_name": "Telemetro Reporta Estelar"
+        "applicaster_channel_id": "508"
       }
     },
     {
@@ -45,19 +77,19 @@
         "value": "program"
       },
       "id":"910",
-      "title": "Telemetro Reporta Nocturno",
+      "title": "Yo Me LLamo",
       "author": {
         "name": "1. Telemetro"
       },
       "summary": "",
-      "published": "2020-07-07T08:43:59-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-07-06T08:44:00-0500",
+      "updated": "2020-07-07T13:27:01-0500",
       "media_group": [
         {
           "type": "image",
           "media_item": [
             {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2017/06/28/17364/treporta_1920x1080_marquesinas.1280x720.jpg",
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2019/02/07/236691/marquesina-yomellamo.1280x720.jpg",
               "key": "image_base",
               "type": "image"
             }
@@ -66,14 +98,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8"
       },
       "extensions": {
-        "start_time": "2020-07-07T22:30:00-0500",
+        "start_time": "2020-07-07T20:33:00-0500",
         "end_time": "2020-07-07T23:00:00-0500",
-        "applicaster_channel_id": "508",
-        "show_id": "17364",
-        "program_name": "Telemetro Reporta Nocturno"
+        "applicaster_channel_id": "508"
       }
     },
     {
@@ -81,19 +111,19 @@
         "value": "program"
       },
       "id":"910",
-      "title": "Flor Mizrachi Pregunta",
+      "title": "Post Show Yo Me Llamo",
       "author": {
-        "name": "1. Telemetro"
+        "name": "3. RPCTV"
       },
       "summary": "",
-      "published": "2020-07-07T08:43:59-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-06-29T12:19:44-0500",
+      "updated": "2020-07-07T13:27:01-0500",
       "media_group": [
         {
           "type": "image",
           "media_item": [
             {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2017/06/28/17168/telemetro-channel.1280x720.jpg",
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2020/03/09/435519/marquesina_2.1280x720.jpg",
               "key": "image_base",
               "type": "image"
             }
@@ -102,194 +132,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8"
       },
       "extensions": {
-        "start_time": "2020-07-07T23:00:00-0500",
-        "end_time": "2020-07-07T23:30:00-0500",
-        "applicaster_channel_id": "508",
-        "show_id": "340430",
-        "program_name": "Flor Mizrachi Pregunta"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "Ayudinga",
-      "author": {
-        "name": "OyeTV"
-      },
-      "summary": "",
-      "published": "2020-07-24T10:59:00-0500",
-      "updated": "2020-07-07T14:58:02-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2020/03/16/441403/marquesinaayudinga.1280x720.png",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T14:00:00-0500",
-        "end_time": "2020-07-07T15:00:00-0500",
-        "applicaster_channel_id": "510",
-        "show_id": "441403",
-        "program_name": "Ayudinga"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "Oyeland",
-      "author": {
-        "name": "OyeTV"
-      },
-      "summary": "",
-      "published": "2020-07-24T10:59:00-0500",
-      "updated": "2020-07-07T14:58:02-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2017/06/28/17170/oye-medcomgo-1920x1080.1280x720.jpg",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T15:00:00-0500",
-        "end_time": "2020-07-07T15:30:00-0500",
-        "applicaster_channel_id": "510",
-        "show_id": "18804",
-        "program_name": "Oyeland"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "Ayudinga",
-      "author": {
-        "name": "OyeTV"
-      },
-      "summary": "",
-      "published": "2020-07-24T10:59:00-0500",
-      "updated": "2020-07-07T14:58:02-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2020/03/16/441403/marquesinaayudinga.1280x720.png",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T15:30:00-0500",
-        "end_time": "2020-07-07T16:30:00-0500",
-        "applicaster_channel_id": "510",
-        "show_id": "441403",
-        "program_name": "Ayudinga"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "Acceso Exclusivo Yo Me Llamo",
-      "author": {
-        "name": "2. Medcom GO 1"
-      },
-      "summary": "",
-      "published": "2020-07-04T08:55:40-0500",
-      "updated": "2020-07-07T14:58:02-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2019/04/22/273908/marquesina_3.1280x720.jpg",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T20:00:00-0500",
-        "end_time": "2020-07-07T21:10:00-0500",
-        "applicaster_channel_id": "509",
-        "show_id": "273908",
-        "program_name": "Acceso Exclusivo Yo Me Llamo"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "C7 Contra Reloj",
-      "author": {
-        "name": "2. Medcom GO 2"
-      },
-      "summary": "",
-      "published": "2020-07-03T18:58:15-0500",
-      "updated": "2020-07-07T14:58:02-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2020/06/17/481240/poster-960x540.1280x720.jpg",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T17:00:00-0500",
-        "end_time": "2020-07-07T17:35:00-0500",
-        "applicaster_channel_id": "1010",
-        "show_id": "481240",
-        "program_name": "C7 Contra Reloj"
+        "start_time": "2020-07-07T22:50:00-0500",
+        "end_time": "2020-07-07T23:35:00-0500",
+        "applicaster_channel_id": "511"
       }
     },
     {
@@ -299,11 +147,11 @@
       "id":"910",
       "title": "Conéctate con la Estrella",
       "author": {
-        "name": "2. Medcom GO 3"
+        "name": "OyeTV"
       },
       "summary": "",
-      "published": "2020-05-18T08:40:17-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-06-24T10:59:01-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -318,14 +166,148 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T12:00:00-0500",
+        "end_time": "2020-07-07T14:00:00-0500",
+        "applicaster_channel_id": "510"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
+      "title": "Ayudinga",
+      "author": {
+        "name": "OyeTV"
+      },
+      "summary": "",
+      "published": "2020-06-24T10:59:01-0500",
+      "updated": "2020-07-07T13:27:02-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2020/03/16/441403/marquesinaayudinga.1280x720.png",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T14:00:00-0500",
+        "end_time": "2020-07-07T15:00:00-0500",
+        "applicaster_channel_id": "510"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
+      "title": "Oyeland",
+      "author": {
+        "name": "OyeTV"
+      },
+      "summary": "",
+      "published": "2020-06-24T10:59:01-0500",
+      "updated": "2020-07-07T13:27:02-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2017/06/28/17170/oye-medcomgo-1920x1080.1280x720.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T15:00:00-0500",
+        "end_time": "2020-07-07T15:30:00-0500",
+        "applicaster_channel_id": "510"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
+      "title": "Dual Yo Me Llamo",
+      "author": {
+        "name": "2. Medcom GO 1"
+      },
+      "summary": "",
+      "published": "2020-07-07T09:08:41-0500",
+      "updated": "2020-07-07T13:27:02-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2020/06/01/474698/marquesina_1.1280x720.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5da5f316327cbd2772b92d83.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T20:00:00-0500",
+        "end_time": "2020-07-07T23:00:00-0500",
+        "applicaster_channel_id": "509"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
+      "title": "Conéctate con la Estrella",
+      "author": {
+        "name": "2. Medcom GO 3"
+      },
+      "summary": "",
+      "published": "2020-05-18T08:40:17-0500",
+      "updated": "2020-07-07T13:27:02-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2020/05/11/467140/960x540.1280x720.png",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5e60fc0687ae056a825e17b7.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T16:00:00-0500",
         "end_time": "2020-07-07T18:00:00-0500",
-        "applicaster_channel_id": "1034",
-        "show_id": "467140",
-        "program_name": "Conéctate con la Estrella"
+        "applicaster_channel_id": "1034"
       }
     },
     {
@@ -339,7 +321,7 @@
       },
       "summary": "",
       "published": "2020-05-18T08:40:17-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -354,14 +336,80 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5e60fc0687ae056a825e17b7.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T20:00:00-0500",
         "end_time": "2020-07-07T22:00:00-0500",
-        "applicaster_channel_id": "1034",
-        "show_id": "443090",
-        "program_name": "Mi Cultura en Casa"
+        "applicaster_channel_id": "1034"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
+      "title": "Tiempo Extra Radio",
+      "author": {
+        "name": "RPC Radio"
+      },
+      "summary": "",
+      "published": "2020-06-07T15:16:00-0500",
+      "updated": "2020-07-07T13:27:02-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2018/05/30/116380/rpc-radio-medcom-go.1280x720.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5d97c90d1a1a6a07677ca0db.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T13:00:00-0500",
+        "end_time": "2020-07-07T14:00:00-0500",
+        "applicaster_channel_id": "634"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
+      "title": "Carrusel Hípico",
+      "author": {
+        "name": "RPC Radio"
+      },
+      "summary": "",
+      "published": "2020-06-07T15:16:00-0500",
+      "updated": "2020-07-07T13:27:02-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2018/05/30/116380/rpc-radio-medcom-go.1280x720.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5d97c90d1a1a6a07677ca0db.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T14:00:00-0500",
+        "end_time": "2020-07-07T14:25:00-0500",
+        "applicaster_channel_id": "634"
       }
     },
     {
@@ -374,8 +422,8 @@
         "name": "RPC Radio"
       },
       "summary": "",
-      "published": "2020-07-07T15:15:59-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-06-07T15:16:00-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -390,86 +438,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d97c90d1a1a6a07677ca0db.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T14:25:00-0500",
         "end_time": "2020-07-07T16:00:00-0500",
-        "applicaster_channel_id": "634",
-        "show_id": "119354",
-        "program_name": "Tarde Espectacular"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "Conquistas y Derrotas",
-      "author": {
-        "name": "RPC Radio"
-      },
-      "summary": "",
-      "published": "2020-07-07T15:15:59-0500",
-      "updated": "2020-07-07T14:58:02-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2018/05/30/116380/rpc-radio-medcom-go.1280x720.jpg",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T16:00:00-0500",
-        "end_time": "2020-07-07T17:00:00-0500",
-        "applicaster_channel_id": "634",
-        "show_id": "119381",
-        "program_name": "Conquistas y Derrotas"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "Noticias Edición de la Tarde",
-      "author": {
-        "name": "RPC Radio"
-      },
-      "summary": "",
-      "published": "2020-07-07T15:15:59-0500",
-      "updated": "2020-07-07T14:58:02-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2018/05/30/116380/rpc-radio-medcom-go.1280x720.jpg",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T17:00:00-0500",
-        "end_time": "2020-07-07T19:00:00-0500",
-        "applicaster_channel_id": "634",
-        "show_id": "119501",
-        "program_name": "Noticias Edición de la Tarde"
+        "applicaster_channel_id": "634"
       }
     },
     {
@@ -482,8 +456,8 @@
         "name": "Caliente Radio"
       },
       "summary": "",
-      "published": "2020-05-14T21:24:15-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-05-14T21:24:16-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -498,14 +472,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d977ffcbe301a0f0d8e50fb.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T12:00:00-0500",
         "end_time": "2020-07-07T16:00:00-0500",
-        "applicaster_channel_id": "632",
-        "show_id": "119339",
-        "program_name": "Snack Music"
+        "applicaster_channel_id": "632"
       }
     },
     {
@@ -518,8 +490,8 @@
         "name": "Caliente Radio"
       },
       "summary": "",
-      "published": "2020-05-14T21:24:15-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-05-14T21:24:16-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -534,14 +506,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d977ffcbe301a0f0d8e50fb.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T16:00:00-0500",
         "end_time": "2020-07-07T19:00:00-0500",
-        "applicaster_channel_id": "632",
-        "show_id": "119340",
-        "program_name": "Show Party"
+        "applicaster_channel_id": "632"
       }
     },
     {
@@ -554,8 +524,8 @@
         "name": "Caliente Radio"
       },
       "summary": "",
-      "published": "2020-05-14T21:24:15-0500",
-      "updated": "2020-07-07T14:58:02-0500",
+      "published": "2020-05-14T21:24:16-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -570,14 +540,46 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d977ffcbe301a0f0d8e50fb.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T19:00:00-0500",
         "end_time": "2020-07-07T22:00:00-0500",
-        "applicaster_channel_id": "632",
-        "show_id": "119341",
-        "program_name": "Prime Time"
+        "applicaster_channel_id": "632"
+      }
+    },
+    {
+      "type": {
+        "value": "program"
+      },
+      "id":"910",
+      "title": "Habla Ahora",
+      "author": {
+        "name": "Telemetro Radio"
+      },
+      "summary": "",
+      "published": "2020-04-01T13:08:39-0500",
+      "updated": "2020-07-07T13:27:02-0500",
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://zafiro.medcom.com.pa/site/assets/files/2018/05/30/116409/telemetro-radio-medcom-go.1280x720.jpg",
+              "key": "image_base",
+              "type": "image"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "type": "video/hls",
+        "src": "https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8"
+      },
+      "extensions": {
+        "start_time": "2020-07-07T13:00:00-0500",
+        "end_time": "2020-07-07T14:00:00-0500",
+        "applicaster_channel_id": "633"
       }
     },
     {
@@ -590,8 +592,8 @@
         "name": "Telemetro Radio"
       },
       "summary": "",
-      "published": "2020-04-01T13:08:38-0500",
-      "updated": "2020-07-07T14:58:03-0500",
+      "published": "2020-04-01T13:08:39-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -606,14 +608,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T14:00:00-0500",
         "end_time": "2020-07-07T15:00:00-0500",
-        "applicaster_channel_id": "633",
-        "show_id": "119322",
-        "program_name": "Con o sin Azúcar"
+        "applicaster_channel_id": "633"
       }
     },
     {
@@ -626,8 +626,8 @@
         "name": "Telemetro Radio"
       },
       "summary": "",
-      "published": "2020-04-01T13:08:38-0500",
-      "updated": "2020-07-07T14:58:03-0500",
+      "published": "2020-04-01T13:08:39-0500",
+      "updated": "2020-07-07T13:27:02-0500",
       "media_group": [
         {
           "type": "image",
@@ -642,50 +642,12 @@
       ],
       "content": {
         "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
+        "src": "https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8"
       },
       "extensions": {
         "start_time": "2020-07-07T15:00:00-0500",
         "end_time": "2020-07-07T16:00:00-0500",
-        "applicaster_channel_id": "633",
-        "show_id": "119323",
-        "program_name": "El Marcador"
-      }
-    },
-    {
-      "type": {
-        "value": "program"
-      },
-      "id":"910",
-      "title": "Cuéntamelo",
-      "author": {
-        "name": "Telemetro Radio"
-      },
-      "summary": "",
-      "published": "2020-04-01T13:08:38-0500",
-      "updated": "2020-07-07T14:58:03-0500",
-      "media_group": [
-        {
-          "type": "image",
-          "media_item": [
-            {
-              "src": "https://zafiro.medcom.com.pa/site/assets/files/2018/05/30/116409/telemetro-radio-medcom-go.1280x720.jpg",
-              "key": "image_base",
-              "type": "image"
-            }
-          ]
-        }
-      ],
-      "content": {
-        "type": "video/hls",
-        "src": "https://reshet-live.ctedgecdn.net/13tv-desktop/r13.m3u8?DVR=true"
-      },
-      "extensions": {
-        "start_time": "2020-07-07T16:00:00-0500",
-        "end_time": "2020-07-07T18:00:00-0500",
-        "applicaster_channel_id": "633",
-        "show_id": "119324",
-        "program_name": "Cuéntamelo"
+        "applicaster_channel_id": "633"
       }
     }
   ],
@@ -695,6 +657,13 @@
         "name": "1. Telemetro",
         "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/telemetro.png",
+        "free": true,
+        "epg": true
+      },
+      {
+        "name": "3. RPCTV",
+        "id":"910",
+        "logo": "https://zafiro.medcom.com.pa/site/templates/images/rpctv.png",
         "free": true,
         "epg": true
       },
@@ -709,13 +678,6 @@
         "name": "2. Medcom GO 1",
         "id":"910",
         "logo": "https://zafiro.medcom.com.pa/site/templates/images/mdigital.png",
-        "free": true,
-        "epg": true
-      },
-      {
-        "name": "2. Medcom GO 2",
-        "id":"910",
-        "logo": "https://zafiro.medcom.com.pa/site/templates/images/mdigital2.png",
         "free": true,
         "epg": true
       },
