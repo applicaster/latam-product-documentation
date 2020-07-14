@@ -16,7 +16,7 @@
           "type": "image",
           "media_item": [
             {
-              "src": "https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Test_feeds/hotel%20transylvania%203.jpg",
+              "src": "https://raw.githubusercontent.com/applicaster/latam-product-documentation/master/Test_feeds/1*H4uRiNgUl25PCP0r4S3tSg.jpeg",
               "key": "image_base"
             }
           ]
