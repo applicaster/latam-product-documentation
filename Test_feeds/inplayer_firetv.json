@@ -23,7 +23,7 @@
         }
       ],
       "extensions": {
-        "inplayer_asset_id": "126383",
+        "inplayer_asset_type": "jw",
         "requires_authentication": true
       }
     },
@@ -47,7 +47,7 @@
         }
       ],
       "extensions": {
-        "inplayer_asset_id": "126382",
+        "inplayer_asset_type": "jw",
         "requires_authentication": true
       }
     },
@@ -71,7 +71,7 @@
         }
       ],
       "extensions": {
-        "inplayer_asset_id": "126380",
+        "inplayer_asset_type": "jw",
         "requires_authentication": true
       }
     },
@@ -95,7 +95,7 @@
         }
       ],
       "extensions": {
-        "inplayer_asset_id": "126311",
+        "inplayer_asset_type": "jw",
         "requires_authentication": true
       }
     }
